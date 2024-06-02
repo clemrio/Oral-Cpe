@@ -1,9 +1,15 @@
 #!/bin/bash
 
-# Vérifiez si pandoc est installé
+# Vérifiez si pandoc et ImageMagick sont installés
 if ! command -v pandoc &> /dev/null
 then
     echo "pandoc n'est pas installé. Vous pouvez l'installer via Homebrew : brew install pandoc"
+    exit
+fi
+
+if ! command -v convert &> /dev/null
+then
+    echo "ImageMagick n'est pas installé. Vous pouvez l'installer via Homebrew : brew install imagemagick"
     exit
 fi
 
@@ -25,18 +31,23 @@ fi
 # Fichier de sortie
 OUTPUT_FILE="Readme.md"
 TEMP_FILE="temp.md"
+IMG_DIR="images"
 
 # Supprimez le fichier de sortie s'il existe déjà
 if [ -f "$OUTPUT_FILE" ]; then
     rm "$OUTPUT_FILE"
 fi
 
+# Créez le répertoire d'images s'il n'existe pas
+mkdir -p "$IMG_DIR"
+
 # En-tête du fichier Readme.md
 echo "# Sommaire" > "$OUTPUT_FILE"
 echo "" >> "$OUTPUT_FILE"
 
 # Parcourez et fusionnez tous les fichiers .docx en Readme.md
-for FILE in "$DIRECTORY"/*.docx; do
+# Trier les fichiers par numéro dans le titre
+for FILE in $(ls "$DIRECTORY"/*.docx | sort -V); do
     if [ -f "$FILE" ]; then
         # Obtenez le nom du fichier sans extension
         FILENAME=$(basename "$FILE" .docx)
@@ -57,6 +68,20 @@ for FILE in "$DIRECTORY"/*.docx; do
         # Ajouter le contenu nettoyé au fichier de sortie
         cat "$TEMP_FILE" >> "$OUTPUT_FILE"
         echo -e "\n\n" >> "$OUTPUT_FILE"  # Ajoutez des nouvelles lignes entre les fichiers
+        
+        # Convertir le fichier docx en PDF puis en PNG pour les tableaux
+        PDF_FILE="$IMG_DIR/$FILENAME.pdf"
+        PNG_FILE="$IMG_DIR/$FILENAME.png"
+        
+        # Convertir en PDF
+        pandoc "$FILE" -o "$PDF_FILE"
+        
+        # Convertir en PNG
+        convert -density 300 "$PDF_FILE" -quality 100 "$PNG_FILE"
+        
+        # Insérer l'image dans le fichier Markdown
+        echo "![Tableau $FILENAME]($PNG_FILE)" >> "$OUTPUT_FILE"
+        echo -e "\n\n" >> "$OUTPUT_FILE"
     fi
 done
 
