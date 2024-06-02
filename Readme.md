@@ -90,7 +90,7 @@ Gouvernement.fr](https://www.gouvernement.fr/action/l-ecole-inclusive)
 
         -   Lien avec les familles (coéducation 2013)
 
-```{=html}
+```
 
 ```
 -   Concerne une population d'élève très variée : inclusion concerne les
@@ -522,7 +522,7 @@ enfants :]**
     générale de l\'enseignement scolaire
     (education.fr)](https://eduscol.education.fr/2187/ouvrir-l-ecole-aux-parents-pour-la-reussite-des-enfants)
 
-```{=html}
+```
 
 ```
 -   [Dispositif Ouvrir l\'École aux parents pour la réussite des
@@ -530,7 +530,7 @@ enfants :]**
     Nationale et de la
     Jeunesse](https://www.education.gouv.fr/bo/14/Hebdo47/MENE1428228C.htm?cid_bo=84351)
 
-```{=html}
+```
 
 ```
 -   [Objectifs - Présentation de l\'opération - Réseau Canopé
@@ -569,7 +569,7 @@ dans les réunions/instances ; existence d'un espace pour les parents
 |         fonctionnement de        | -   **Favoriser et mettre en     |
 |         l'établissement          |     avant l'implication des      |
 |                                  |     parents**                    |
-|     ```{=html}                   |                                  |
+|     ```                   |                                  |
 |                          | Intégrer la coéducation dans le  |
 |     ```                          | projet établissement ;           |
 |     -   Organiser une visite de  | multiplier les temps             |
@@ -849,7 +849,7 @@ l'établissement sur la question de l'EDD
 | -   Travailler avec la com éduc  | -   **Sensibiliser aux enjeux du |
 |     sur le **projet établ** (axe |     DD**                         |
 |     sur l'EDD)                   |                                  |
-|                                  | ```{=html}                       |
+|                                  | ```                       |
 | -   **Travailler collectivement  |                          |
 |     à :**                        | ```                              |
 |                                  | -   **Mettre en place élection   |
@@ -864,7 +864,7 @@ l'établissement sur la question de l'EDD
 |                                  | -   **Sensibiliser la com        |
 | Prendre des responsabilités pour |     éducative**                  |
 | impulser une dynamique EDD       |                                  |
-|                                  | ```{=html}                       |
+|                                  | ```                       |
 | Favoriser la liaison             |                          |
 | école-collège pour travailler    | ```                              |
 | sur la question du DD            | -   Mettre en place des actions  |
@@ -884,13 +884,13 @@ l'établissement sur la question de l'EDD
 |                                  | -   Sensibiliser sous forme      |
 |                                  |     d'actions de solidarité      |
 |                                  |                                  |
-|                                  | ```{=html}                       |
+|                                  | ```                       |
 |                                  |                          |
 |                                  | ```                              |
 |                                  | -   **S'impliquer dans des       |
 |                                  |     actions EDD**                |
 |                                  |                                  |
-|                                  | ```{=html}                       |
+|                                  | ```                       |
 |                                  |                          |
 |                                  | ```                              |
 |                                  | -   S'engager dans une démarche  |
@@ -914,7 +914,7 @@ l'établissement sur la question de l'EDD
 |                                  |     cantine (grande et petite    |
 |                                  |     assiette)                    |
 |                                  |                                  |
-|                                  | ```{=html}                       |
+|                                  | ```                       |
 |                                  |                          |
 |                                  | ```                              |
 |                                  | -   **Prendre des                |
@@ -922,7 +922,7 @@ l'établissement sur la question de l'EDD
 |                                  |     impulser une dynamique EDD   |
 |                                  |     dans son environnement**     |
 |                                  |                                  |
-|                                  | ```{=html}                       |
+|                                  | ```                       |
 |                                  |                          |
 |                                  | ```                              |
 |                                  | -   Rédaction d'une charte       |
@@ -1402,7 +1402,7 @@ Jeunesse](https://www.education.gouv.fr/la-laicite-l-ecole-12482)
     révolution française va poser les principes mis en œuvre dans la
     loi. L'état civil pendant la révolution est laïcisé.
 
-```{=html}
+```
 
 ```
 -   **1882** : Jules FERRY rend l'enseignement [obligatoire]
@@ -1569,7 +1569,7 @@ d'emprisonnement et de 45 000 euros d'amende.
 |     de droits dans               |                                  |
 |     l'établissement**            | -   Investir dans la **journée   |
 |                                  |     de la laïcité** (9           |
-| ```{=html}                       |     décembre) : activités ; mise |
+| ```                       |     décembre) : activités ; mise |
 |                          |     en place d'ateliers débats : |
 | ```                              |     impliquer l'ensemble de la   |
 | -   Informer les élèves sur la   |     com éduc, prof doc, prof EMC |
@@ -2036,7 +2036,7 @@ l\'éducation et de la culture.
 
 -   Communication et collaboration
 
-```{=html}
+```
 
 ```
 -   **[Eduque à la citoyenneté numérique]**
@@ -2088,7 +2088,7 @@ l\'éducation et de la culture.
         critique] lors qu'ils recourent aux technologies de
         l'information et de la communication.
 
-```{=html}
+```
 
 ```
 -   **[Prévenir et réduire les cyber violences]** L'école
@@ -2122,7 +2122,7 @@ l\'éducation et de la culture.
         -   **C2.** Garantir, en lien avec les autres personnels, le
             respect des règles de vie et de droits dans l'établissement
 
-```{=html}
+```
 
 ```
 -   **[Suivi des élèves par ENT]**
@@ -2133,7 +2133,7 @@ l\'éducation et de la culture.
         et de collaboration entre ses usagers. **[Offre des
         services]** :
 
-```{=html}
+```
 
 ```
 -   **Pédagogiques** cahier de texte numérique espace de travail et de
@@ -2223,7 +2223,7 @@ l\'éducation et de la culture.
         libres et éclairés, est une composante des actions relatives aux
         valeurs de la République et doit être renforcée.
 
-```{=html}
+```
 
 ```
 -   **2023 Pap Ndiaye **: [Stratégie du numérique pour l'éducation
@@ -3636,7 +3636,7 @@ justice au sein de l'établissement, RI
 | valeur de la Rép (vivre          |     le projet établ sur le volet |
 | ensemble, respect, écoute        |     éducatif**                   |
 | bienveillante) et faire en sorte |                                  |
-| que l'ensemble des élèves        | ```{=html}                       |
+| que l'ensemble des élèves        | ```                       |
 | connaissent leurs droits et      |                          |
 | devoirs**                        | ```                              |
 |                                  | -   Conseiller chef sur          |
@@ -3653,7 +3653,7 @@ justice au sein de l'établissement, RI
 |                                  |         éducative + impact +     |
 | -   HVC : avec PP, expliciter    |         conséquences**           |
 |     RI + travail de groupe sur   |                                  |
-|     la réalisation d'une charte  | ```{=html}                       |
+|     la réalisation d'une charte  | ```                       |
 |     de civilité                  |                          |
 |                                  | ```                              |
 | **[Objectif ]:       | -   Favoriser com non violente   |
@@ -3678,7 +3678,7 @@ justice au sein de l'établissement, RI
 |                                  |     -   **Travailler avec les    |
 |                                  |         familles**               |
 |                                  |                                  |
-|                                  | ```{=html}                       |
+|                                  | ```                       |
 |                                  |                          |
 |                                  | ```                              |
 |                                  | -   Réunion avec parents pour    |
@@ -4251,7 +4251,7 @@ environnement de l'établissement ; implication des équipes péda et
 | -   **Travailler collectivement  | Réunion de rentrée /             |
 |     à** :                        | trimestriel ; règles établ ;     |
 |                                  | participation dans instances ;   |
-| ```{=html}                       | échanges réguliers               |
+| ```                       | échanges réguliers               |
 |                          |                                  |
 | ```                              | [Travail avec équipe péda,       |
 | -   Développer un sentiment de   | médico-social et                 |
@@ -4424,7 +4424,7 @@ premier jeudi du mois du novembre)
 
 -   Evite les conséquences du harcèlement
 
-```{=html}
+```
 
 ```
 -   Après la création des ambassadeurs réalisation d'un trombinoscope
@@ -4566,7 +4566,7 @@ Qui doivent répondre à 4 principes :
 -   **Socialisation** : la sanction doit s'accompagner d'un geste du
     coupable à l'attention de la victime
 
-```{=html}
+```
 
 ```
 -   Mauvaise gestion de l'espace propice aux comportements perturbateurs
@@ -4898,7 +4898,7 @@ Taux de DS est inférieur à 10% = objectif atteint
     central] :** Faire que chaque jeune puisse construire
     son avenir professionnel et réussir sa vie en société
 
-```{=html}
+```
 
 ```
 -   **C5 **: Accompagner le parcours de l'élève sur les plans
@@ -4913,7 +4913,7 @@ Taux de DS est inférieur à 10% = objectif atteint
     dans l'établissement, les aider à percevoir leurs capacités et à
     envisager un projet.
 
-```{=html}
+```
 
 ```
 -   **[Réduire les inégalités scolaires]**
@@ -4939,7 +4939,7 @@ Taux de DS est inférieur à 10% = objectif atteint
     -   CPE = mission de référent DS qu'il peut accepter = sécurisation
         des parcours des élèves
 
-```{=html}
+```
 
 ```
 -   **[Améliorer le bien-être et le climat scolaire]**
@@ -4979,7 +4979,7 @@ Taux de DS est inférieur à 10% = objectif atteint
     à eux-mêmes après l'école et d'autres aidés par les parents, ce qui
     provoque des inégalités entre les élèves
 
-```{=html}
+```
 
 ```
 -   Affecte la qualité de vie à l'école et la santé des élèves. Il
@@ -5009,13 +5009,13 @@ Taux de DS est inférieur à 10% = objectif atteint
     repérage et un suivi des jeunes qui quittent le système éducatif
     sans qualification.
 
-```{=html}
+```
 
 ```
 -   **2011 :** Circulaire sur l'obligation scolaire -- vaincre
     l'absentéisme  priorité absolue, mobiliser tous les acteurs
 
-```{=html}
+```
 
 ```
 -   **2013 Peillon **: diviser par 2 le nombre de décrocheur, lutte
@@ -5098,7 +5098,7 @@ scolaire sans diplôme.**
         formation et de ceux âgés de 16 à 18 ans, dorénavant soumis à
         l\'obligation de formation.
 
-```{=html}
+```
 
 ```
 -   Parcours Avenir (2015) [Le parcours Avenir \| Ministère de
@@ -5168,7 +5168,7 @@ CVC, CVL**
 
     -   Ennui
 
-```{=html}
+```
 
 ```
 -   **Difficultés liées à l'établissement scolaire**
@@ -5347,7 +5347,7 @@ Perscol](https://www.perscol.fr/ressources/le-parcours-amenage-de-formation-init
 
     -   Peut avoir une répercussion
 
-```{=html}
+```
 
 ```
 -   **Pathologie récurrente** (D. Marcelli)
@@ -5399,7 +5399,7 @@ Perscol](https://www.perscol.fr/ressources/le-parcours-amenage-de-formation-init
 
     -   La qualité de la relation élève/enseignant
 
-```{=html}
+```
 
 ```
 -   **Les formes d'absences légitimées par l'établissement**
@@ -5712,7 +5712,7 @@ réunions
 |     d'élèves]        |     (plan accompagnement, stage, |
 |     potentiels pour le GPDS)     |     immersion, tutorat,          |
 |                                  |     accompagnement               |
-| ```{=html}                       |     individualisé, remédiation)  |
+| ```                       |     individualisé, remédiation)  |
 |                          |                                  |
 | ```                              | **[ANIMATIONS]**     |
 | -   Repérage a lieu pendant les  |                                  |
@@ -5727,12 +5727,12 @@ réunions
 |     isolement, ne travail pas,   |     solutions permettant de      |
 |     ne rend pas ses travaux      |     maintenir le lien scolaire   |
 |                                  |     ou le retour en formation et |
-| ```{=html}                       |     de faire le lien entre GPDS  |
+| ```                       |     de faire le lien entre GPDS  |
 |                          |     et le reste de               |
 | ```                              |     l'établissement              |
 | -   **Rappeler les objectifs**   |                                  |
 |                                  | **Utiliser un vidéo pro pour     |
-| ```{=html}                       | faciliter le suivi et remplir un |
+| ```                       | faciliter le suivi et remplir un |
 |                          | document commun uniquement       |
 | ```                              | diffusé au GPDS**                |
 | -   Prévenir le DS               |                                  |
@@ -5748,7 +5748,7 @@ réunions
 | -   Mener actions de prévention  | réunion précédente ***(seulement |
 |     contre le DS                 | info urgente à communiquer)***   |
 |                                  |                                  |
-| ```{=html}                       |                                  |
+| ```                       |                                  |
 |                          |                                  |
 | ```                              |                                  |
 | -   **Elaborer une fiche de      |                                  |
@@ -5853,7 +5853,7 @@ volontaires
 
 -   **[1^re^ étape] :**
 
-```{=html}
+```
 
 ```
 -   **Réaliser l'appel** des élèves en [début de séance]
@@ -5871,12 +5871,12 @@ volontaires
     justifié son abs en vie scolaire, sinon le renvoyer pour qu'il passe
     en vie scolaire
 
-```{=html}
+```
 
 ```
 -   **[2^nd^ étape] :**
 
-```{=html}
+```
 
 ```
 -   **Entretien** CPE + PP de chaque classe à tour de rôle 
@@ -5990,14 +5990,14 @@ le besoin.
     -   **Maitrise des savoirs fondamentaux (S4C)** / moins élèves par
         classe + acquisition du « lire, parler, écrire »
 
-```{=html}
+```
 
 ```
 -   **RAYOU, [Faire ses devoirs] (2011) :** certains élèves
     étant livrés à eux-mêmes après l'école et d'autres aidés par les
     parents, ce qui provoque des inégalités entre les élèves
 
-```{=html}
+```
 
 ```
 -   **[Améliorer les résultats scolaires ]:**
@@ -6879,7 +6879,7 @@ Jeunesse - Direction générale de l\'enseignement scolaire
     les élèves, les fait réfléchir à l'importance de l'égalité des
     sexes, du respect de l'autre, de la tolérance
 
-```{=html}
+```
 
 ```
 -   **[Favorise la mixité dans l'orientation et dans les
@@ -7253,7 +7253,7 @@ l'établissement)**
 
 -   [**Droit **:]
 
-```{=html}
+```
 
 ```
 -   Droit de grève,

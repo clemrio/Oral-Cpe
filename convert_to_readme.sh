@@ -48,6 +48,7 @@ for FILE in "$DIRECTORY"/*.docx; do
         sed -i'' -e 's/{.underline}//g' "$TEMP_FILE"
         sed -i'' -e 's/<!-- -->//g' "$TEMP_FILE"
         sed -i'' -e 's/{width="[^"]*" height="[^"]*"//g' "$TEMP_FILE"
+        sed -i'' -e 's/{=[a-z]*}//g' "$TEMP_FILE"
 
         # Ajouter le titre du document original comme titre de niveau 1
         echo "# $FILENAME" >> "$OUTPUT_FILE"
