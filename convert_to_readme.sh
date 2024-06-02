@@ -47,9 +47,7 @@ for FILE in "$DIRECTORY"/*.docx; do
         sed -i'' -e 's/\*\*//g' "$TEMP_FILE"
         sed -i'' -e 's/{width="[^"]*" height="[^"]*"//g' "$TEMP_FILE"
 
-        # Ajouter un lien de retour au sommaire après chaque section
-        echo "[Retour au sommaire](#table-of-contents)" >> "$TEMP_FILE"
-        echo "" >> "$TEMP_FILE"
+        # Ajouter le contenu nettoyé au fichier de sortie
         cat "$TEMP_FILE" >> "$OUTPUT_FILE"
         echo -e "\n\n" >> "$OUTPUT_FILE"  # Ajoutez des nouvelles lignes entre les fichiers
     fi
@@ -58,10 +56,13 @@ done
 # Ajouter un lien vers le sommaire après chaque titre de niveau 1
 sed -i'' -e 's/^# \(.*\)/# \1\n[Retour au sommaire](#table-of-contents)/g' "$OUTPUT_FILE"
 
-# Ajouter le sommaire
-pandoc "$OUTPUT_FILE" -s --toc -o "$OUTPUT_FILE"
+# Ajouter le sommaire avec uniquement les titres de niveau 1
+echo -e "\n# Sommaire\n" > temp_toc.md
+grep '^# ' "$OUTPUT_FILE" | sed 's/^# //g' | sed 's/.*/- [&](#&)/g' >> temp_toc.md
+cat temp_toc.md "$OUTPUT_FILE" > temp_with_toc.md
+mv temp_with_toc.md "$OUTPUT_FILE"
 
-# Supprimez le fichier temporaire
-rm "$TEMP_FILE"
+# Supprimez les fichiers temporaires
+rm "$TEMP_FILE" temp_toc.md
 
 echo "Conversion terminée. Le fichier Readme.md a été créé."
