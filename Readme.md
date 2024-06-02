@@ -2,15 +2,6 @@
 # Sommaire
 
 - [Sommaire](#Sommaire)
-- [10-ECOLE-INCLUSIVE](#10-ECOLE-INCLUSIVE)
-- [11-ECOLE-FAMILLE](#11-ECOLE-FAMILLE)
-- [12-EDUCATION-DEVELOPPEMENT-DURABLE](#12-EDUCATION-DEVELOPPEMENT-DURABLE)
-- [13-EDUCATION-CITOYENNETE-VAL-REP](#13-EDUCATION-CITOYENNETE-VAL-REP)
-- [14-LAICITE-A-LECOLE](#14-LAICITE-A-LECOLE)
-- [15-NUMERIQUE](#15-NUMERIQUE)
-- [16-ESPACE-SCOLAIRE](#16-ESPACE-SCOLAIRE)
-- [17-LES-CONDUITES-ADDICTIVES](#17-LES-CONDUITES-ADDICTIVES)
-- [18-RECAP-PARCOURS-EDUCATIFS](#18-RECAP-PARCOURS-EDUCATIFS)
 - [1-LE-CLIMAT-SCOLAIRE](#1-LE-CLIMAT-SCOLAIRE)
 - [2-LA-JUSTICE-SCOLAIRE](#2-LA-JUSTICE-SCOLAIRE)
 - [3-VIOLENCE-ET-HARCELEMENT](#3-VIOLENCE-ET-HARCELEMENT)
@@ -20,2905 +11,18 @@
 - [7-MIXITE-SOCIALE-ET-INEGALITES](#7-MIXITE-SOCIALE-ET-INEGALITES)
 - [8-PAUVRETE-A-LECOLE](#8-PAUVRETE-A-LECOLE)
 - [9-EGALITE-FILLE-GARCON](#9-EGALITE-FILLE-GARCON)
+- [10-ECOLE-INCLUSIVE](#10-ECOLE-INCLUSIVE)
+- [11-ECOLE-FAMILLE](#11-ECOLE-FAMILLE)
+- [12-EDUCATION-DEVELOPPEMENT-DURABLE](#12-EDUCATION-DEVELOPPEMENT-DURABLE)
+- [13-EDUCATION-CITOYENNETE-VAL-REP](#13-EDUCATION-CITOYENNETE-VAL-REP)
+- [14-LAICITE-A-LECOLE](#14-LAICITE-A-LECOLE)
+- [15-NUMERIQUE](#15-NUMERIQUE)
+- [16-ESPACE-SCOLAIRE](#16-ESPACE-SCOLAIRE)
+- [17-LES-CONDUITES-ADDICTIVES](#17-LES-CONDUITES-ADDICTIVES)
+- [18-RECAP-PARCOURS-EDUCATIFS](#18-RECAP-PARCOURS-EDUCATIFS)
 - [Méthodo-oraux-concours](#Méthodo-oraux-concours)
 # Sommaire
 [Retour au sommaire](#sommaire)
-
-# 10-ECOLE-INCLUSIVE
-[Retour au sommaire](#sommaire)
-
-**[INTRODUCTION]** 
-------------------------------
-
-« *En 2022, 430 000 élèves en situations de handicap sont scolarisés en
-milieu ordinaire* » (MEN).
-
-Le droit à l'éducation pour tous les enfants, quel que soit leur
-handicap, est un droit fondamental. La loi sur la refondation de l'école
-consacre pour la première fois le principe d'inclusion scolaire. Le
-gouvernement est déterminé à faire de l'école inclusive, l'école 21^e^
-siècle (MEN, 2017).
-
-L'Ecole inclusive vise à assurer une scolarisation de qualité pour tous
-les élèves de la maternelle au lycée par la prise en compte de leurs
-singularités et de leurs besoins éducatifs particuliers.
-
--   **[L'école inclusive]** environnement scolaire qui se
-    met au service de tous les enfants y compris ceux à besoins
-    spécifiques. Vise à offrir à chaque élève un environnement scolaire
-    le plus adapté à leurs particularités individuelles
-
--   **[L'inclusion scolaire]** processus visant à tenir
-    compte de la diversité des besoins de tous les élèves et de
-    s'adapter à eux.
-
-[L\'école inclusive \|
-Gouvernement.fr](https://www.gouvernement.fr/action/l-ecole-inclusive)
-
-**[ENJEUX]** 
-------------------------
-
--   **[Scolarité ordinaire pour tous les enfants quels que soient leurs
-    besoins]** = lutte inégalités
-
-    -   C. GARDOU (2005), [Fragment sur le handicap et la
-        vulnérabilité ]: *Enjeu de l'inclusion scolaire
-        considérer les personnes en situation de handicap comme égales
-        aux autres qui aspirent à l'autonomie*
-
-    -   CPE porte une attention particulière aux EBEP
-
-    -   **C1 :** Organiser les conditions de vie des élèves dans
-        l\'établissement, leur sécurité, la qualité de l\'organisation
-        matérielle et la gestion du temps
-
-    -   L'analyse des besoins de l'élève est déterminante pour amorcer
-        une scolarité dans les meilleures conditions = réussite et bien
-        être, insertion pro
-
-        -   Augmente estime de soi, vivre-ensemble et autonomie
-
-        -   C. VITALI, [Nouveaux enjeux pour la vie
-            scolaire] (2015) : *L'élève n'est plus obligé de
-            s'adapter à l'école, mais l'école doit s'adapter à lui. Les
-            élèves à besoins spécifiques ne répondent pas aux normes
-            attendues par l'école, or l'acceptation de la différence est
-            un principe d'égalité*.
-
-        -   Dans le cadre de l'action éducative, CPE travaille en lien
-            avec les partenaires
-
-        -   Lien avec les familles (coéducation 2013)
-
-```
-
-```
--   Concerne une population d'élève très variée : inclusion concerne les
-    problématiques d'accès à l'école
-
-    -   Enfant en difficulté scolaire et durable
-
-    -   Situation familiale difficile
-
-    -   Enfant du voyage
-
-    -   Enfant nouvellement arrivé en France : [Organisation de la
-        scolarité des élèves allophones nouvellement arrivés \|
-        Ministère de l\'Education Nationale et de la
-        Jeunesse](https://www.education.gouv.fr/bo/12/Hebdo37/MENE1234231C.htm?cid_bo=61536)
-
-    -   Enfant intellectuellement précoce : [Ressources pour la
-        personnalisation des parcours des élèves à haut potentiel \|
-        éduscol \| Ministère de l\'Éducation nationale et de la
-        Jeunesse - Direction générale de l\'enseignement scolaire
-        (education.fr)](https://eduscol.education.fr/1188/ressources-pour-la-personnalisation-des-parcours-des-eleves-haut-potentiel)
-
-Centre académique pour la scolarisation des élèves allophones
-nouvellement arrivés et des enfants issus de familles itinérantes et de
-voyageurs (CASNAV) : [Organisation des Casnav \| Ministère de
-l\'Education Nationale et de la
-Jeunesse](https://www.education.gouv.fr/bo/12/Hebdo37/MENE1234234C.htm?cid_bo=61527)
-
--   CPE prend toute sa place dans l'appropriation des valeurs de
-    tolérance, de solidarité et de vivre ensemble
-
--   Participe à la lutte contre toutes les formes de discrimination et
-    de violence
-
--   Education de qualité : inscrit dans les 17 objectif de DD d'ici 2030
-
-**[Obstacles]** 
----------------------------
-
--   Surcharge pour les enseignants difficulté de s'adapter aux
-    spécificités de chaque élève
-
-    -   G. LAVOINE, [La construction sociale de la désignation des
-        élèves à « besoins éducatifs particuliers »]
-        (2013) : *Pour lui, on ne peut pas parler d'inclusion scolaire
-        car les élèves à besoins éducatifs particuliers ne font pas
-        entièrement partie du groupe classe. Les causes sont la
-        formation des enseignants, les conditions de travail en classe
-        et l'organisation des établissements et de l'institution*
-
--   Problème de transport, élève en ULIS / SEGPA ont pas le choix de
-    leur établissement, certains habitent loin et l'établissement ne
-    dispose pas toujours d'un internat et donc les élèves doivent se
-    lever très tôt et prendre le taxi ou les transport en commun voire
-    plusieurs
-
-**[Politiques éducatives]** 
----------------------------------------
-
-Né à la fin des années 90, le concept d'inclusion scolaire est le fruit
-d'une longue évolution de l'éducation spécialisée. C'est une véritable
-volonté de prendre en charge les élèves qui ne réussissaient pas à
-s'adapter à l'éducation ordinaire.
-
--   **1975** **Haby** : loi d'orientation en faveur des personnes
-    handicapées ; développement de l'accès en faveur des personnes
-    handicapées. Tout enfant a le droit à une formation scolaire
-
--   **1989**  **Jospin** : politique d'intégration réaffirmée avec la
-    loi d'orientation sur l'éducation. Insiste sur la nécessité
-    d'intégration des élèves et étudiants handicapés
-
--   **2005 Fillon :** loi d'égalité des droits et des chances nouvelle
-    considération des handicapés en France ; favorise l'autonomie ;
-    permet aux élèves handicapés d'intégrer des établissements
-    ordinaires dans leur établissement de secteur ; participe à la
-    citoyenneté des personnes handicapées
-
-> Respect du principe d'accessibilité ; compensation (aide, surcout) ;
-> adaptation (respect, dignité)
->
-> [La loi du 11 février 2005 pour l'égalité des droits et des chances \|
-> handicap.gouv.fr](https://handicap.gouv.fr/la-loi-du-11-fevrier-2005-pour-legalite-des-droits-et-des-chances#:~:text=Accessibilit%C3%A9%20Aides%20financi%C3%A8res-,La%20loi%20du%2011%20f%C3%A9vrier%202005%20pour%20l'%C3%A9galit%C3%A9%20des,la%20classification%20internationale%20du%20handicap.)
-
--   **2013 Peillon **:
-
-    -   Stipule que l'Ecole se doit d'être inclusive
-
-    -   Meilleure prise en compte des besoins spécifiques de l'élève en
-        situation de handicap
-
-    -   Faciliter accès élève handicapés à une scolarité ordinaire
-
--   **2016** **Circulaire de rentrée **: réaffirme le droit de
-    scolarisation des élèves et que l'école doit reconnaitre leurs
-    spécificités (32 000 postes AESH)
-
--   **2019 Pour une école inclusive** : [Pour une École inclusive \|
-    Ministère de l\'Education Nationale et de la
-    Jeunesse](https://www.education.gouv.fr/bo/19/Hebdo23/MENE1915816C.htm)
-
-    -   Instituer un service départemental Ecole inclusive : [Le service
-        public de l\'École inclusive \| éduscol \| Ministère de
-        l\'Éducation nationale et de la Jeunesse - Direction générale de
-        l\'enseignement scolaire
-        (education.fr)](https://eduscol.education.fr/1144/le-service-public-de-l-ecole-inclusive)
-
-    -   Organiser les pôles inclusifs d'accompagnement localisés :
-        [École inclusive : le Pial, qu\'est-ce que c\'est ? \| Ministère
-        de l\'Education Nationale et de la
-        Jeunesse](https://www.education.gouv.fr/ecole-inclusive-le-pial-qu-est-ce-que-c-est-1877)
-
-    -   Mieux accueillir les parents pour mieux scolarisés les élèves
-
-    -   Reconnaitre le travail des enseignants, les soutenir et déployer
-        une offre de formation accessible
-
-    -   Renforcer l'appartenance des AESH à la communauté éducative :
-        [Cadre de gestion des personnels exerçant des missions
-        d\'accompagnement d\'élèves en situation de handicap (AESH) \|
-        Ministère de l\'Education Nationale et de la
-        Jeunesse](https://www.education.gouv.fr/bo/19/Hebdo23/MENH1915158C.htm)
-
-    -   Mieux suivre les parcours inclusifs et évaluer la qualité des
-        actions
-
-![](media/image1.png){width="5.6986012685914265in"
-height="4.071057524059492in"}
-
--   **2022 objectif **: Une école inclusive pour construire la société
-    de demain donner la possibilité d'acquérir une qualification
-    professionnel et d'offrir les conditions d'un véritable parcours
-    professionnel
-
--   **2023** **PAP NDIAYE :** EGALITE + AUTONOMIE + REUSSITE
-
-**[Dispositifs] :** [download (education.fr)](https://eduscol.education.fr/document/21427/download)
----------------------------------------------------------------------------------------------------------------
-
--   **2003** **PAI** (Projet d'accueil individualisé) : d'ordre médical,
-    nécessité de passer devant le médecin scolaire (traitement,
-    injonction à faire en cas de crise)
-
-    -   [Qu\'est-ce qu\'un projet d\'accueil individualisé (PAI) ? \|
-        Service-public.fr](https://www.service-public.fr/particuliers/vosdroits/F21392)
-
--   **2005** **PPRE** (Programme personnalisé de réussite éducative) :
-    document interne à l'établissement qui n'est pas reconnu pour un
-    examen. Accompagnement pédagogique pour élève qui ne maitrise pas
-    les bases du S4C.
-
-    -   [Les programmes personnalisés de réussite éducative \| éduscol
-        \| Ministère de l\'Éducation nationale et de la Jeunesse -
-        Direction générale de l\'enseignement scolaire
-        (education.fr)](https://eduscol.education.fr/858/les-programmes-personnalises-de-reussite-educative)
-
--   **2006** création des MDPH qui met en place les **PPS** (Projet
-    personnalisé de Scolarisation) : PPS définit le recours à une aide
-    humaine/matériel. En lien avec l'ESS (équipe de suivi de
-    scolarisation), reconnu par la MDPH (élèves malvoyants, en ULIS,
-    autiste handicap qui empêche de suivre une scolarité ordinaire)
-
-    -   [Enfant handicapé : qu\'est-ce que le projet personnalisé de
-        scolarisation (PPS) ? \|
-        Service-public.fr](https://www.service-public.fr/particuliers/vosdroits/F33865)
-
--   **2015** ULIS + **PAP** (Plan d'accompagnement personnalisé) :
-    difficulté pédagogique (DYS), construit à partir d'élément (bilan
-    orthophoniste qui va préconiser ces aménagements). = tiers temps,
-    aménagement EDT, etc.
-
-    -   [Mettre en œuvre un plan d\'accompagnement personnalisé \|
-        éduscol \| Ministère de l\'Éducation nationale et de la
-        Jeunesse - Direction générale de l\'enseignement scolaire
-        (education.fr)](https://eduscol.education.fr/1214/mettre-en-oeuvre-un-plan-d-accompagnement-personnalise)
-
-**Ouvrir l\'école aux parents pour la réussite des enfants** : [Ouvrir
-l\'école aux parents pour la réussite des enfants \| éduscol \|
-Ministère de l\'Éducation nationale et de la Jeunesse - Direction
-générale de l\'enseignement scolaire
-(education.fr)](https://eduscol.education.fr/2187/ouvrir-l-ecole-aux-parents-pour-la-reussite-des-enfants)
-
-**La journée internationale des personnes en situation de handicap** :
-[La journée internationale des personnes en situation de handicap \|
-éduscol \| Ministère de l\'Éducation nationale et de la Jeunesse -
-Direction générale de l\'enseignement scolaire
-(education.fr)](https://eduscol.education.fr/3382/la-journee-internationale-des-personnes-en-situation-de-handicap)
-
-**Des outils pour accompagner tous les élèves** : [Confiance,
-apprentissages, partage - Cap école inclusive - Réseau Canopé
-(reseau-canope.fr)](https://www.reseau-canope.fr/cap-ecole-inclusive)
-
-**[Actions à mettre en place]**
--------------------------------------------
-
-![](media/image2.png)}
-
-![](media/image3.png){width="3.683333333333333in"
-height="3.6270866141732285in"}
-
-![](media/image4.png){width="7.201388888888889in"
-height="3.720138888888889in"}
-
-
-
-# 11-ECOLE-FAMILLE
-[Retour au sommaire](#sommaire)
-
-**[INTRODUCTION]** 
-------------------------------
-
-Concept au cœur des préoccupations ministérielles. La coéducation peut
-être définie comme une forme d'éducation qui privilégie l'apprentissage
-en autonomie, par l'expérience collective et la collaboration. Elle
-s'appuie sur l'émulation d'un groupe et prend en compte la situation
-d'apprentissage dans son ensemble. Le principe de coéducation met
-l'accent sur le rôle de chacun de ceux qui entourent un enfant dans le
-processus éducatif (parents, enseignants, etc). C'est une relation entre
-les premiers éducateurs de l'enfant, c'est-à-dire les parents, et entre
-les éducateurs professionnels qui agissent en parallèle ou
-successivement aux premiers éducateurs.
-
-[Parents d\'élèves \| éduscol \| Ministère de l\'Éducation nationale et
-de la Jeunesse - Direction générale de l\'enseignement scolaire
-(education.fr)](https://eduscol.education.fr/2186/parents-d-eleves)
-
-**[ENJEUX]** 
-------------------------
-
--   **[Pour l'élève ]**:
-
-    -   **Sa réussite** Une bonne communication avec les parents =
-        obtenir des infos sur l'élève essentielles pour amorcer sa
-        scolarité dans les meilleures conditions (besoins d'adaptions,
-        d'aménagements)
-
-    -   **Réduire les absences** informer les familles des absences =
-        **[Circulaire de lutte contre
-        l'Absentéisme] (2014)** : « *Il revient à chaque
-        responsable, à tous les niveaux de l\'institution scolaire, de
-        se mobiliser pour mettre en place des actions de prévention et
-        de suivi de l\'absentéisme et [apporter, dans un climat de
-        confiance avec les familles, des réponses rapides et efficaces
-        lorsque des absences sont constatées]* » **Lutte
-        contre DS**
-
-    -   **Protéger l'élève**, **son bien être** permet de connaitre le
-        profils des parents, son contexte familiale et ainsi le savoir
-        en sécurité. Travail en lien avec l'AS si besoin.
-
-CPE porte une attention particulière aux EBEP
-
-**CUNINIGHAM et SANDHU, 2000** : *Le développement d'un lien fort entre
-le jeune, sa famille et l'école permet de prédire des comportements plus
-sûrs à l'adolescence et des problèmes de santé moins importants. Lorsque
-l'enfant se sent soutenu tant par sa famille que par ses enseignants :
-on assite alors à la diminution de la victimation et des conduites
-agressives*.
-
--   **[Pour un membre du personnel ]**:
-
-    -   **Affirmer son rôle** être en bon terme avec les parents, une
-        bonne communication lui permet de mieux affirmer son rôle et sa
-        fonction car il aura leur soutien
-
-    -   **Mettre en œuvre les valeurs de la république** à travers la
-        prévention de la violence, la lutte contre les préjugés et les
-        discriminations, la mise en œuvre de règles communes, le
-        développement et la responsabilisation des jeunes et de leur
-        autonomie
-
-        -   **CPE** prend toute sa place dans l'appropriation des
-            valeurs de tolérance, de solidarité et de vivre-ensemble
-
-        -   **CPE** participe à la lutte contre toutes les formes de
-            discrimination, de violence et de harcèlement
-
-        -   **CPE** contribue au respect des principes de neutralité et
-            de la laïcité au sein des établissements
-
-        -   **CPE** participe à la diffusion et à l'explication des
-            principes énoncés dans la charte de la laïcité à l'école. Il
-            doit savoir transmettre et faire partager les valeurs et les
-            principes de la République
-
--   **[Pour la famille ]**:
-
-    -   **Permet de développer un sentiment d'appartenance à la
-        communauté éducative**
-
-    -   Un parent qui s'intéresse à l'école où évolue son enfant c'est
-        être informé sur ce qu'il s'y passe : la progression de leur
-        enfant, comment il se situe par rapport à l'avancée du groupe
-        classe, et ainsi pouvoir assurer une continuité pédagogique et
-        un soutien efficace pour leur enfant.
-
-    -   Enfin, si les parents se positionnent comme porteurs d'une image
-        valorisante de l'école, cela ne peut que créer un rapport
-        positif au savoir, connaissant l'admiration des enfants envers
-        leurs parents.
-
-**CPE** porte une attention particulière aux familles éloignées du
-système éducatif. Entretient des dialogues. Noue une relation de
-confiance. Aide les familles à l'accompagnement + élaboration du projet
-pro de l'élève.
-
-**[Climat scolaire]** : 10 conseils pour bien gérer les
-relations parents-enseignant : [Climat scolaire, 10 conseils pour bien
-gérer les relations parents-enseignants - C.P.E et Vie scolaire
-(ac-dijon.fr)](http://cpe.ac-dijon.fr/spip.php?article715)
-
-**[Obstacles]** 
----------------------------
-
--   **Le lien** La coéducation ne peut se faire sans un moyen de
-    transmettre les informations entre les différents acteurs. Il faut
-    donc que le membre du personnel parvienne à mettre en place un
-    système de communication efficace, simple d'utilisation et peu
-    coûteux en temps pour lui et pour les familles.
-
-> D'où l'utilité de la plateforme numérique (MBN / Pronote), mais toutes
-> familles n'ont pas accès à internet, certaines familles sont éloignées
-> du système éducatif
->
-> **A. FEYFENT, [Coéducation : quelle place pour les
-> parents] (2015).**
-
--   **Le dialogue** dialogue rompu au sein même de la famille (divorce,
-    séparation, etc), un des deux parents n'habite pas dans les environs
-    (difficulté de rencontre), barrière de la langue, les parents
-    indifférent qui considèrent que la scolarité de leur enfant relève
-    de la seule responsabilité de l'école, celles qui ne savent pas
-    comment faire (n'ont pas les guide)
-
-> **RAYOU, [Faire ses devoirs] (2011) **: inégalité entre
-> élèves = certains sont livrés à eux-mêmes après l'école et d'autres
-> aidés par les parents
-
--   **Le personnel** il faut qu'ils assurent leur rôle, il doit aussi
-    demander des contacts pour installer un climat de confiance entre
-    lui et les familles. Doit se montrer disponible et à l'écoute. Doit
-    connaitre un minimum l'histoire de la famille pour comprendre les
-    difficultés pour répondre au mieux aux besoins des élèves.
-
-> **THIN et MILLET, [Ruptures scolaires] (2006) **: Les
-> enseignants ont tendance à infantiliser les familles populaires ou
-> étrangères : ils privilégient la collaboration avec les parents de
-> classes moyennes et aisés du fait qu'elles possèdent une bonne part de
-> capital social permettant d'exploiter le système éducatif en faveur
-> des enfants. Par conséquent, cela créer la fuite ou la démission des
-> familles de milieux populaires, en situation de pauvreté ou encore
-> allophones car elles éprouvent des difficultés pour comprendre
-> l'organisation scolaire, ses procédures, son vocabulaires.
->
-> **G. FOTINOS, [Parents et profs d'école : de la défiance à
-> l'alliance] (2008)**
->
-> Il est difficile de convenir que la relation parents-enseignants est
-> totalement sereine. La méfiance réciproque nourrit l'échec scolaire,
-> mais aussi la violence tant des adultes que des élèves. L'auteur
-> retient 3 sources de conflits : la discipline, l'évaluation et
-> l'orientation.
-
-**[Politiques éducatives]** 
----------------------------------------
-
--   **1932** Les parents sont associés à l'école et autorisés à
-    participer aux décisions sur l'organisation des établissements
-    en 1942.
-
--   **1968** Les parents sont impliqués par leurs représentants dans les
-    CA et CC
-
--   **1975** **Haby** : démocratisation scolaire, massification de
-    l'enseignement et donc accueil d'un nouveau public. Les parents de
-    milieux défavorisés ont une méconnaissance du SE, des difficultés
-    d'élocution et par conséquent = peu de rencontre.
-
-> La communauté scolaire inclut le personnel, les élèves et les parents
-> et accorde l'association des familles aux missions de l'école
-
--   **1989**  **Jospin** : Considère de manière officielle les familles
-    comme membre à part entière de la communauté éducative
-
--   **2005 Fillon :** Les parents des élèves handicapés sont devenus
-    associés à chaque étape de la définitions du PPS
-
--   **2006 :** [Bulletin officiel n° 31 du 31 août 2006
-    (education.gouv.fr)](https://www.education.gouv.fr/bo/2006/31/MENE0602215C.htm)
-    relative au rôle des parents dans l'institution = siéger dans les
-    instances, droit à l'information dans le suivi de scolarité de leurs
-    enfants, associations des parents d'élèves. Rencontre parent-prof au
-    moins 2 fois par an.
-
--   **2013 Peillon **: Tourant dans la relation école famille la
-    coéducation est valorisée par les droits d'informations et
-    d'expression des parents. La coéducation fait officiellement partie
-    des gestes professionnelles que tout personnel doit acquérir et
-    privilégier pour la réussite et le bien être des élèves
-
--   **2013** **Circulaire relative au renforcement de la coopération
-    entre les parents et l'école dans les territoires : « ***Pour
-    garantir la réussite de tous, l'école se construit avec la
-    participation des parents, quelle que soit leur origine sociale »*
-    [Renforcer la coopération entre les parents et l\'école dans les
-    territoires \| Ministère de l\'Education Nationale et de la
-    Jeunesse](https://www.education.gouv.fr/bo/13/Hebdo38/REDE1324999C.htm)
-
--   **2019 Pour une école de la confiance** : Prend en compte la
-    diversification des situations familiales, homoparentales
-
-**[Dispositifs] :** 
--------------------------------
-
--   **2017 :** Devoirs faits = réduire les inégalités scolaires des
-    élèves
-
--   **2008 :** Mallette des parents [La Mallette des parents, pour
-    accompagner la réussite de tous les élèves \| éduscol \| Ministère
-    de l\'Éducation nationale et de la Jeunesse - Direction générale de
-    l\'enseignement scolaire
-    (education.fr)](https://eduscol.education.fr/2288/la-mallette-des-parents-pour-accompagner-la-reussite-de-tous-les-eleves)
-
-**[Ouvrir l\'école aux parents pour la réussite des
-enfants :]**
-
--   [Ouvrir l\'école aux parents pour la réussite des enfants \| éduscol
-    \| Ministère de l\'Éducation nationale et de la Jeunesse - Direction
-    générale de l\'enseignement scolaire
-    (education.fr)](https://eduscol.education.fr/2187/ouvrir-l-ecole-aux-parents-pour-la-reussite-des-enfants)
-
-```
-
-```
--   [Dispositif Ouvrir l\'École aux parents pour la réussite des
-    enfants - année scolaire 2014-2015 \| Ministère de l\'Education
-    Nationale et de la
-    Jeunesse](https://www.education.gouv.fr/bo/14/Hebdo47/MENE1428228C.htm?cid_bo=84351)
-
-```
-
-```
--   [Objectifs - Présentation de l\'opération - Réseau Canopé
-    (reseau-canope.fr)](https://www.reseau-canope.fr/ouvrir-lecole-aux-parents-pour-la-reussite-des-enfants/presentation-de-loperation/objectifs.html)
-
-**[Actions à mettre en place] :** 
----------------------------------------------
-
-**[Diagnostic ]**: intérêt et implication des familles par
-rapport à l'établissement ; implication des fédération de parents
-d'élèves ; perception et ressenti des parents ; implication des familles
-dans les réunions/instances ; existence d'un espace pour les parents
-
-+----------------------------------+----------------------------------+
-| **Favoriser la communication     | **Accompagner les familles dans  |
-| avec les parents**               | le suivi péda et éducatif**      |
-+==================================+==================================+
-| **Communiquer sur l'organisation | -   **Suivi individuel** =       |
-| de l'établissement**             |     contact régulier entre       |
-|                                  |     famille, PP + CPE (résultats |
-| -   Temps de rentrée, réunion,   |     scolaires, comportement,     |
-|     rencontre parent-prof = être |     orientation)                 |
-|     à l'écoute et se rendre      |                                  |
-|     disponible pour établir un   |     -   **Faciliter le suivi +   |
-|     contact de confiance         |         collaboration =          |
-|                                  |         réussite**               |
-| -   Réaliser un livret d'accueil |                                  |
-|     aux familles avec les élèves | -   **Suivi collectif** =        |
-|     du CVC/CVL, AED              |     associer les parents au      |
-|     (présentation établissement, |     processus d'orientation      |
-|     qql passages du RI et droits |     moment pour répondre aux     |
-|     et obligations des élèves)   |     questions et rapprocher les  |
-|                                  |     familles, même celles        |
-|     -   Permettre aux familles   |     éloignées                    |
-|         de mieux comprendre le   |                                  |
-|         fonctionnement de        | -   **Favoriser et mettre en     |
-|         l'établissement          |     avant l'implication des      |
-|                                  |     parents**                    |
-|     ```                   |                                  |
-|                          | Intégrer la coéducation dans le  |
-|     ```                          | projet établissement ;           |
-|     -   Organiser une visite de  | multiplier les temps             |
-|         l'établissement pour     | d'échanges ; création d'un       |
-|         créer un sentiment       | espace parents ou « café des     |
-|         d'appartenance,          | parents » pour tendre vers       |
-|         instaurer une relation   | « l'inclusion pédagogique » de   |
-|         de confiance, rassurer   | tous les parents ; donner à tous |
-|         les familles             | la culture scolaire, qql         |
-|                                  | conseils simple pour suivre la   |
-|                                  | scolarité de le leur enfant et   |
-|                                  | en rendant plus lisible les      |
-|                                  | supports utilisés et diffusés    |
-|                                  | par les enseignants              |
-|                                  |                                  |
-|                                  | Aide à l'utilisation de la       |
-|                                  | plateforme de l'établissement    |
-|                                  | afin que toutes les familles y   |
-|                                  | est accès                        |
-+----------------------------------+----------------------------------+
-
-Partenariat avec les parents œuvrer au bien être des élèves et à leur
-réussite
-
-Famille = partenaire de la coéducation dans le suivi de scolarité de
-leurs enfants et dans la vie de l'établissement
-
-Nécessité de continuité entre l'école et la famille
-
-
-
-# 12-EDUCATION-DEVELOPPEMENT-DURABLE
-[Retour au sommaire](#sommaire)
-
-**[INTRODUCTION]** 
-------------------------------
-
-Le 25 septembre 2015, l'Assemblée générale des Nations Unies a adopté le
-programme de développement durable à l'horizon 2030.
-
-L'EDD est une mission centrale de l'école inscrite dans le code de
-l'éducation.
-
-Le développement durable est « *un développement qui répond aux besoins
-du présent sans compromettre la capacité des générations futures à
-répondre aux leurs »*, citation du Premier ministre Norvégien, 1987
-
-Le développement = amélioration des performances (sociales, économiques,
-etc) d'une société / durable = tient dans la durée, stable + résistant
-
-[L\'éducation au développement durable \| Ministère de l\'Education
-Nationale et de la
-Jeunesse](https://www.education.gouv.fr/l-education-au-developpement-durable-7136#:~:text=L'%C3%A9ducation%20au%20d%C3%A9veloppement%20durable%20(EDD)%20permet%20d',dans%20le%20fonctionnement%20des%20%C3%A9tablissements.)
-
-**VADEMECUM** [download
-(education.fr)](https://eduscol.education.fr/document/5239/download?attachment)
-
-**[ENJEUX]** 
-------------------------
-
-[Une École engagée pour le développement durable \| Ministère de
-l\'Education nationale et de la
-Jeunesse](https://www.education.gouv.fr/une-ecole-engagee-pour-le-developpement-durable-et-la-transition-ecologique-12017) :
-Une école engagée pour le développement durable et la transition
-écologique -- "*L'éducation nationale est pleinement mobilisée dans la
-lutte contre le changement climatique et en faveur de la biodiversité.
-Ainsi les élèves sont appelés à être des acteurs majeurs de la
-transition écologique, et les écoles et établissements des lieux
-exemplaires de la protection de l'environnement*."
-
--   **EDD [permet d'appréhender la complexité du monde] dans
-    ses dimensions scientifiques, éthiques et civiques.**
-
-    -   PACHE, CURNIER, HONORE et HERTIG, [Penser l'avenir de manière
-        créative : un enjeu central de l'éducation en vue du
-        DD] 2016 : *L'éducation au DD apparait comme
-        indispensable pour permettre d'assurer un avenir convenable aux
-        générations futures, et engage chaque élève à développer des
-        compétences pour agir de manière responsable.*
-
-    -   Présentés selon des approches interdisciplinaires et
-        transversales, les enjeux liés au DD sont au cœur des
-        enseignements du CP à la Terminale.
-
-        -   EDD fait partie intégrante de la **formation initiale des
-            élèves**. **Transversale**, elle figure dans les programmes
-            d'enseignement ce qui fait une place significative aux
-            enjeux climatiques et environnementaux. **F. PELLAUD, [Le DD
-            et son entrée formelle dans l'école] (2011).**
-
-        -   Elle est intégrée dans les **disciplines existantes**, dans
-            les offres de formation et dans le projet établissement.
-
-        -   CPE apporte sa contribution à la mise en œuvre des
-            **éducations transversales** (éducation à la santé,
-            citoyenneté, EDD, éducation artistique et culturelle).
-
-    -   Dans le cadre de l'EDD, il est demandé aux élèves de penser
-        l'avenir, d'inventer le monde, et pour ce faire, de s'appuyer
-        sur leurs connaissances et leurs compétences **Intégrée dans
-        le** **socle commun** Pilier 6 (compétences sociales et
-        civiques) et 7 (autonomie et initiative).
-
-    -   **Parcours citoyen et santé** favorable à la prise en compte des
-        enjeux du DD.
-
-    -   CPE accompagne les parcours de l'élève sur les plans péda et
-        éducatif
-
-    -   CPE agit en **éducateur responsable** et selon des **principes
-        éthiques**
-
-    -   CPE fait partager les **valeurs de la république**
-
--   **[Former des citoyens éclairés et responsables]**
-
-    -   Le citoyen a des devoirs envers la planète sur laquelle il vit
-        et l'environnement dans lequel il évolue. La citoyenneté
-        s'exerce aussi vis-à-vis de l'environnement
-
-    -   UNESCO, [L'éducation en vue des objectifs de DD]
-        2017 : *L'éducation est essentielle à la réalisation du DD car
-        elle permet ainsi au citoyen de prendre des décisions éclairées
-        et responsables en faveur de l'environnement, pour les
-        générations futures*.
-
-    -   Enjeu global est le développement et la durabilité de l'humanité
-        sur une planète vivable. Cela permet d'envisager un modèle de
-        société démocratique, viable et à long terme. Le DD est un défi
-        mondial qui concerne toutes les sociétés à toutes échelles.
-
-    -   *Au cœur du programme 2030, figurent 17 ODD (objectifs DD) qui
-        décrivent les défis à relever par l'humanité pour assurer des
-        conditions d'existence viables et justes pour l'avenir ainsi que
-        6 enjeux afin d'éradiquer la pauvreté, protéger la planète et
-        garantir la prospérité de tous. Les objectifs de développement
-        constituent un programme ambitieux et universel pour notre
-        monde.* [17 Objectifs de développement durable - L\'Agenda 2030
-        en France
-        (agenda-2030.fr)](https://www.agenda-2030.fr/17-objectifs-de-developpement-durable/)
-
-        -   Agir pour une transformation juste, en luttant contre toutes
-            les discriminations et inégalités et en garantissant les
-            mêmes droits, opportunités et libertés à toutes et tous.
-            [CPE participe à la lutte et à la prévention contre toutes
-            les formes de discrimination, de harcèlement et de
-            violence]
-
-        -   Education et formation tout au long de la vie, pour
-            permettre une évolution vers des comportements et modes de
-            vie adaptés au monde à construire et aux défis du DD
-
-        -   Agir sur la santé et le bien-être de tous, notamment via une
-            alimentation et une agriculture saine et durable [CPE
-            travaille avec les personnels médico-sociaux]
-            ...
-
-        -   Œuvrer en faveur de la paix et de la solidarité. [CPE prend
-            sa place dans l'appropriation des valeurs de tolérance, de
-            solidarité et de vivre-ensemble]
-
-**[Obstacles]** 
----------------------------
-
-**D. BERNIER, [Quels freins pour l'EDD chez le personnel
-enseignant], 2023**
-
-Pour certains enseignants, ce n'est pas une priorité, manque de
-formation. Manque de temps pour se former. Manque de matériel péda et de
-ressources pour mener à bien des projets éducatifs.
-
-**[Politiques éducatives]** 
----------------------------------------
-
-**1977** : une circulaire donne naissance à l'éducation à
-l'environnement en France
-
-**2004 **: Charte environnement, souligne la nécessité de « l'éducation
-et la formation à l'environnement » = Généralisation d'une éducation à
-l'environnement pour un développement durable (EEDD)
-
-**2013 **: EEDD débute dès le primaire. Elle a pour objectif d'éveiller
-les enfants aux enjeux environnementaux. « Elle comporte une
-sensibilisation à la nature et à la compréhension et à l'évaluation de
-l'impact des activités humaines sur les ressources naturelles. » Fait
-entrer cette éducation dans le code de l'éducation.
-
-**2015 **: Instruction relative au déploiement de l'éducation au DD dans
-l'ensemble des écoles et établissements scolaires pour la période
-2015-2018
-
-**2019 **: EEDD a pour objectif de sensibiliser les élèves à la
-transition écologique en plus des enjeux environnementaux de 2013.
-« Elle permet la transmission et l'acquisition des connaissances et ses
-savoirs relatifs à la nature, à la nécessité de préserver la
-biodiversité, à la compréhension et à l'évaluation de l'impact des
-acticités humaines sur les ressources naturelles et à la lutte contre le
-réchauffement climatique »
-
-**2020 **: La mobilisation du ministère de l'Education nationale, de la
-Jeunesse et des Sports en faveur du climat et de la biodiversité. 60
-élus du CNVL ont débattu des enjeux climatiques et environnementaux, le
-gouvernement s'est engagé sur 8 axes d'accompagnement et d'actions :
-
-1.  Faire de chaque école et établissement, un lieu ouvert à des
-    activités liées à la biodiversité (potagers, nichoirs, compost, etc)
-
-2.  Identifier un binôme d'éco-délégués au collège et au lycée
-
-3.  Consacrer une séance annuelle complète des instances lycéennes aux
-    thématiques liées au DD
-
-4.  Intégrer les élus lycéens aux comités de pilotage académiques de
-    l'EDD
-
-5.  Engager les écoles et les établissements dans une démarche globale
-    de DD.
-
-6.  Etudier le changement climatique et la biodiversité dans les
-    nouveaux programmes du lycée et enrichir ceux de l'école et du
-    collège
-
-7.  Intégrer les enjeux du DD dans tous les diplômes des voies
-    technologique et professionnelle
-
-8.  Créer un prix EDD 2030 pour soutenir les meilleurs projets menés
-    dans les écoles, collèges et lycées dès l'année 2019-2020
-
-**22 août 2021 :** La loi « Climat et Résilience » = renforce la place
-de l'EDD comme éducation transversale à travers tous les programmes de
-toutes disciplines.
-
-Elargit CESC à CESCE = renforcer les synergies entre santé et DD en
-articulant par exemple l'éducation à l'alimentation.
-
-**[Dispositifs] :** 
--------------------------------
-
--   **2013 :** Label E3D établissement qui entre en démarche global de
-    développement durable
-
-> [La labellisation E3D \| éduscol \| Ministère de l\'Éducation
-> nationale et de la Jeunesse - Direction générale de l\'enseignement
-> scolaire
-> (education.fr)](https://eduscol.education.fr/1118/la-labellisation-e3d)
-
--   **2019 :** Eco-délégués encourage l'engagement des élèves. Jouent un
-    rôle essentiel de sensibilisation et de mobilisation pour contribuer
-    à faire des collèges et lycées des espaces plus favorables à la
-    biodiversité et davantage engagés dans l'atténuation et l'adaptation
-    au changement climatique. **[EDUSCOL 2022]**
-
-> [Des élèves éco-délégués pour agir en faveur du développement durable
-> \| Ministère de l\'Education Nationale et de la
-> Jeunesse](https://www.education.gouv.fr/des-eleves-eco-delegues-pour-agir-en-faveur-du-developpement-durable-10835)
->
-> [Qu'est-ce qu'un éco-délégué ? \|
-> Mtaterre](https://mtaterre.fr/dossiers/dossier-eco-delegue/quest-ce-quun-eco-delegue)
-
-**[Actions à mettre en place] :** 
----------------------------------------------
-
-**[Diagnostic ]**: action du projet d'établissement en lien
-avec l'éducation au développement durable ; action et projet en lien
-avec EDD dans le cadre du CESCE ; partenariat extérieurs en lien avec
-EED ; action inter-degrés (école, collège, lycée) sur des projets EDD ;
-engagement des élèves au sein des instances ; élection éco-délégués et
-leur implication ; engagement des adultes dans les instances de
-l'établissement sur la question de l'EDD
-
-+----------------------------------+----------------------------------+
-| **Partager et construire une     | **Travailler avec la com         |
-| culture commune pour renforcer   | éducative pour faire vivre l'EDD |
-| la dynamique collective de       | au sein de l'établ et en         |
-| généralisation de l'EDD**        | réseau**                         |
-+==================================+==================================+
-| -   Travailler avec la com éduc  | -   **Sensibiliser aux enjeux du |
-|     sur le **projet établ** (axe |     DD**                         |
-|     sur l'EDD)                   |                                  |
-|                                  | ```                       |
-| -   **Travailler collectivement  |                          |
-|     à :**                        | ```                              |
-|                                  | -   **Mettre en place élection   |
-| Sensibiliser aux enjeux du DD    |     des éco-délégués**           |
-|                                  |                                  |
-| Sensibiliser à l'acte de         | Présenter les objectifs et le    |
-| l'engagement                     | rôle des E-D                     |
-|                                  |                                  |
-| S'impliquer dans des actions EDD | Valoriser les actions qui ont    |
-|                                  | été entreprises ou réalisées     |
-| Communiquer un message de DD     |                                  |
-|                                  | -   **Sensibiliser la com        |
-| Prendre des responsabilités pour |     éducative**                  |
-| impulser une dynamique EDD       |                                  |
-|                                  | ```                       |
-| Favoriser la liaison             |                          |
-| école-collège pour travailler    | ```                              |
-| sur la question du DD            | -   Mettre en place des actions  |
-|                                  |     de com pour toucher tous les |
-|                                  |     élèves de l'établ (affiches, |
-|                                  |     site ou blog, réseaux        |
-|                                  |     sociaux)                     |
-|                                  |                                  |
-|                                  | -   Chercher à susciter          |
-|                                  |     l'engagement par des         |
-|                                  |     témoignages d'ancien élèves  |
-|                                  |     E-D                          |
-|                                  |                                  |
-|                                  | -   Mettre en lien les E-D d'une |
-|                                  |     même ville                   |
-|                                  |                                  |
-|                                  | -   Sensibiliser sous forme      |
-|                                  |     d'actions de solidarité      |
-|                                  |                                  |
-|                                  | ```                       |
-|                                  |                          |
-|                                  | ```                              |
-|                                  | -   **S'impliquer dans des       |
-|                                  |     actions EDD**                |
-|                                  |                                  |
-|                                  | ```                       |
-|                                  |                          |
-|                                  | ```                              |
-|                                  | -   S'engager dans une démarche  |
-|                                  |     globale de DD (E3D) qui      |
-|                                  |     apporte des solutions        |
-|                                  |     concrètes pour répondre au   |
-|                                  |     Objectifs de DD dans le      |
-|                                  |     cadre de l'agenda 2030       |
-|                                  |                                  |
-|                                  | -   Participation à un évènement |
-|                                  |     ponctuel (conférence,        |
-|                                  |     journée dédiée à... ;        |
-|                                  |     collecte ; vestiaire         |
-|                                  |     solidaire ; plantation       |
-|                                  |     d'arbres ; composte)         |
-|                                  |                                  |
-|                                  | -   Mise en place d'une          |
-|                                  |     politique de tri (cantine)   |
-|                                  |                                  |
-|                                  | -   Lutte anti-gaspillage à la   |
-|                                  |     cantine (grande et petite    |
-|                                  |     assiette)                    |
-|                                  |                                  |
-|                                  | ```                       |
-|                                  |                          |
-|                                  | ```                              |
-|                                  | -   **Prendre des                |
-|                                  |     responsabilités pour         |
-|                                  |     impulser une dynamique EDD   |
-|                                  |     dans son environnement**     |
-|                                  |                                  |
-|                                  | ```                       |
-|                                  |                          |
-|                                  | ```                              |
-|                                  | -   Rédaction d'une charte       |
-|                                  |                                  |
-|                                  | -   Organiser des rencontres     |
-|                                  |     avec d'autres acteurs        |
-|                                  |     (scientifiques, élus, etc)   |
-+----------------------------------+----------------------------------+
-
-**Fin septembre, début octobre** Semaine européenne du développement
-durable
-
-**Décembre** Journée mondiale du climat
-
-Les gestes éco dans les établissements : [Développement durable : que
-faites-vous dans vos lycées ?
-(phosphore.com)](https://www.phosphore.com/reussir-au-lycee/developpement-durable-que-faites-vous-dans-vos-lycees/)
-
-**Actions** réduire les déchets à la cantine
-
-Elaborer diagnostic, équipe pilote, objectif, financement
-
--   Peser déchet sur une semaine mettre à disposition d'une poubelle
-    spécial pain, spécial alimentaire et autres = (peser du pain, déchet
-    alimentaire, déchet obligatoire -- peau de fruit, serviette,
-    emballage) constater le gaspillage + établir objectif de réduction
-    avec élèves
-
--   Afficher dans le hall et à la cantine les résultats
-
--   En amont, j'aurais vu avec le Gestionnaire = achat de petite
-    assiette (les élèves auront juste à demander une petite assiette et
-    les agents sauront qu'il faut mettre une quantité qui correspond à
-    la capacité de l'assiette)
-
--   Elève sensibilise leurs camarades sur la semaine à venir, via les
-    délégués de classe, création d'affiche (avec les résultats de la
-    pesée de la semaine précédente) = élève sensibiliser à demander la
-    petite assiette, prendre que ce dont ils sont sûr de consommer
-
--   Nouvelle pesée pour comparer après la semaine de sensibilisation et
-    le test de la petite assiette
-
--   Voir avec les agents, pour le pain = possibilité de couper des
-    morceaux de pain en deux et de prendre que des demi-pains
-
--   Toujours présenter sous forme d'affiche le menus de la semaine aux
-    élèves, devant la cantine ou dans le hall, pour qu'ils puissent
-    savoir en amont le type d'assiette demandé et éviter le gâchis
-
--   Essaie sur 4 semaines et affiché chaque semaine les résultats pour
-    inciter les élèves à continuer
-
-**Dans la continuité** **de la cantine** : mettre au niveau des
-poubelles, des bacs de récupération de yaourt, fruit, entrée, pain, ou
-autres que les élèves n'ont pas consommé et sur la base du volontariat
-les élèves pourront se servir dans ce bac pour compléter leur repas
-
-**Par la suite,** effectué une pesée toutes les deux semaines voire tous
-les mois pour connaitre le poids des déchets
-
-**Eau :** prévenir les élèves à la cantine, de ne plus jeter l'eau des
-cruches, mais de la desservir dans un bac pour arroser les plantes
-Planter des plantes = créer un jardin dans la cours
-
-
-
-# 13-EDUCATION-CITOYENNETE-VAL-REP
-[Retour au sommaire](#sommaire)
-
-**[INTRODUCTION]** 
-------------------------------
-
-« *L'Ecole est un lieu d'apprentissage de la vie démocratique. Mais une
-République d'enfant serait un danger »*, Hannah ARENDT. L'établissement
-scolaire, en même temps qu'il est un lieu d'acquisition de savoirs et de
-développement de l'esprit critique et scientifique est celui d'un
-apprentissage, commencé dès l'école élémentaire, des règles de la vie
-démocratique et des droits et devoirs attachés à l'exercice de la
-citoyenneté. L'éducation à la citoyenneté doit être un apprentissage
-progressif. On va davantage faire participer les jeunes et leur faire
-prendre des responsabilités.
-
-**[Citoyenneté]** apprentissage de la démocratie, respect
-d'autrui, vivre-ensemble, solidarité, prévention violence, utilisation
-internet + réseaux sociaux 
-
-**[Citoyen]** acteur de la société démocratique avec des
-droits et des devoirs
-
-**[Engagement]** participation à la vie de l'établissement
-et à son implication dans les différentes instances de l'établissement
-en appliquant les valeurs de la République.
-
-**[Démocratie]** ensemble des instances de l'éducation
-nationale permettant l'expression des élèves via des représentants élus
-
-**[ENJEUX]** 
-------------------------
-
-**CITOYENS ECLAIRES, RESPONSABLES, RESPECTUEUX ET AUTONOMES**
-
--   Dans les années 1960, la massification où l'accès au plus grand
-    nombre d'élève à l'enseignement secondaire à nécessité de développer
-    l'éducation à la citoyenneté car hétérogénéité du public et besoin
-    de créer une culture commune, vivre-ensemble et les mêmes valeurs.
-
-    -   D. SCHNAPPER, [L'école, vecteur des valeurs de la
-        république], 2014 : *importance du rôle de
-        transmission de l'école pour que les élèves puissent acquérir
-        les mêmes valeurs.*
-
-    -   CPE accompagne les élèves dans l'apprentissage de la
-        citoyenneté, notamment en les informant de leurs droits et
-        devoirs ainsi que leurs responsabilité et la capacité à les
-        exercer dans un espace de vie scolaire (pause méridienne, foyer,
-        MDL, etc)
-
--   L'éducation à la citoyenneté à l'école donne le moyen aux élèves de
-    participer activement et façon autonome à la société. Elle partage
-    un attachement à la démocratie et aux droits humains comme base
-    d'une meilleure vie de tous.
-
-    -   D. SCHNAPPER, [Qu'est-ce que la citoyenneté], 2000 :
-        *l'Ecole doit donner à tous les moyens d'exercer concrètement
-        ses droits.*
-
-    -   CPE, doit garantir en lien avec les personnels, le respect des
-        règles de vie et de droits dans l'établissement
-
-    -   CPE favorise la participation des élèves dans les instances
-        représentatives de l'établissement. Accompagne les élèves,
-        notamment dans leur formation à une citoyenneté participative et
-        accompagne les parcours de l'élève sur les plans péda et
-        éducatifs. Il organise la formation des délégués, afin que ces
-        derniers soient en mesure d'assurer leurs fonctions au sein des
-        différentes instances de l'établissements.
-
-    -   **C5 : Accompagner le parcours de l\'élève sur les plans
-        pédagogique et éducatif**
-
-    -   **C6 : Accompagner les élèves, notamment dans leur formation à
-        une citoyenneté participative**
-
--   Eduquer à la citoyenneté, c'est apprendre les règles du dialogue.
-    Cela consiste à donner la parole à ceux qui la prenne le moins, à
-    leur faire prendre confiance en eux, à les pousser à exprimer leurs
-    idées, à argumenter, et à les initier au respect mutuel.
-
--   Eduquer à la citoyenneté, c'est développer le sens critique chez les
-    élèves et leur jugement, la socialisation, préparation de la vie en
-    société, appropriation de la loi et du sens de la règle. Permet de
-    créer du lien social et une capacité à vivre ensemble.
-
-    -   CPE prend place dans l'appropriation des valeurs de tolérance,
-        de solidarité et de vivre ensemble. C'est avec l'ensemble de la
-        communauté éducative que le CPE fait partager les valeurs de la
-        république. Il agit en éducateur responsable selon des principes
-        éthiques.
-
-    -   ROUYER, BEAUMATIN, FONDEVILLE, [Education et
-        citoyenneté], 2000 : *le rapport à la citoyenneté ne
-        se construit pas simplement à travers la transmission de
-        connaissances, de normes, de valeurs et de principes, mais au
-        cours d'un processus de socialisation par lequel les jeunes
-        confrontent leurs visions du monde.* *La citoyenneté n'est plus
-        une finalité de la souveraineté politique, mais un moyen de
-        maintenir la paix dans le monde.*
-
-**[Obstacles]** 
----------------------------
-
--   C. RAVEZ, [Regard sur la citoyenneté à l'école] 2018 
-
-    -   En France, il est difficile pour les élèves d'aller à l'encontre
-        d'un ordre social hiérarchique préexistant, où les adultes font
-        peu confiance aux adolescents dont le degré de légitimé et de
-        maturité est questionné. Ils peuvent rarement négocier. La
-        présence d'un élève dans une instance influence peu voire pas du
-        tout les décisions prises par les adultes.
-
-**[Politiques éducatives]** 
----------------------------------------
-
--   **1789** : Déclaration des droits de l'homme et du citoyen naissance
-    de la citoyenneté
-
--   **1947 **: Plan Langevin-Wallon pose les fondements d'une
-    citoyenneté éducative
-
--   **1989 **: élèves ont un droit d'exercice, de liberté d'expression
-    et d'information = éducation à la citoyenneté
-
--   **2005** : l'éducation à la citoyenneté est la première mission de
-    l'école, partager les valeurs de la république
-
--   **2013 **: l'éducation développe les connaissances et les
-    compétences et la culture nécessaire à l'exercice de la citoyenneté
-    dans la société contemporaine de l'information et de la
-    communication **[objectif ]**: assurer un cadre
-    protecteur et citoyen chez les élèves et le personnel
-
--   **2016 **: **circulaire de rentrée** : Ecole transmet savoirs et
-    compétences à l'apprentissage de la citoyenneté, former futur
-    citoyen autonome, éclairés et instruits
-
--   **2019 **: formation des enseignants à la connaissance des valeurs
-    de la république
-
-**[Dispositifs] :** 
--------------------------------
-
-Les élèves, au collège et au lycée, acquièrent un certain nombre de
-droits, notamment celui d'être représentés dans des instances de
-l'établissement et de prendre part, en tant que membre de la communauté
-éducative, à des décisions les concernant.
-
--   **CVC** (2016) + **CVL** + **CESCE** + **CA**
-
--   Création des **4 parcours éducatifs** (réforme du collège --
-    BELKACEM), dont le **parcours citoyen** qui s'adresse à des citoyens
-    en devenir qui prennent conscience de leurs droits et devoirs ainsi
-    que de leurs responsabilités. Adossé aux enseignements, en
-    particulier EMC et EMI. Le PC concourt à la transmission des valeurs
-    et principes de la république en abordant les grands champs de
-    l'éducation à la citoyenneté = laïcité, égalité H/F + respect
-    mutuel, lutte discrimination + harcèlement, racisme, lutte abs, EEDD
-
--   **Parcours citoyen** [Le parcours citoyen \| Ministère de
-    l\'Education Nationale et de la
-    Jeunesse](https://www.education.gouv.fr/le-parcours-citoyen-5993)
-
--   **Semaine de l'engagement** mi-septembre = sensibiliser les élèves à
-    s'engager dans les instances
-
--   **Semaine de la démocratie** début octobre = encourager les parents
-    à s'engager [La semaine de la démocratie scolaire \| Ministère de
-    l\'Education Nationale et de la
-    Jeunesse](https://www.education.gouv.fr/la-semaine-de-la-democratie-scolaire-7493)
-
--   **Journée du droit dans les collèges** [Journée du droit dans les
-    collèges \| éduscol \| Ministère de l\'Éducation nationale et de la
-    Jeunesse - Direction générale de l\'enseignement scolaire
-    (education.fr)](https://eduscol.education.fr/3322/journee-du-droit-dans-les-colleges)
-
-**[Actions mises en place] :** 
-------------------------------------------
-
-**[Diagnostic ]**: nb d'élève engagé, formation délégué,
-adultes engagés dans les instances
-
-+----------------------------------+----------------------------------+
-| **Favoriser la citoyenneté       | **Accompagner avec la com éduc   |
-| participative dans la politique  | les élèves dans la formation à   |
-| éducative**                      | une CP**                         |
-+==================================+==================================+
-| -   **Projet établissement**     | > **[Les règles de vie, de       |
-|     volonté de créer une culture | > droits et devoirs des          |
-|     commune                      | > élèves]**          |
-|                                  |                                  |
-| -   Participation                | -   Travail avec le PP : sur le  |
-|     **instances**/**projets**    |     RI                           |
-|                                  |                                  |
-| -   Valorisation de              | -   Travail sur les institutions |
-|     **compétences** (autonomie,  |     (visiter une mairie)         |
-|     prise initiative, sens       |     parcours citoyen             |
-|     engagement), sur **Folios**  |                                  |
-|     / **parcoursup**             | -   Expliciter le RI aux         |
-|                                  |     familles                     |
-| -                                |                                  |
-|  **[Partenaires]** : | **[Le débat et la réflexion au   |
-|     doc, inf, prof, familles,    | centre des                       |
-|     chef, média                  | apprentissages]**    |
-|                                  |                                  |
-| -                                | -   **EMC **: travail sur        |
-|    **[Evènement]** : |     l'engagement, citoyenneté,   |
-|     porte ouverte, semaine de    |     laïcité, respect, travail    |
-|     l'engagement                 |     sur la liberté et ses        |
-|                                  |     responsabilités (droits de   |
-| -   Informer les élèves sur      |     réunion, expression, etc)    |
-|     leurs **droits** et          |                                  |
-|     **responsabilités**          | -   **Favoriser les débats**     |
-|                                  |     (inviter des membres de la   |
-| -   Respect du principe de       |     com éduc)                    |
-|     **neutralité**, **laïcité**, |                                  |
-|     **lutte discrimination**     | -   **Validation des             |
-|                                  |     compétences** dans le        |
-| -   **Encourager** les élèves à  |     parcours citoyen             |
-|     participer à la vie de       |                                  |
-|     l'établissement              | **[Favoriser l'engagement        |
-|                                  | instances et valoriser rôles     |
-|                                  | pour devenir de futurs citoyens  |
-|                                  | autonomes et                     |
-|                                  | responsables]**      |
-|                                  |                                  |
-|                                  | -   Faire connaitre les          |
-|                                  |     instances                    |
-|                                  |                                  |
-|                                  | -   Formation délégués et        |
-|                                  |     accompagnement               |
-|                                  |                                  |
-|                                  | -   Election grandeur nature     |
-|                                  |                                  |
-|                                  | -   Participation projet         |
-|                                  |                                  |
-|                                  | -   HVC (dvpt expression orale)  |
-|                                  |                                  |
-|                                  | -   Travail délégués ou CVC/CVL  |
-|                                  |     sur la liaison école-collège |
-|                                  |     / collège-lycée              |
-|                                  |                                  |
-|                                  | -   Travail avec éco-délégués    |
-|                                  |     sur le DD à l'école          |
-|                                  |                                  |
-|                                  | -   Travail sur la charte de la  |
-|                                  |     laïcité                      |
-+----------------------------------+----------------------------------+
-
-**Ecole** lieu de vie et pas uniquement de travail. Lieu d'apprentissage
-de la citoyenneté et est porteuse de valeurs auxquelles doivent adhérer
-chacun de nos élèves nécessité de bien être dans l'établissement
-favorise le vivre ensemble = réussite de tous les élèves
-
-Engagement dans la vie de l'établissement = CS serein = réussite
-
-Possibilité de dvper des compétences hors du cadre purement scolaire via
-les instances, projets
-
-Ecole transmet des savoirs et des compétences en lien avec les valeurs
-de la république
-
-Formation d'un **futur citoyen capable de vivre en société**, ayant des
-**compétences** et acquis des **valeurs**
-
-**Transmettre et faire respecter les principes et valeurs de la
-République :** [Transmettre et faire respecter les principes et valeurs
-de la République \| éduscol \| Ministère de l\'Éducation nationale et de
-la Jeunesse - Direction générale de l\'enseignement scolaire
-(education.fr)](https://eduscol.education.fr/1543/transmettre-et-faire-respecter-les-principes-et-valeurs-de-la-republique)
-
-
-
-# 14-LAICITE-A-LECOLE
-[Retour au sommaire](#sommaire)
-
-**[INTRODUCTION]** 
-------------------------------
-
-Le ministre de l'EN actuel, PAP N'DIAYE, a annoncé récemment une hause
-de 40% des faits d'atteintes à la laïcité sur l'année scolaire
-2022-2023. Ce sont les collèges qui sont davantage concernés par cette
-hausse. La laïcité est un principe fondateur de l'école républicaine
-inscrit dans l'article premier de la Constitution qui affirme que :
-« *La France est une république indivisible,* *laïque, démocratique et
-sociale. Elle assure l'égalité devant la loi de tous les citoyens sans
-distinction d'origine, de race ou de religion*. » C'est la liberté de
-croire ou de ne pas croire et l'égalité de toutes les croyances devant
-la loi. Elle est la condition du respect d'autrui et des règles qui
-fondent la citoyenneté. Marie Duru-Bellat et F. DUBET, [Dix propositions
-pour changer l'école], (2015), montrent que la laïcité est
-une question actuelle, notamment avec les attentats de 2015, qui nous
-pousse à réaffirmer les valeurs de la République. Ainsi l'assassinat de
-Samuel Paty en octobre 2020 est une réelle prise de conscience au niveau
-de l'institution scolaire, un principe non maitrisé pour la plupart des
-citoyens. L'essentielle est alors de construire une éducation à la
-citoyenneté pour partager une culture commune ainsi que les mêmes
-valeurs pour le bien vivre ensemble.
-
-[La laïcité à l\'école \| Ministère de l\'Education Nationale et de la
-Jeunesse](https://www.education.gouv.fr/la-laicite-l-ecole-12482)
-
-**Ostensible** \--\> signes qui se voit sans provocation
-
-**Ostentatoire** \--\> qui cherche à le montrer, à se faire voir
-
-**[ENJEUX]** 
-------------------------
-
-**CITOYENS LIBRES, INSTRUITS, ELCAIRES, RESPONSABLES, RESPECTEUX**
-
--   La laïcité à l'école assure des **droits** et des **libertés** aux
-    élèves. Ils ont la liberté de conscience et la liberté de croire ou
-    de ne pas croire, et de changer de conviction. Chaque élève est
-    **libre** de choisir ses convictions religieuses, philosophiques et
-    politiques, tant que leur expression se fait dans le respect de
-    l'autre.
-
-    -   Abdennour Bidar, [Pour une pédagogie de la laïcité à
-        l'école], 2012 : *L'école laïque est un lieu qui
-        favorise l'apprentissage de la liberté personnelle et du respect
-        d'autrui. Elle assure également la sécurité de tous. C'est une
-        des conditions du bien vivre ensemble.*
-
-    -   Néanmoins, les droits des élèves impliquent des **obligations**,
-        nécessaires pour que l'école reste un lieu d'apprentissage
-        serein et de vie collective. Dans le cas où un élève
-        contreviendrait à certaines obligations de la laïcité, un
-        dialogue aurait lieu avec lui et sa famille. Ce dialogue permet
-        de lever les possibles malentendus, en expliquant le sens de la
-        laïcité à l'école, et en rappelant le cadre légal.
-
-    -   **L'importance du lien avec les familles** et les partenaires
-        (Inf, Psy EN, AS) pour faire prendre conscience aux élèves et à
-        leur famille de l'importance du principe de laïcité et de sa
-        réglementation à l'école.
-
-    -   Le CPE contribue au respect des principes de neutralité et de la
-        laïcité au sien des établissements et à la lutte contre toutes
-        les formes de discriminations. Il prend toute sa place dans
-        l'appropriation des valeurs de tolérance, de solidarité et de
-        vivre-ensemble.
-
--   Le principe de laïcité à l'école permet aux élèves de construire
-    leur **esprit critique** (distinguer les savoirs des opinions ou des
-    croyances à savoir argumenter et à respecter la pensée des autres)
-    et **d'acquérir les règles de la vie en société**. En outre, les
-    élèves sont soumis à l'obligation d'assiduité, ils doivent suivre
-    l'ensemble des enseignements qui sont également laïque et n'ont pas
-    le droit de les contester au nom de leur religion. Ainsi, lors de la
-    rentrée, le **volet relatif à la laïcité inscrit dans le règlement
-    intérieur** est présenté à tous les élèves.
-
-    -   CPE participe à la diffusion et à l'explication des principes
-        énoncés dans la charte de la laïcité à l'école. Il doit savoir
-        transmettre et faire partager les valeurs et les principes de la
-        République.
-
-    -   Abdennour Bidar, [Pour une pédagogie de la laïcité à
-        l'école], 2012 : *Un enseignant ne fait pas
-        d'éducation religieuse, mais il fait découvrir les grandes
-        options existentielles de l'humanité. Acquérir une culture
-        générale. Importance d'une culture des faits religieux, dans un
-        cadre de pensée laïc.*
-
--   La laïcité à l'école permet de former des futurs **citoyens éclairés
-    et responsables**. Cela passe par une éducation éclairée aux médias
-    et à l'information ainsi qu'à l'usage responsable du numérique.
-
-    -   Pour mieux comprendre le principe de laïcité à l'école, les
-        élèves peuvent participer chaque année à des **actions
-        éducatives qui permettent d'expérimenter, à travers des projets
-        collectifs, un apprentissage citoyen**. L'EMC en particulier
-        permet aux élèves d'avoir des réponses sur les questions de la
-        laïcité.
-
--   L'école publique est un lieu neutre, les élèves doivent donc être
-    **respectueux** envers cette neutralité. Il est interdit aux élèves
-    ainsi qu'aux personnels le port de signes et tenues qui sont
-    considérés comme ostensibles, dont le port conduit à se faire
-    immédiatement reconnaître par son appartenance religieuse.
-
-    -   Abdennour Bidar, [Pour une pédagogie de la laïcité à
-        l'école], 2012 : *Aide à développer une identité
-        personnelle et citoyenne, à apprendre à modérer l'expression de
-        son appartenance religieuse, afin que les autres ne subissent
-        pas son affirmation.* Placer les élèves en situation de liberté
-        vis-à-vis d'autrui et de lui-même.
-
-**[Obstacles]** 
----------------------------
-
--   **Rapport OBIN à BLANQUER sur [La laïcité à
-    l'école] (2021)** pose un certain nombre de constats
-    notamment qu'il y a une réelle méconnaissance du principe de laïcité
-    et des valeurs de la république. Il écrit dans son rapport que
-    lorsqu'il demande à des personnels de citer les valeurs de la
-    république, la majorité ne sait pas répondre et cela pose problème
-    car l'objectif premier de l'école c'est de faire adhérer les élèves
-    aux valeurs de la république et au principe de laïcité.
-
-**+ élèves réfractaires = non-respect de la minute de silence**
-
-**[Politiques éducatives]** 
----------------------------------------
-
--   **1789** : **Déclaration des droits de l'homme et du citoyen** la
-    révolution française va poser les principes mis en œuvre dans la
-    loi. L'état civil pendant la révolution est laïcisé.
-
-```
-
-```
--   **1882** : Jules FERRY rend l'enseignement [obligatoire]
-    et [laïc] progrès dans la scolarisation des filles,
-    supprime l'enseignement religieux à l'école et le remplace par une
-    instruction morale.
-
--   **1886** : Loi GOBELT laïcisation du personnel et des programmes
-    d'enseignement
-
--   **1905** : Loi séparation des églises et de l'état la liberté
-    absolue de conscience (art.1), le droit de manifester ses croyances
-    sans pression (art 2), la liberté du culte dans le respect de la loi
-    (art 3), la séparation des églises et de l'état (neutre, souverain).
-    Des peines sont prévues si on ne respecte pas cette loi.
-    **République devient laïque**
-
--   **1989** : affaire du fouloir entre 3 filles, exclus de leur
-    établissement car portent le voile évènement majeur de ce siècle en
-    termes de remise en cause du principe de laïcité. Cet évènement
-    conduit les autorités à légiférer de nouveau la laïcité à l'école ce
-    qui conduit à la loi de 2004.
-
--   **Loi de 2004** : vient restreindre la liberté des élèves car elle
-    interdit le port de signes religieux ostensibles à l'école. Elle
-    protège la liberté de conscience des élèves. Elle s'applique à
-    toutes les religions et répond au principe de neutralité. [Loi
-    n°2004-228 du 15 mars 2004 encadrant, en application du principe de
-    laïcité, le port de signes ou de tenues manifestant une appartenance
-    religieuse dans les écoles, collèges et lycées publics \| Ministère
-    de l\'Education Nationale et de la
-    Jeunesse](https://www.education.gouv.fr/loi-ndeg2004-228-du-15-mars-2004-encadrant-en-application-du-principe-de-laicite-le-port-de-signes-1697)
-
--   **2005** : des autorisations d'absences pouvant être accordées à
-    l'occasion des principales fêtes religieuses des différentes
-    confessions
-
--   **2013 **: Charte de la laïcité doit être affichée et présentée dans
-    tous les établissements. Ce n'est pas un texte de loi, mais un
-    rappel solennel qui doit aider les enseignants à transmettre des
-    savoirs et des savoir-faire aux élèves dans une société démocratique
-    où la liberté de conscience doit être respectée. [Charte de la
-    laicité
-    (wordpress.com)](https://revisionscpe.files.wordpress.com/2022/05/chartelaicite_3_268640.pdf)
-
-    -   La loi de refondation la laïcité apparait comme un enjeu
-        fondamental pour la démocratie française faisait partie
-        intégrante des missions allouées à l'école. Elle joue un rôle
-        dans la formation des citoyens de demain.
-
-    -   Canopé -- **Abdennour Bidar**, chargé de mission sur la laïcité
-        au ministère de l'Éducation nationale, détaille en vidéo le
-        contenu des 15 articles de la charte de la laïcité à l'école.
-
-> [Éduquer à la laïcité - Réseau Canopé
-> (reseau-canope.fr)](https://www.reseau-canope.fr/valeurs-de-la-republique/laicite/se-former/eduquer-a-la-laicite.html)
-
--   **2019** pour une école de la confiance a renforcé la lutte contre
-    le prosélytisme
-
-*Article 10* : « *Les comportements constitutifs de pressions sur les
-croyances des élèves ou de tentatives d'endoctrinement de ceux-ci sont
-interdits dans les écoles publiques et les établissements publics locaux
-d'enseignement, à leurs abords immédiats et pendant toute activité liée
-à l'enseignement. La méconnaissance de cette interdiction est punie de
-l'amende prévue pour les contraventions de la cinquième classe. »*
-
--   **Juillet 2021 :** Instauration d'un comité interministériel de la
-    laïcité par le premier ministre BLANQUER
-
-    -   La nécessité de former tous les agents publics au principe de la
-        laïcité (normé dans la loi confortant le respect des principes
-        de la république du 24/08/21)
-
--   Publication de cahiers des charges pour un continuum de formation
-    obligatoire des personnels enseignants et d'éducation à la laïcité
-    et aux valeurs de la république (12/09/21)
-
--   **Circulaire relative au plan laïcité dans les écoles et les
-    établissements scolaire** **PAP NDIAYE** (10/11/22), rien de
-    nouveaux, circulaire politique, a été victime d'attaque de la part
-    de l'extrême de droite, souhaitais redonner une circulaire sur le
-    sujet
-
-**[La loi du 24 août 2021]** a renforcé la protection des
-professeurs et des agents publics l'amendement dit \"Samuel Paty\"
-prévoit que le fait d'entraver, d'une manière concertée et à l'aide de
-menaces, l'exercice de la fonction d'enseignant est puni de trois ans
-d'emprisonnement et de 45 000 euros d'amende.
-
-**[PLAN LAICITE]**
-
-1.  Sanctionner systématiquement et de façon graduée le comportement des
-    élèves portant atteinte à la laïcité lorsqu'il persiste après une
-    phase de dialogue
-
-2.  Renforcer la protection et le soutien aux personnels
-
-3.  Appuyer les chefs d'établissement en cas d'atteinte à la laïcité
-
-4.  Renforcer la formation des personnels et en premier lieu celle des
-    chefs d'établissement
-
-**[Dispositifs] :** 
--------------------------------
-
--   CVC + CVL + CESCE constituent des instances d'exercice de la
-    citoyenneté / Parcours citoyen / socle commun
-
--   **Journée de la laïcité** (décembre) : travail sur la charte par
-    exemple [Journée de la laïcité à l\'École de la République \|
-    éduscol \| Ministère de l\'Éducation nationale et de la Jeunesse -
-    Direction générale de l\'enseignement scolaire
-    (education.fr)](https://eduscol.education.fr/3508/journee-de-la-laicite-l-ecole-de-la-republique)
-    **+** [Journée de la laïcité à l\'école 2021 : la communauté
-    éducative mobilisée \| Ministère de l\'Education Nationale et de la
-    Jeunesse](https://www.education.gouv.fr/journee-de-la-laicite-l-ecole-2021-la-communaute-educative-mobilisee-326587#:~:text=Chaque%20ann%C3%A9e%2C%20la%20communaut%C3%A9%20%C3%A9ducative,%C3%A9coles%20et%20des%20%C3%A9tablissements%20scolaires.)
-
--   **Mallette des parents** sur la question de la laïcité [La laïcité à
-    l'école \| Mallette des parents
-    (education.gouv.fr)](https://mallettedesparents.education.gouv.fr/parents/ID237/la-laicite-a-l-ecole)
-
--   [Le conseil des sages de la laïcité \| Ministère de l\'Education
-    Nationale de la Jeunesse et des
-    Sports](https://www.education.gouv.fr/le-conseil-des-sages-de-la-laicite-et-des-valeurs-de-la-republique-41537)
-
--   Mémento "**[Faire vivre la laïcité et lutter contre le racisme à
-    l'école]**"
-    [faire-vivre-la-la-cit-et-lutter-contre-le-racisme-l-cole-15982.pdf
-    (wordpress.com)](https://revisionscpe.files.wordpress.com/2022/05/faire-vivre-la-la-cit-et-lutter-contre-le-racisme-l-cole-15982.pdf)
-
--   Semaine de l'engagement + démocratie scolaire [Semaines de
-    l\'engagement & semaine de la démocratie scolaire \| CPE - Vie
-    scolaire
-    (ac-toulouse.fr)](https://pedagogie.ac-toulouse.fr/cpe-vie-scolaire/semaines-de-l-engagement-lyceen-2019)
-
-**[Actions mises en place] :** 
-------------------------------------------
-
-+----------------------------------+----------------------------------+
-| **Réaffirmer les enjeux du       | **Accompagner les élèves,        |
-| principe de laïcité pour         | notamment dans leur formation à  |
-| favoriser le vivre ensemble**    | une citoyenneté participative**  |
-+==================================+==================================+
-| -   Il appartient à tous les     | -   Travailler sur la **charte   |
-|     personnels de transmettre    |     de la laïcité** = aide à     |
-|     aux élèves le sens et la     |     transmettre des savoirs et   |
-|     valeur de la laïcité, ils    |     savoir-faire aux élèves dans |
-|     veillent à leur application  |     une société démocratique     |
-|     dans le cadre scolaire       |                                  |
-|     *(art.10 charte laïcité)*    | -   S'investir dans la           |
-|                                  |     **formation des délégués** + |
-| -   **CC1 : faire partager les   |     **instances**                |
-|     valeurs de la république**   |                                  |
-|                                  | **[Objectif]**       |
-| [Objectif] bonne     | contribuer à l'enseignement      |
-| connaissance du principe de la   | civique et moral de l'élève      |
-| laïcité pour qu'elle soit bien   | ainsi qu'à la qualité du cadre   |
-| transmise                        | de vie et d'étude                |
-|                                  |                                  |
-| -   **C2. Garantir, en lien avec | -   Proposer des **actions**     |
-|     les autres personnels, le    |     (CESCE) et partenariat avec  |
-|     respect des règles de vie et |     associations agrées EN       |
-|     de droits dans               |                                  |
-|     l'établissement**            | -   Investir dans la **journée   |
-|                                  |     de la laïcité** (9           |
-| ```                       |     décembre) : activités ; mise |
-|                          |     en place d'ateliers débats : |
-| ```                              |     impliquer l'ensemble de la   |
-| -   Informer les élèves sur la   |     com éduc, prof doc, prof EMC |
-|     laïcité                      |                                  |
-|                                  | **[Objectif]**       |
-| -   Former les équipes aux       | donner du sens à la question de  |
-|     situations pb                | la laïcité et de la transmission |
-|                                  | des valeurs républicaines à      |
-| -   Anticiper et prévenir        | travers des actions              |
-|     d'éventuelles situation de   |                                  |
-|     contestation                 |                                  |
-+----------------------------------+----------------------------------+
-| **S'assurer du respect du droit  |                                  |
-| au sein de l'établissement**     |                                  |
-+----------------------------------+----------------------------------+
-| -   Le principe de laïcité doit  |                                  |
-|     être inscrit dans le Ri et   |                                  |
-|     voté en CA avec les droits   |                                  |
-|     et devoirs qui explicitent   |                                  |
-|     le métier de l'élève, les    |                                  |
-|     textes de références sur la  |                                  |
-|     laïcité (loi de 2004 et      |                                  |
-|     charte explicitée)           |                                  |
-|                                  |                                  |
-| -   **En cas de non-respect**    |                                  |
-|     dialoguer avec élève +       |                                  |
-|     parents (si récidive) ;      |                                  |
-|     informe CE + référent        |                                  |
-|     laïcité                      |                                  |
-|                                  |                                  |
-| -   **S'appuyer sur les          |                                  |
-|     indicateurs** (taux de       |                                  |
-|     sanctions, récidives, etc)   |                                  |
-|                                  |                                  |
-| -   **Travail d'écriture** avec  |                                  |
-|     les élèves d'une charte de   |                                  |
-|     civilité adossée au RI       |                                  |
-|                                  |                                  |
-| -   **Evaluer et promouvoir** la |                                  |
-|     justice scolaire par une     |                                  |
-|     réflexion sur les valeurs de |                                  |
-|     l'établissement scolaire     |                                  |
-+----------------------------------+----------------------------------+
-
-![](media/image1.png)}
-
-![](media/image2.png){width="4.951388888888889in"
-height="5.538888888888889in"}
-
-[Devoir de mémoire \| CPE - Vie scolaire
-(ac-toulouse.fr)](https://pedagogie.ac-toulouse.fr/cpe-vie-scolaire/devoir-de-memoire)
-ACTIONS !!
-
-[La Semaine du 21 Mars --
-DILCRAH](https://www.dilcrah.fr/semaine21mars/) Semaine d'éducation et
-d'actions contre le racisme et l'antisémitisme
-
-**[Fraternité]** : la comprendre et la transmettre au sein
-de l\'école [Fraternité : la comprendre et la transmettre au sein de
-l\'école - Réseau Canopé
-(reseau-canope.fr)](https://www.reseau-canope.fr/actualites/actualite/fraternite-la-comprendre-et-la-transmettre-au-sein-de-lecole.html)
-
-VADEMECUM LAICITE (2021)
-
-[download
-(education.fr)](https://eduscol.education.fr/document/1609/download?attachment)
-
-**[Fiche 1]**. **Promouvoir et faire respecter le principe
-de laïcité dans les premier et second degrés**
-
--   Tous les personnels doivent transmettre et faire respecter le
-    principe de laïcité
-
--   L'espace scolaire est le lieu de construction du futur citoyen.
-
--   Toute contestation = sanction / signalement « atteinte à la
-    laïcité »
-
--   Construire un dialogue avec élève + famille car le RI rappelle que
-    la mise en œuvre d'une procédure disciplinaire doit précéder d'un
-    dialogue avec l'élève
-
--   Informer CE
-
--   Organiser réunion de pré-rentrée pour expliciter à tous le principe
-    de laïcité / dans les classes en HVC
-
-**[Fiche 2]. Mobiliser la communauté éducative**
-
--   Projet établissement définit les axes de développement du projet
-    éducatif pour la réussite des élèves. Elaboré avec les représentants
-    de la com éducative et adopté en CA sur proposition du conseil péda
-
--   Renforcer le lien avec les familles = coopération + respect mutuel
-
--   Travail sur la charte de la laïcité = expliciter en HVC / réunion de
-    rentrée
-
--   Mobiliser les instances / parcours citoyen / cours EMC / journée de
-    la laïcité
-
--   Mobiliser les partenaires extérieures = RESERVE CIOTYENNE (2015)
-    contribue à transmettre les valeurs de la république (laïcité,
-    égalité, lutte discri)
-
-**[Fiche 3]. Identification des signes et tenues par
-lesquels les élèves manifestent ostensiblement une appartenance
-religieuse**
-
--   Loi de 2004
-
--   **[Prévenir : informer et impliquer l'équipe pédagogique et
-    éducative]**
-
-    -   **Sensibiliser l'ensemble de l'équipe éducative à porter une
-        attention collective et coordonnée aux comportements des
-        élèves**. En particulier, les assistants d'éducation dans les
-        établissements publics locaux d'enseignement (EPLE) sont à même
-        d'observer des changements de comportements individuels et,
-        éventuellement, des effets de groupe
-
-    -   **Rappeler aux parents et aux élèves le sens de l'interdiction
-        faite aux élèves de porter des signes ou tenues par lesquels ils
-        manifestent ostensiblement une appartenance religieuse**. La loi
-        n'interdit pas les signes discrets, mais elle définit un espace
-        neutre, à l'écart de toute tension communautaire.
-
-    -   Rappeler que **l'obligation de neutralité est totale pour les
-        personnels** et agents du service public d'éducation pour ne
-        favoriser aucune conviction et préserver l'égalité devant le
-        service public
-
--   **[Réagir et traiter la situation]**
-
-    -   Le chef d'établissement et/ou le CPE :
-
-> \- conduisent l'échange et le dialogue ;
->
-> \- rappellent et explicitent la loi et les règles de fonctionnement de
-> l'école ;
->
-> \- interrogent l'élève sur ses représentations, ses motivations, sa
-> connaissance du règlement intérieur et de son sens ;
->
-> \- instaurent une communication au sein de l'équipe pédagogique et
-> éducative sur le
->
-> suivi de l'élève.
->
-> \- mettent en œuvre, en cas d'échec du dialogue, les procédures
-> disciplinaire
-
-**S'applique même en sortie scolaire, en examen**
-
-**En stage, l'élève doit se soumettre au règlement intérieur de
-l'entreprise car l'élève est placé dans un environnement professionnel
-et non scolaire. Ainsi, l'interdiction de porter une tenue ou un signe
-religieux peut résulter des clauses du RI de l'organisme d'accueil qui
-est applicable aux stagiaires**
-
-**[Fiche 8]. Contestation des contenus d'enseignement**
-
--   Loi de 2004
-
--   **L'obligation d'assiduité** qui incombe aux élèves (article L.
-    511-1 du Code de l'éducation) implique notamment qu'ils doivent
-    accomplir tous les travaux écrits et oraux qui leur sont demandés
-    par les enseignants et **respecter le contenu des programmes**
-
-Les élèves n'ont par conséquent pas le droit de s\'opposer à un
-enseignement en raison de leurs convictions religieuses.
-
--   L'éducation à la sexualité fait partie des apprentissages
-    obligatoires, elle transmet des valeurs comme le respect de soi et
-    d'autrui, la tolérance
-
--   Apporte des connaissances dans un cadre de pensée laïc.
-    L'enseignement distingue les savoirs et les croyances, il protège la
-    liberté de conscience des élèves
-
-Toute objection des élèves n'est pas nécessairement une contestation de
-l'autorité du professeur ou d'un enseignement. Les élèves sont en cours
-de construction ; ils expriment souvent leur point de vue sous la forme
-du préjugé ou de la croyance
-
-Pareil pour les cours d'EPS
-
-Les questions relatives à l'EPS sont multiples et peuvent donner lieu à
-des débats argumentés dans le cadre de la discipline. Plusieurs thèmes
-de réflexion sont possibles :
-
--   L'égalité filles-garçons, et le travail sur les stéréotypes de genre
-
--   L'école inclusive et l'intégration des élèves en situation de
-    handicap
-
--   L'élaboration et le respect de la règle
-
--   L'équité pour la réussite et l'apprentissage de tous les élèves
-
--   Le sens de la rencontre sportive : respect des partenaires et
-    adversaires, notions de victoire et de défaite.
-
-**[Fiche 9]. Refus de l'élève de participer à une activité
-scolaire**
-
--   Loi de 2004 et circulaire de 2011 relative aux modalités
-    d'organisation des sorties et voyages scolaires
-
--   Obligation d'assiduité Il en va de même pour les sorties scolaires
-    obligatoires auxquelles doivent participer les élèves
-
--   Préparer la sortie en amont
-
--   Informer les parents du contextes, de l'enseignement
-
--   En cas de réticence = contact avec la famille avec le CE
-
-**[Fiche 10]. Demande d'autorisation d'absence ou de
-dispense d'activité en raison de la pratique d'un culte**
-
--   **Loi de 2004** = autorise des absences pour les grandes fêtes
-    religieuses
-
--   **Or,** en sport **=** une demande d'absence ou de dispense
-    justifiée par une période de jeûne doit être refusée
-
-**[Fiche 11]. Repas différenciés**
-
--   ** **Circulaire du 16 août 2011 du ministère de l'Intérieur relative
-    au principe de laïcité en matière de restauration collective du
-    service public
-
--   PAI raison de santé ?
-
--   La restauration scolaire est un service public relevant des
-    collectivités territoriales
-
--   **Les agents publics sout soumis au respect du principe de
-    neutralité et le fait de prévoir des menus différenciés ne constitue
-    ni un droit ni une obligation**
-
--   Les collectivités territoriales peuvent donc mettre en place
-    librement des repas différenciés
-
-**Actions ?**
-
--   Rappelle aux familles du caractère facultatif de l'inscription à la
-    cantine
-
--   Ce n'est pas une obligation de proposer des repas différenciés
-
-**[Période ramadan]**
-
-Aucun texte réglementaire
-
-Des remises d'ordre peuvent être effectuées lors de la pratique d'un
-culte ou d'une longue absence
-
-Pas d'obligation
-
-**[Fiche 14]. Demande de mise à disposition d'un lieu de
-prière**
-
--   Dans la mesure où les élèves en internat ne peuvent pas quitter
-    librement l'établissement en semaine pour pratiquer leur culte,
-    **l'administration** doit prendre en compte cette circonstance en
-    leur laissant la **possibilité de prier
-    [individuellement], par exemple dans leur chambre**.
-
--   **Sorties avec nuitées et voyages scolaires à l'école, au collège et
-    au lycée** Aucune mise à disposition de lieu de culte collectif lors
-    de ces activités n'est possible. Néanmoins, chaque élève pourra
-    bénéficier d'un temps dédié relevant de sa sphère privée, en dehors
-    des activités communes.
-
-**[Fiche 16]. Célébration de fêtes sécularisées**
-
--   **Loi de 1905 séparation de l'église et de l'état**
-
--   Neutralité à l'égard des cultes
-
--   Lorsqu'un établissement public d'enseignement souhaite célébrer une
-    fête sécularisée, comme par exemple la fête de
-    **[Noël]**, il est nécessaire de s'assurer que la
-    manifestation ne s'accompagne, sauf circonstances particulières, de
-    **l'installation d'aucun signe ou emblème à caractère religieux**
-    et, ainsi, n'exprime pas la reconnaissance d'un culte ni ne marque
-    une préférence religieuse
-
--   La question peut être posée au sujet du **[sapin de
-    Noël]** qui serait considéré comme appartenant à la
-    tradition chrétienne. *Issu de multiples traditions*, d'abord
-    païennes, l'arbre mêle aujourd'hui de [nombreuses
-    symboliques]. Le sapin, symbole d'une fête largement
-    laïcisée, peut être installé à condition qu'il ne revête aucun
-    caractère cultuel dans sa présentation ou dans sa décoration.
-
-**[Fiche 22]. Port de signes religieux par les parents
-d'élèves**
-
-En sortie scolaire, les parents ont le droit, pareil pour les réunions
-ou rencontre parents-prof / CPE / CE
-
-Dans le cadre d'une intervention en classe ou dans l'établissement =
-soumis à obligation de neutralité
-
-**[Intervenants extérieurs]**
-
-En dehors des locaux scolaires = elles peuvent mais sans faire acte de
-prosélytisme
-
-A l'intérieur de l'école (2019) = elles n'ont pas le droit, respect du
-principe de laïcité = neutralité
-
-**[PROCEDURES DISCIPLINAIRE SUR UN FAIT DE LAICITE]** 
-=================================================================
-
-**Une phase de dialogue obligatoire** avec l'élève avant un conseil de
-discipline sur un fait relative à la laïcité = organisé par le CE en
-lien avec l'équipe de direction et équipe éducative (commission
-éducative)
-
-Associe si besoin les membres de l'EAVR (équipe académique des valeurs
-de la république)
-
-Si au bout de dialogue, l'élève renonce au port de signe religieux, la
-procédure disciplinaire est mise en œuvre
-
-***CPE nouvellement nommée en collège REP+. Dans le cadre du volet
-éducatif du projet établissement, le CE vous demande de présenter un
-projet de formation à la laïcité des élus du CVC.***
-
-*En quoi, former les élus du CVC à la laïcité va permettre de les
-préparer à devenir de futurs citoyens éclairés, autonomes et
-responsables ?*
-
-Contribuer à l'appropriation du SC et à la mise en œuvre du parcours
-citoyen
-
-**Diagnostic** : hausse des atteintes à laïcité au sein du collège ;
-hausse des sanctions, des rapports ; baisse du CS et du bien-être
-
-**Objectif** : faire acquérir le principe de laïcité et les valeurs de
-la république aux élus du CVC
-
-Favoriser la coopération et la cohésion des élèves, renforcer le
-sentiment d'appartenance au collège
-
-**Equipe pilote** : CPE, référent laïcité, EMC
-
-**Quand** : après élection du CVC, faire plusieurs séances pour ancrer
-nos actions sur la journée de la laïcité au mois de décembre
-
-**ACTIONS**
-
--   1^re^ séance rappel des droits et devoirs des élèves (brainstorming)
-
-    -   Droit au respect de sa liberté de conscience, liberté
-        d'expression, droit d'être protégé contre les violences
-
-    -   Obligation assiduité, non port de signe religieux (loi 2004),
-        respect autrui, adopter une conduite correcte sans violence
-
-Rappeler que la laïcité n'est pas un principe d'interdiction mais de
-liberté car elle protège
-
-La liberté à l'école n'interdit pas les croyances mais le prosélytisme
-
-Laïcité, liberté de conscience et d'expression sont liés
-
--   2^e^ séance vidéo de CANOPE ou du CLEMI sur la laïcité qui illustre
-    point par point la charte + réalisation d'un quizz en groupe ou d'un
-    jeu de carte (recto/verso) sur des questions d'un côté, la réponse
-    de l'autre
-
-*[Ex ]*: *Peut-on porter un signe religieux ? Réponse : Non
-depuis la loi de 2004 qui interdit le port de signe religieux*
-
--   
-
--   3^e^ séance illustration en groupe de la charte de laïcité, dessin,
-    etc
-
--   Journée du 9 décembre présenter le quizz ou le jeux de carte, et les
-    affiches d'illustration à l'ensemble des élèves et du personnel
-
-
-
-# 15-NUMERIQUE
-[Retour au sommaire](#sommaire)
-
-**[INTRODUCTION]** 
-------------------------------
-
-[L\'utilisation du numérique à l\'École \| Ministère de l\'Education
-Nationale et de la
-Jeunesse](https://www.education.gouv.fr/l-utilisation-du-numerique-l-ecole-12074)
-
-Depuis le début des années 2000, notre société évolue dans un monde de
-plus en plus numérisé et médiatisé. Le numérique représente les
-technologies (ordinateurs, téléphones, ...) et les réseaux sociaux. Les
-enfants nés au début de ce siècle ont grandi avec internet et les
-différentes technologies. L'Ecole est également rentrée dans l'ère du
-numérique, avec l'utilisation d'ordinateurs ou de tablette en classe.
-Selon la DEPP, en 2022, plus de **92% des enseignants** utilisent le
-numérique pour [construire des séquences d'activités] en
-classe dans le second degré.
-
-Le développement d'internet a permis un accès plus rapide et plus simple
-à l'information grâce aux versions numérique des journaux par exemple.
-Si le numérique facilite l'accès à l'information, il peut aussi induire
-les lecteurs en erreur, voire les manipuler comme l'a prouvé les fake
-news lors du mandat de Donald Trump. Toute la complexité du monde
-numérique amène à de nouveaux concepts, tels que l'éducation aux médias
-et à l'information, dit EMI. Cette éducation permet de renforcer chez
-les élèves des compétences transversales indispensables pour se repérer
-dans un monde où les vecteurs d'information et de communication se
-multiplient.
-
-Selon le MEN « *L'École contribue au projet d\'une société de
-l'information et de la communication pour tous. Elle forme les élèves à
-maîtriser ces outils numériques et le futur citoyen à vivre dans une
-société dont l'environnement technologique évolue constamment*. »
-
-**[ENJEUX]** 
-------------------------
-
-L\'objectif d\'une éducation aux médias et à l\'information est de
-permettre aux élèves d\'exercer leur citoyenneté dans une société de
-l\'information et de la communication, de former des citoyens éclairés
-et responsables, capables de s\'informer de manière autonome en exerçant
-leur esprit critique.
-
-A ce titre, l'EMI s\'inscrit à la fois dans **le socle commun** de
-connaissances, de compétences et de culture, le **parcours citoyen** et
-le **parcours d'éducation artistique et culturelle**.
-
-**Socle commun** utiliser différents outils de recherche de manière
-réfléchie ; traiter les informations, confronter les sources ; les
-organiser pour en faire des objets de connaissance
-
--   Les langages pour penser et communiquer = langage numérique
-    **(domaine 1)**
-
--   Travail sur la représentation du monde **(domaine 5)**
-
-**Parcours citoyen** l'EMI est liée au travail d'analyse de la
-désinformation ; rejoint des enjeux d'éducation à la responsabilité 
-
-**Parcours artistique et culturelle** l'EMI créer des idées et suscite
-des émotions ; L\'EMI s\'inscrit dans l\'axe prioritaire « Développer
-son esprit critique » de la feuille de route « Réussir le 100 %
-éducation artistique et culturelle » des ministères en charge de
-l\'éducation et de la culture.
-
-**[Permet de développer des compétences transversales]**
-
--   Faire preuve d'esprit critique, de discernement, (distinguer un fait
-    d\'une opinion/une croyance, contextualiser et évaluer une
-    information, savoir vérifier et croiser ses sources d\'information)
-
--   Faire preuve de création et d'innovation
-
--   Communication et collaboration
-
-```
-
-```
--   **[Eduque à la citoyenneté numérique]**
-
-    -   La culture du numérique se construit en dehors de l'école et
-        fait face à celle construite à l'école. Ce n'est pas une
-        discipline à part entière (PIX, CDI)
-
-    -   Le rôle de l'école est d'apporter des compétences numériques
-        autres que les connaissances intuitives. **La mission de l'école
-        est d'éduquer à la citoyenneté au sein de laquelle on trouve la
-        citoyenneté numérique qui repose sur 5 critères** :
-
-        -   [Participation] : amener les ado à réfléchir sur
-            les publications produites ou lues, d'évaluer les
-            comportements qui peuvent les affecter, d'évaluer leur part
-            de responsabilité
-
-        -   [Identité à construire à travers les réseaux] :
-            l'avatar peut poser problème quand le décalage entre ce
-            qu'ils donnent à voir et ce qu'ils sont est trop important
-            et qu'ils perdent le sens des réalités
-
-        -   [Confidentialité ]: il s'agit de se respecter
-            soit même pour ne pas en divulguer et de respecter la vie
-            privée des autres
-
-        -   [Crédibilité ]: vérification des sources
-
-        -   [La paternité et propriété liées aux droits d'auteur à
-            respecter]
-
-    -   **CPE** doit aider les élèves à s'approprier les outils et
-        usages numériques de manière critique et créative + participe à
-        l'éducation des élèves à un usage responsable d'internet
-
--   **[Réduire les inégalités]**
-
-    -   L'éducation nationale se dote d'une stratégie visant à faire du
-        numérique un facteur de **réduction des inégalités**
-        (apprentissage, décrochage scolaire, potentiel créatif) pour
-        préparer les élèves de demain : **[citoyen autonome et
-        responsable]**
-
-    -   **Sophie Jehel et Alexandra Saemmer, *Education critique aux
-        médias et à l'information en contexte numérique*, 2020** ont
-        montré qu'une éducation aux médias et à l'information est
-        possible, afin d'amener les adolescents à user [de sens
-        critique] lors qu'ils recourent aux technologies de
-        l'information et de la communication.
-
-```
-
-```
--   **[Prévenir et réduire les cyber violences]** L'école
-    doit former aux usages du numériques pour éduquer à la citoyenneté
-    numérique et prévenir les phénomène de violence (cyberharcèlement)
-
-    -   **40% des élèves** déclarent avoir été victime de [cyber
-        violence] au moins une fois dans l'année.
-
-    -   Les phénomènes de discrimination et de harcèlement se déplacent
-        sur internet. La cyberviolence se caractérise par [l'utilisation
-        des nouvelles technologies pour se livrer à des actes de
-        violences psychologiques répétées] : happy slapping
-        (actes de violence filmés ; sexting (actes à caractères
-        sexuels) ; usurpation d'identité, photo montage publié sans
-        autorisation.
-
-    -   Conséquences très lourdes en termes de résultats scolaires, mais
-        aussi affecter le bien être et la sécurité, l'identité de
-        l'élève, sa santé, le climat scolaire et le vivre ensemble. **Le
-        danger vient de l'inégalité dans la maitrise du numérique**,
-        d'où l'importance de **[l'EMI]**
-
-        -   **CPE** participe à la lutte contre toute forme de
-            discrimination, de violence et de harcèlement
-
-        -   **CPE** contribue à la qualité du climat scolaire et à prend
-            toute sa place dans l'appropriation des valeurs de
-            tolérance, de solidarité et de vivre ensemble
-
-        -   **C2.** Garantir, en lien avec les autres personnels, le
-            respect des règles de vie et de droits dans l'établissement
-
-```
-
-```
--   **[Suivi des élèves par ENT]**
-
-    -   Un espace numérique de travail (**[ENT]**) est un
-        ensemble intégré de services numériques choisis et mis à
-        disposition de la communauté éducative. Offre un lieu d'échange
-        et de collaboration entre ses usagers. **[Offre des
-        services]** :
-
-```
-
-```
--   **Pédagogiques** cahier de texte numérique espace de travail et de
-    stockage communs aux élèves et aux enseignants, accès aux ressources
-    numériques, outils collaboratifs, blogs, forums, classe virtuelle,
-    etc
-
--   **Accompagnement de la vie scolaire** notes, absences, retards,
-    emplois du temps, agendas
-
--   **Communication**  messagerie, informations des personnels et des
-    familles, visioconférence
-
-**[Obstacles]** 
----------------------------
-
--   **[Inégalités territoriales ]**: les inégalités
-    éducatives liées aux usages du numérique ont longtemps été soumises
-    au territoire / habitation = **accessibilité réseau**
-
--   **[Le consumérisme ]**: les parents de milieux
-    populaires sont plus consuméristes et donc plus équipés. Les parents
-    de milieux défavorisés s'en remettent davantage aux choix et volonté
-    des ado (manque de confiance dans la mission de l'école vis-à-vis du
-    numérique)
-
--   **[Les compétences techniques des élèves ]**: parfois
-    limitées à un certain usage
-
--   **[Capital culturel ]**: inégalité dans la capacité de
-    certains parents à transmettre des usages plus proches de l'usage et
-    de la culture scolaire
-
--   **[Manque de formation des enseignants]**
-
-**[Politiques éducatives]** 
----------------------------------------
-
--   **2005 Fillon **: pilier 5 du socle commun (**[maitrise des
-    TICE]**)
-
--   **2013** **Peillon **: instaure la création d'un service public du
-    numérique éducatif. La transformation de l'école avec le numérique
-    est engagée ; tous les acteurs sont mobilisés, y compris les
-    personnels d'éducation. Dans le même temps le référentiel des
-    compétences professionnelles des métiers du professorat et de
-    l'éducation fait référence au numérique éducatif comme un élément de
-    culture nécessaire à l'exercice de notre métier : pour la réussite
-    des élèves, mais aussi pour favoriser les pratiques collaboratives
-    entre les membres d'un établissement
-
--   **2016** **Plan numérique**
-
-    -   Nouvelles ressources numériques digital
-
-    -   Nouveaux équipements
-
-    -   Innovation
-
-    -   Formation
-
--   **2018** Interdiction du portable au collège
-
--   **Janvier 2019** Le CNED a ouvert un assistant numérique pour
-    l'ensemble des collégiens dans le cadre du dispositif devoirs faits
-
--   **Circulaire de rentrée 2021 ** Développer les compétences du
-    numériques de tous les élèves avec la généralisation de PIX (Permet
-    d'identifier le niveau et les besoins des élèves en matière de
-    compétences numérique ; certification obligatoire à la classe de
-    3^e^, en fin de cycle des lycées généraux, technologiques ou
-    professionnels et dans l'année d'obtention de leur CAP)
-
--   **2022 : circulaire de Généralisation de l'EMI** [Généralisation de
-    l\'éducation aux médias et à l\'information \| Ministère de
-    l\'Education Nationale et de la
-    Jeunesse](https://www.education.gouv.fr/bo/22/Hebdo4/MENE2202370C.htm)
-
-    -   Renforce la nécessité de former les élèves en éveillant leur
-        curiosité intellectuelle, en développant leurs capacités
-        d\'analyse et de discernement, en leur apprenant à distinguer
-        les faits et leurs interprétations et plus généralement à
-        s\'informer et analyser avant de juger.
-
-    -   C\'est pourquoi l\'éducation aux médias et à l\'information
-        (EMI), inscrite au cœur de la formation de futurs citoyens
-        libres et éclairés, est une composante des actions relatives aux
-        valeurs de la République et doit être renforcée.
-
-```
-
-```
--   **2023 Pap Ndiaye **: [Stratégie du numérique pour l'éducation
-    2023-2027 \| Ministère de l\'Education Nationale et de la
-    Jeunesse](https://www.education.gouv.fr/strategie-du-numerique-pour-l-education-2023-2027-344263)
-
-    -   Repose sur une série de mesures pour renforcer les compétences
-        numériques des élèves et accélérer l'usage des outils numériques
-        pour la réussite des élèves. Ces mesures ont été présentées par
-        le ministre de l\'Éducation nationale et de la Jeunesse, Pap
-        Ndiaye vendredi 27 janvier 2023.
-
-    -   
-
-**[Dispositifs]** 
------------------------------
-
--   PIX [Évaluer et certifier les compétences numériques \| éduscol \|
-    Ministère de l\'Éducation nationale et de la Jeunesse - Direction
-    générale de l\'enseignement scolaire
-    (education.fr)](https://eduscol.education.fr/721/evaluer-et-certifier-les-competences-numeriques)
-
-**Référent EMI** chaque recteur désigne un référent EMI en charge du
-premier et du second degré. Ce référent académique est par exemple
-choisi parmi les corps d\'inspection, voire parmi les équipes de
-coordination académique du Clemi
-
-**LE CLEMI** Le centre pour l'éducation aux médias et à l'information,
-l'opérateur public du ministère en charge de l'EMI
-
-> **[Objectif]** promouvoir l'utilisation pluraliste des
-> moyens d'information dans l'enseignement, notamment par des actions de
-> formation.
->
-> Atteindre une meilleure compréhension par les élèves du monde qui les
-> entoure tout en développant leur sens critique.
-
-**[Actions à mettre en place]** 
--------------------------------------------
-
-**Diagnostic :** nb de punitions/sanctions liés à la mauvaise
-utilisation de l'outil numérique ; inventaire d'outil numérique en
-établissement, actions et projets en lien avec l'éducation au numérique
-responsable ; actions dans le cadre du CESCE en lien avec le numérique ;
-nb d'incidents en lien avec les réseaux sociaux ; nature des conflits
-sur les réseaux des élèves qui a un impact néfaste dans l'établissement
-
-+----------------------------------+----------------------------------+
-| **Former les élèves à une        | **Le CPE et l'éducation au       |
-| culture numérique responsable**  | numérique responsable**          |
-+==================================+==================================+
-| **[L'EMI dans le cadre du        | **[Un cadre clair et             |
-| parcours citoyen]**  | explicite]**         |
-| (recherche d'info pour           |                                  |
-| construire leur propre opinion)  | -   Travail avec les élèves sur  |
-|                                  |     une **charte du numérique**  |
-| -   Travail avec l'ensemble de   |     responsable et une **charte  |
-|     la com éducative sur le      |     de l'utilisation des         |
-|     projet établissement         |     ordinateurs**                |
-|                                  |                                  |
-|     -   Sensibiliser aux enjeux  | -   Mettre à jour le **RI** sur  |
-|         de la **culture          |     l'utilisation du portable    |
-|         numérique**              |                                  |
-|                                  | -   **HVC** : expliciter         |
-|     -   Sensibiliser aux         |     l'intérêt du numérique et    |
-|         **enjeux de l'EMI**      |     les punitions en cas de      |
-|                                  |     non-respect des règles       |
-|     -   Permettre aux élèves     |                                  |
-|         d'exercer leur           | **[Favoriser l'engagement des    |
-|         citoyenneté dans une     | élèves]**            |
-|         société de l'info et de  |                                  |
-|         la com, **former des     | -   Formation des **délégués** = |
-|         cyber-citoyens actifs,   |     travaille sur la             |
-|         éclairés et              |     problématique du cyber       |
-|         responsables**           |     harcèlement                  |
-|                                  |                                  |
-|     -   Permettre la             | -   **EMC / prof doc** : travail |
-|         compréhension et         |     sur l'utilisation des médias |
-|         **l'usage autonome des   |     sociaux/fake news            |
-|         médias** par les élèves  |                                  |
-|         qui sont à la fois       | -   **CVC/CVL **: Former des     |
-|         lecteurs/producteurs et  |     ambassadeurs du non au       |
-|         diffuseurs de contenus   |     harcèlement                  |
-|                                  |                                  |
-|     -   Permettre aux élèves de  | **[Un travail avec les           |
-|         **dvper une pratique     | familles]**          |
-|         citoyenne en lien avec   |                                  |
-|         les médias **:           | -   Animer un café des parents   |
-|         travailler dans le cadre |     sur la question de           |
-|         de l'EMC et prof doc sur |     l'éducation au numérique     |
-|         l'utilisation des médias |     responsable pour assurer la  |
-|         sociaux/fake news        |     continuité éducative et péda |
-|                                  |     à la maison                  |
-|     -   **L'EMI doit être        |                                  |
-|         intégré dans tous les    | -   Sensibiliser au              |
-|         cours** : dvper les      |     cyberharcèlement, conseiller |
-|         compétences de           |     aux familles d'être vigilant |
-|         recherche, de sélection, |                                  |
-|         d'interprétation de      |                                  |
-|         l'information dans le    |                                  |
-|         cadre d'un exposé        |                                  |
-+----------------------------------+----------------------------------+
-| **[Agir sur le climat            |                                  |
-| scolaire]**          |                                  |
-|                                  |                                  |
-| -   **Coéducation** :            |                                  |
-|     implication des parents pour |                                  |
-|     réduire le phénomène de      |                                  |
-|     cyber-harcèlement            |                                  |
-|                                  |                                  |
-| -   **Prévention des             |                                  |
-|     violences** : CESCE =        |                                  |
-|     réaliser un plan de          |                                  |
-|     prévention violence et       |                                  |
-|     cyber-violence avec des      |                                  |
-|     actions pour sensibiliser et |                                  |
-|     lutter contre ce phénomène   |                                  |
-|                                  |                                  |
-| -   **Stratégie d'équipe :**     |                                  |
-|     organiser des réunions       |                                  |
-|     d'équipe, conseil péda pour  |                                  |
-|     sensibiliser au numérique et |                                  |
-|     à ses conséquences =         |                                  |
-|     cohérence des équipes        |                                  |
-|                                  |                                  |
-| -   **Coopération **:            |                                  |
-|     sensibiliser les élèves sur  |                                  |
-|     la questions des médias, du  |                                  |
-|     cyberharcèlement : prévenir  |                                  |
-|     le phénomène dans le cadre   |                                  |
-|     du parcours citoyen :        |                                  |
-|     prévenir les comportements ; |                                  |
-|     accompagner les victimes ;   |                                  |
-|     rappeler l'importance des    |                                  |
-|     témoins                      |                                  |
-|                                  |                                  |
-| -   **Pratiques                  |                                  |
-|     partenariales **:            |                                  |
-|     associations ou partenaires  |                                  |
-|     pour sensibiliser à la       |                                  |
-|     question ; relais pour gérer |                                  |
-|     la prise en charge           |                                  |
-|     individuelle des auteurs et  |                                  |
-|     victimes                     |                                  |
-|                                  |                                  |
-| -   **La qualité de vie à        |                                  |
-|     l'école **: améliorer et     |                                  |
-|     diminuer les phénomènes de   |                                  |
-|     violences et de              |                                  |
-|     cyberharcèlement à travers   |                                  |
-|     le plan de violence favorise |                                  |
-|     le sentiment de sécurité et  |                                  |
-|     le bien être des élèves      |                                  |
-+----------------------------------+----------------------------------+
-
-***Vous êtes CPE en lycée pro, dans le cadre de la réécriture du projet
-établissement, et plus particulièrement dans le suivi du volet éducatif,
-vous proposerez au chef d'établissement un projet d'actions d'éducation
-aux médias visant à lutter contre la désinformation.***
-
-***En quoi l'éducation aux médias permet de former des futurs citoyens
-éclairés et responsables pour qu'ils puissent lutter contre la
-désinformation ?***
-
-(*A la fin des enjeux) ...* Alors que le numérique prend une place de
-plus en plus importante dans la vie de chacun, notamment pour
-s'informer, il est nécessaire de former les élèves aux mauvaises
-information qui circulent pour qu'ils deviennent de futurs citoyens
-éclairés et responsables.
-
-**Diagnostic** : Une remontée de l'ensemble des équipes selon laquelle
-les élèves ne savent pas gérer leur source, rendent des devoirs sans
-légende ni source avérée ; des devoirs faux à cause des mauvaises
-sources
-
-**Objectif** : Apprendre aux élèves à vérifier les sources des
-informations
-
-**Compétence** travail sur la construction de l'information
-
-**Equipe pilote** : CPE, Prof doc, prof EMC, référent EMI (si possible)
-
-**Public ciblé** élève de seconde
-
-**Quand** Sur la semaine de la presse
-
-**Organisation :** Plusieurs séances / Au CDI et en classe / Ateliers
-
-**[Actions :]
-<https://www.pedagogie.ac-nantes.fr/documentation/enseignement/sequences/les-fake-news-1171016.kjsp>**
-
-**1^re^ séance** (1h) (en classe) = DECOUVERTE
-
-Brainstorming sur les supports et manière dont on s'informe
-aujourd'hui : réseaux sociaux ; radio ; journal ; tv 
-
-Différence entre une info en ligne, à la télé, à la radio, etc =
-circulation très rapide de l'info, c'est elle qui vient à nous, plus
-besoin de la chercher
-
-Quel support privilégié pour une info rapide ? Comment être sûr de sa
-fiabilité ?
-
-Photo de presse à vidéo projeter, sans légende et demander aux élèves ce
-qu'ils en pensent, décrire à l'oral ce qu'ils voient, proposer une
-légende, puis donner la véritable source et légende aux élèves, laisser
-les élèves s'exprimer avec la vraie légende
-
-**Objectif** **faire réaliser aux élèves que l'on peut faire croire
-n'importe quoi sans avoir la vraie source de l'image**
-
-Montrer 3 images (la même) aux élèves sur des réseaux différents avec
-des légendes différentes et leur demander laquelle est vraie à première
-vue
-
-Se rendre compte que les 3 légendes peuvent correspondre si nous n'avons
-pas le contexte de l'image, ni la source réelle.
-
-Leur montrer comment faire pour remonter à la source d'une image ou
-vidéo
-
-**Objectif Adopter la bonne attitude avant de relayer une information =
-vérifier la source**
-
-**2^e^ séance** (1h) (Au CDI) = Mise en application
-
-Par groupe, les élèves vont devoir analyser une photo d'un post sur un
-réseau social et deux articles en ligne. Chaque groupe n'a pas la même
-photo ni les mêmes articles
-
-**Objectif** Vérifier d'où vient la photo du post et les auteurs des
-articles, faire des recherches sur la véracité de ces informations
-
-**3^e^ séance** (1h) (en classe) = PRESENTATION
-
-Chaque groupe doit restituer à l'oral son travail de la séance dernière
-en présentant sa photo et ses articles et la vrai source, comment il a
-procédé
-
-Travail d'écoute des uns et des autres
-
-**4^e^ séance** (2 fois 1h) = (au CDI) = CONCOURS AFFICHE DE FAKE NEWS
-
-Chaque groupe doit choisir un sujet sur lequel il souhaite travailler,
-valider par l'enseignant ou le CPE
-
-Créer une fake news sous la forme d'une publication sur internet, d'un
-réseau social, un article, ...
-
-Sous format A3 pour avoir un côté la fake news et de l'autre la vraie
-info avec la vrai légende et source
-
-Afficher les productions des élèves dans le hall du lycée
-
-L'ensemble du lycée a une semaine pour voter pour élire la meilleure
-fake news
-
-**[Perspective]** : Prévention réseaux sociaux comment
-utiliser les réseaux, peut-on tout partager sur son propre réseau
-social, à la vue de tous ?
-
-Par l'éducation aux médias et à l'information (EMI), les élèves
-apprennent à devenir des citoyens responsables dans une société marquée
-par la multiplication et l'accélération des flux d'information.
-Transversal, l\'apprentissage des médias et de l\'information se déploie
-tout au long de la scolarité. Ils développent leur esprit critique et
-sont capables d'agir de manière éclairée pour chercher, recevoir,
-produire et diffuser des informations via des médias de plus en plus
-diversifiés.
-
-Cette éducation, visant à comprendre la fabrication et la diffusion
-d\'une information, passe par la connaissance et l\'utilisation des
-médias (télévision, radio, presse écrite, web, réseaux sociaux) d\'une
-part, et par la mise en pratique des élèves d\'autre part.
-
-
-
-# 16-ESPACE-SCOLAIRE
-[Retour au sommaire](#sommaire)
-
-L'utilisation des espaces d'un établissement scolaire est aujourd'hui un
-sujet de préoccupation des politiques éducatives. Ainsi, des démarches
-sont proposées par le ministère incitant les communautés éducatives à
-rénover voire à reconstruire leurs locaux. Il s'agit de se pencher sur
-l'organisation de ces espaces dits scolaires au-delà de leur simple
-aménagement, respectant une approche collaborative.
-
-Les différents acteurs du système éducatif français s'interrogent
-aujourd'hui sur l'impact qu'une réflexion sur le bâti scolaire peut
-avoir sur le climat d'un établissement et sur la plus-value de
-l'utilisation des différents espaces d'un collège ou d'un lycée pour les
-apprentissages des élèves. De plus en plus de chercheurs publient sur ce
-sujet, témoignant de la nécessité d'adapter les espaces scolaires dans
-leur aménagement et dans leur utilisation aux besoins de la communauté
-pédagogique et éducative. Dans les collèges et les lycées des
-changements s'opèrent quant à une réorganisation plus rationnelle des
-différents espaces dédiés aux activités dans la classe et hors la
-classe.
-
-La crise sanitaire liée à la pandémie du COVID-19 est venue conforter
-cet élan en bousculant en particulier l'organisation des enseignements
-et donc des emplois du temps des EPLE, déjà mis à l'épreuve. L'impact
-sur l'utilisation des locaux de l'établissement est direct : les
-protocoles sanitaires imposent une nouvelle appropriation des
-espace-temps, en présentiel et à distance par les élèves et par les
-adultes de la communauté.
-
-Le numérique prend une place inédite et confortée s'agissant des
-enseignements mais aussi des différentes activités de l'établissement
-comme le suivi des élèves, la tenue des instances et les différentes
-activités événementielles.
-
-Au sein des EPLE, le service vie scolaire a toute sa place pour
-contribuer à ces travaux et à ces réflexions.
-
-Au cœur de l'analyse des besoins des élèves s'agissant de leurs
-activités hors la classe, de leur suivi et de leurs espaces de vie
-scolaire, le conseiller principal d'éducation a un rôle primordial à
-jouer dans les projets mis en œuvre quant à l'utilisation de ces lieux
-de vie.
-
-**Pascal Clerc, [La salle de classe : un objet
-géographique], (2020) **:
-
--   Le dispositif qui incarne le mieux la salle de classe, dans ses
-    représentations, est celui de l'autobus
-
--   Vincent Faillet (2017) évoque un nouveau modèle, celui des ilots
-    favorise la coopération et les échanges entre pairs = autonomie des
-    élèves
-
--   Le U favorise la discussion et les débats
-
-**[La période de pandémie a révélé des problématiques sur d'architecture
-scolaire en France]**
-
--   La capacité des salles de classe notamment la densité qui ne
-    facilite pas les apprentissages
-
--   Couloirs et escaliers = impensé, problème de circulation dans les
-    intercours
-
--   Nombre de toilettes, de lavabos
-
--   Le bruit rend invivable certains espaces
-
-**L'enquête PISA** \[Programme international pour le suivi des acquis\]
-**2018** montre que les élèves français sont ceux qui, de très loin, ont
-le plus faible sentiment d'appartenance à leur établissement
-
-Malgré la question sécuritaire, il faut donc faire des **espaces
-scolaires des lieux plus accueillants**, que les élèves auront envie
-d'aimer et d'habiter, de s'approprier, des lieux d'apprentissage, mais
-aussi de vie et parfois de détente.
-
-![](media/image1.png){width="4.3069444444444445in"
-height="5.450694444444444in"}
-
-La façon dont un espace est organisé influence les relations entre les
-personnes. Dans le cas d'une salle de classe, il est tentant de chercher
-à compenser l'organisation hiérarchique de ces pièces en réaménageant le
-mobilier au profit des apprenants.
-
-Afin de mieux occuper ces lieux, Xavier Garnier, ambassadeur du Futur
-Classroom Lab de 2015 à 2020, projet européen de développement de
-laboratoires pédagogiques, milite pour l'utilisation de la pensée design
-: « Fondamentalement, le design thinking est une démarche centrée sur
-l'utilisateur. Dans une salle de classe ce sont les élèves. Ainsi,
-lorsqu'on veut impliquer les élèves dans la transformation de leur salle
-de classe, c'est naturel de penser à la méthode design ».
-
--   Importance de mobiliser les élèves dans le projet (CVC/CVL)
-
-Importance de la couleur et de la luminosité extérieur comme l'éclairage
-intérieur
-
-Penser au casier, notamment pour les élèves DP
-
-Club
-
-***CPE nouvellement nommée en collège, le chef d'établissement vous
-demande de participer à la réécriture du projet établissement en
-proposant un axe autour de l'aménagement et de l'utilisation des
-espaces.***
-
-***Dans quelles mesures, l'organisation des espaces au sein du collège
-est source de sentiment d'appartenance chez les élèves et facteur de
-réussite ?***
-
-**[Axe 1]** : Aménagement des salles d'études
-
-+----------------------+----------------------+----------------------+
-| **OBJECTIFS**        | **ACTIONS**          | **EVALUATION**       |
-+======================+======================+======================+
-| **Fournir des        | **Première salle** : | Concentration des    |
-| conditions de        | moitié autobus,      | élèves, la mise au   |
-| travail favorables** | moitié ilots, 2 ou 3 | travail, le travail  |
-|                      | postes ordi, casque  | de groupe, le bien   |
-|                      | anti-bruit, vidéo    | être, le sentiment   |
-|                      | projecteur (video,   | d'appartenance, les  |
-|                      | quizz)               | résultats scolaire,  |
-|                      |                      | la réussite, le      |
-|                      | **Deuxième salle :** | climat               |
-|                      | table en ilot,       |                      |
-|                      | tableau pour écrire, |                      |
-|                      | des poufs, des       |                      |
-|                      | livres de poche      |                      |
-|                      |                      |                      |
-|                      | **Utilisation du     |                      |
-|                      | hall **: table       |                      |
-|                      | haute ; fauteuils ;  |                      |
-|                      | des bancs            |                      |
-|                      |                      |                      |
-|                      | **Pièce du bien      |                      |
-|                      | être **: lumière     |                      |
-|                      | tamisée, musique     |                      |
-|                      | zen, fauteuils       |                      |
-+----------------------+----------------------+----------------------+
-
-[Aménagement des espaces éducatifs -- Classe de demain
-(classe-de-demain.fr)](https://www.classe-de-demain.fr/accueil)
-
-**Tabouret oscillant**
-
-**Ztools**
-
-**Siège avec tablette**
-
-**Coussin de sol**
-
-**LA PLACE DU CPE**
-
-**Circulaire de mission 2015** CPE assure la gestion des espaces et des
-temps de vie scolaire des élèves
-
-Garantir le bien-être des élèves est une priorité des politiques
-éducatives. Le CPE a de multiples occasions de s'investir dans ces
-réflexions et démarches. L'une d'entre elles est la réflexion autour de
-l'aménagement des espaces en établissement.
-
-Ils ont auprès des chefs d'établissement un rôle de conseil pour le
-respect des rythmes de vie et de travail des élèves, en amont de
-l'élaboration des emplois du temps.
-
-Ils participent, avec le(s) professeur(s) documentaliste(s), et dans le
-respect des missions de chacun, à la prise en charge des élèves hors du
-temps de classe pour favoriser les apprentissages, notamment en mettant
-à leur disposition les espaces et les ressources nécessaires.
-
-Les CPE peuvent également avoir un rôle de conseil auprès de l'adjoint
-gestionnaire de l'établissement sur l'organisation des lieux de
-restauration, d'hébergement pour les internats, de travail et de détente
-qui contribue au bien-être et à la qualité de vie des élèves
-
-
-
-# 17-LES-CONDUITES-ADDICTIVES
-[Retour au sommaire](#sommaire)
-
-Selon la DEPP, en 2021, 29,1% des élèves de 3e ont expérimenté la
-cigarette. Ainsi, le tabagisme quotidien apparait surtout en classe de
-troisième, se poursuit et progresse durant les années lycée, passant de
-14 % de fumeurs en seconde à 21,5 % en terminale.
-
-Pour limiter les conduites addictives, les boissons énergisantes sont
-interdites depuis 2008 dans l'enceinte des établissements. Leurs
-ingrédients peuvent entraîner une hyper excitation, une irritabilité,
-une nervosité et une augmentation de l\'anxiété. Et ainsi, toutes
-boissons alcoolisées et de consommation de substances illicites sont
-également interdites.
-
-L'addiction se caractérise par l'impossibilité répétée de contrôler un
-comportement et la poursuite de ce comportement en dépit de la
-connaissance de ses conséquences négatives. La notion de conduite
-addictive comprend à la fois les addictions aux substances psychoactives
-(alcool, tabac, drogues illicites) mais également les addictions
-comportementales, sans substances psychoactives (jeu, par exemple).
-
-La prévention des conduites addictives en milieu scolaire s'inscrit dans
-une démarche globale de promotion de la santé et d'éducation à la
-citoyenneté. Dans le second degré, les addictions et la lutte contre les
-conduites addictives sont également abordées dans le cadre des
-enseignements disciplinaires. Par exemple, dans les programmes de
-sciences de la vie et de la Terre, de prévention santé environnement
-**(PSE)** en enseignement professionnel qui comporte un volet relatif
-aux conduites addictives et leurs conséquences, les mesures préventives
-de la lutte contre les addictions, les mesures répressives associées.
-
-L'éducation aux médias et à l'information (EMI) et l'enseignement moral
-et civique (EMC) participent également à cette prévention.
-
-**[ENJEUX]** :
-
--   Permettre à chaque jeune d'adopter des comportements responsables et
-    faire des choix éclairés pour lui-même et pour les autres dans la
-    perspective d'une citoyenneté active.
-
--   Elle vise à aider chaque jeune à s'approprier progressivement les
-    moyens d'opérer des choix, d'adopter des comportements responsables,
-    pour lui-même comme vis-à-vis d'autrui et de l'environnement. Elle
-    permet de le préparer à exercer sa citoyenneté avec responsabilité
-    et contribue à la construction individuelle et sociale des enfants
-    et des adolescents. Elle constitue ainsi une composante de
-    l'éducation du citoyen.
-
-**[Cadre]**
-
--   **Parcours santé** crée en 2013 par la loi PEILLON avec pour
-    objectif d'assurer l'éducation, la prévention et la protection de la
-    santé des élèves
-
--   **Loi de 2019** = école de la confiance bien être des élèves
-
--   **BATTAGLIA**, *[Les conduites addictives]*, 2014
-
-**[Diagnostic]** : élève fatigué en classe, chute des
-résultats, retard, abs, de plus en plus d'élèves fumeurs devant
-l'établissement
-
-**[ACTIONS :]** Donner aux élèves les moyens de maîtriser
-des connaissances et des compétences relatives à leur santé et à leur
-bien-être notamment dans le domaine des addictions.
-
-Établir un partenariat avec la **Consultation jeunes consommateurs**
-(CJC) de proximité, crée en 2005
-
-Dans le cadre du CESCE
-
-Lien avec infirmière et Psy EN
-
-**1^re^ séance :**
-
--   **Brainstorming** sur « les consommations addictives »
-
--   Regrouper par thématique : alcool, drogue, sexualité, jeux vidéo,
-    outils numériques
-
--   Montrer des vidéos sur chaque thème
-
--   Sensibiliser les élèves sur le fait que la [substance
-    consommée] peut être détectée dans notre corps après
-    plusieurs heures et jours après consommation
-
--   Débat avec les élèves, leur ressenti, comment réduire, à qui en
-    parler
-
--   Rappeler la loi, prison, amende, conséquence sur soi
-
-**2^e^ séance :**
-
--   **Fiche info anonyme** as-tu déjà consommé, si oui = quel produit ;
-    la fréquence ; pourquoi ; depuis combien de temps ; essaies-tu
-    d'arrêter conduire les élèves à une prise de conscience
-
--   Ramassage des fiches, mélanger, redistribuer et chacun peut lire la
-    fiche pour que l'ensemble se rendre compte
-
--   Travailler sur les compositions des produits, sur les effets
-    néfastes, les conséquences de ces consommations addictives
-
-**3^e^ séance :**
-
--   **Réalisation d'affiche** de prévention sur une conduite à risque,
-    en groupe
-
-**AUTRES ACTIONS :** Donner les moyens aux élèves d'être aptes à
-demander de l'aide pour eux-mêmes et pour les autres.
-
-**Depuis 2016, le ministère chargé de l\'éducation nationale soutient
-l\'opération « Moi(s) Sans Tabac »**
-
-17% des lycéens fument quotidiennement et les lycéens pro fument plus
-que les lycéens généraux
-
-**Avec les élèves du CVL, organiser la semaine sans tabac au sein du
-lycée**
-
--   Créer une affiche sur l'évènement
-
--   Délégué de classe passe l'info en classe
-
--   Organisation d'un stand à l'effigie du mois sans tabac (stand jaune)
-    où on expose les affiches des élèves sur la prévention des conduites
-    addictives
-
--   Lycéens peuvent voter au stand pour la meilleure affiche
-
--   Sur le stand : CJC, flyer sur comment réduire sa conso, comment
-    s'occuper l'esprit, etc
-
--   Les élèves peuvent discuter avec des professionnels
-
-**Meilleures affiches** : afficher à l'infirmerie sur l'année, lien avec
-la mairie pour afficher dans la ville, sur l'ENT
-
-**EVALUER L'ACTION !!**
-
-**Perspectives Organiser une conférence** dans l'établissement en fin de
-journée avec les enseignants de PSE, des professionnels de santé
-(psychiatre, psychologue), sur les conduites addictives et quelques
-conseils, en invitant les parents pour faire de la prévention et
-répondre à leurs questions et inquiétudes sur ces conduites
-
-**[La place du CPE]**
-
-Conseiller technique du CE conseiller sur mesures disciplinaires,
-commission éducative, projet d'actions
-
-Responsable de service AED référent de classe = rôle alerte sur les abs,
-retard, comportement etc
-
-Lien avec les familles, coéducation
-
-Travail en étroite collaboration dans le cadre de l'action éducative
-avec les personnels socio de santé et psy EN pour le bien être des
-élèves, leur santé, leur sécurité = réussite
-
-
-
-# 18-RECAP-PARCOURS-EDUCATIFS
-[Retour au sommaire](#sommaire)
-
-**[PARCOURS CITOYEN]**
-==================================
-
-Vivre-ensemble ; insertion sociale et professionnelle ; épanouissement
-per = climat scolaire
-
-**[Objectifs]** :
-
--   Expliquer les droits, devoirs et responsabilités
-
--   Développer l'esprit critique
-
--   Forger la culture de l'engagement
-
--   Transmettre les valeurs de la république
-
-EMC + EMI + Réserve citoyenne + semaine de l'engagement et de la
-démocratie scolaire
-
-**Semaine de l'engagement** 3 semaines où les élèves sont sensibilisés à
-l'engagement dans l'établissement
-
-Au lycée par exemple, avec le référent vie lycéenne qui organise des
-séances sur l'engagement, fait découvrir aux élèves leurs droits et
-devoirs, découvrent le fonctionnement des instances,
-
-**Semaine de la démocratie** les élections ont lieu après les 3 semaines
-de l'engagement
-
-Développe le sentiment d'appartenance
-
-**[PARCOURS SANTE]**
-================================
-
-Bien-être, sécurité, citoyenneté, responsabilité
-
-**Loi PEILLON -- 2013** *Les élèves bénéficient d'actions de prévention
-et d'information, de visites médicales et de dépistages obligatoires qui
-constituent leur parcours de santé*
-
-**L'éducation** développement de compétences, connaissances
-
-**Prévention** informer et limiter les conduites à risques
-
-**Protection** créer un environnement favorable au bien être et à la
-santé
-
-**[PARCOURS AVENIR]** 
-=================================
-
-Insertion sociale et professionnelle ; développement personnel ;
-réussite scolaire
-
-**Loi PEILLON -- 2013** : création du parcours avenir = parcours
-individuel d'information et de découverte du monde économique et
-professionnel (institué en 2015)
-
--   Découverte du monde économique et professionnel
-
--   Développer le sens de l'initiative et de l'engagement
-
--   Elaborer un projet d'orientation scolaire et professionnel
-
-**[PARCOURS ART ET CULTURE]** 
-=========================================
-
-Favoriser un égal accès à l'art et à la culture à tous les élèves, peu
-importe leur milieu
-
-**Objectif** Mettre en cohérence enseignements et actions éducatives,
-les relier aux expériences personnelles, les enrichir et les diversifier
-
-
 
 # 1-LE-CLIMAT-SCOLAIRE
 [Retour au sommaire](#sommaire)
@@ -3408,6 +512,10 @@ judiciaires ou administratives.
 |             |             | des         |             | des         |
 |             |             | élèves...** |             | élèves...** |
 +-------------+-------------+-------------+-------------+-------------+
+
+
+
+![Tableau 1-LE-CLIMAT-SCOLAIRE](images/1-LE-CLIMAT-SCOLAIRE.png)
 
 
 
@@ -3978,6 +1086,10 @@ collège, les règles, les codes scolaires**
 
 
 
+![Tableau 2-LA-JUSTICE-SCOLAIRE](images/2-LA-JUSTICE-SCOLAIRE.png)
+
+
+
 # 3-VIOLENCE-ET-HARCELEMENT
 [Retour au sommaire](#sommaire)
 
@@ -4439,6 +1551,10 @@ premier jeudi du mois du novembre)
 
 
 
+![Tableau 3-VIOLENCE-ET-HARCELEMENT](images/3-VIOLENCE-ET-HARCELEMENT.png)
+
+
+
 # 4-SANTIONS-ET-PUNITIONS
 [Retour au sommaire](#sommaire)
 
@@ -4854,6 +1970,10 @@ incivilités**
 
 -   Fin des séances globales création de l'engagement personnel des
     élève transmis à la direction, au PP et à la famille
+
+
+
+![Tableau 4-SANTIONS-ET-PUNITIONS](images/4-SANTIONS-ET-PUNITIONS.png)
 
 
 
@@ -5927,6 +3047,10 @@ Appeler les familles dès absences, mail, entretien, courrier
 
 
 
+![Tableau 5-LE-DECROCHAGE-SCOLAIRE-ABSENTEISME](images/5-LE-DECROCHAGE-SCOLAIRE-ABSENTEISME.png)
+
+
+
 # 6-EDUCATION-PRIORITAIRE
 [Retour au sommaire](#sommaire)
 
@@ -6275,6 +3399,10 @@ Jeunesse](https://www.education.gouv.fr/bo/12/Hebdo32/MENE1233197C.htm)
 **[LES CITES EDUCATIVES]** : [Les Cités éducatives, un label
 d\'excellence \| Ministère de l\'Education Nationale et de la
 Jeunesse](https://www.education.gouv.fr/les-cites-educatives-un-label-d-excellence-5093)
+
+
+
+![Tableau 6-EDUCATION-PRIORITAIRE](images/6-EDUCATION-PRIORITAIRE.png)
 
 
 
@@ -6628,6 +3756,10 @@ ressources locales
 
 
 
+![Tableau 7-MIXITE-SOCIALE-ET-INEGALITES](images/7-MIXITE-SOCIALE-ET-INEGALITES.png)
+
+
+
 # 8-PAUVRETE-A-LECOLE
 [Retour au sommaire](#sommaire)
 
@@ -6784,6 +3916,10 @@ pauvreté, éducation de qualité**
 > Impact de la pauvreté à l'école sur l'éducation [Impact de la pauvreté
 > sur l\'éducation -
 > GoBookMart](https://gobookmart.com/fr/impact-of-poverty-on-education/#:~:text=Par%20cons%C3%A9quent%2C%20les%20enfants%20vivant%20dans%20la%20pauvret%C3%A9,opportunit%C3%A9s%20futures%20et%20leur%20r%C3%A9ussite%20dans%20la%20vie.)
+
+
+
+![Tableau 8-PAUVRETE-A-LECOLE](images/8-PAUVRETE-A-LECOLE.png)
 
 
 
@@ -7199,6 +4335,2942 @@ leur intérêt et leur faire découvrir de nombreux domaines.
 
 
 
+![Tableau 9-EGALITE-FILLE-GARCON](images/9-EGALITE-FILLE-GARCON.png)
+
+
+
+# 10-ECOLE-INCLUSIVE
+[Retour au sommaire](#sommaire)
+
+**[INTRODUCTION]** 
+------------------------------
+
+« *En 2022, 430 000 élèves en situations de handicap sont scolarisés en
+milieu ordinaire* » (MEN).
+
+Le droit à l'éducation pour tous les enfants, quel que soit leur
+handicap, est un droit fondamental. La loi sur la refondation de l'école
+consacre pour la première fois le principe d'inclusion scolaire. Le
+gouvernement est déterminé à faire de l'école inclusive, l'école 21^e^
+siècle (MEN, 2017).
+
+L'Ecole inclusive vise à assurer une scolarisation de qualité pour tous
+les élèves de la maternelle au lycée par la prise en compte de leurs
+singularités et de leurs besoins éducatifs particuliers.
+
+-   **[L'école inclusive]** environnement scolaire qui se
+    met au service de tous les enfants y compris ceux à besoins
+    spécifiques. Vise à offrir à chaque élève un environnement scolaire
+    le plus adapté à leurs particularités individuelles
+
+-   **[L'inclusion scolaire]** processus visant à tenir
+    compte de la diversité des besoins de tous les élèves et de
+    s'adapter à eux.
+
+[L\'école inclusive \|
+Gouvernement.fr](https://www.gouvernement.fr/action/l-ecole-inclusive)
+
+**[ENJEUX]** 
+------------------------
+
+-   **[Scolarité ordinaire pour tous les enfants quels que soient leurs
+    besoins]** = lutte inégalités
+
+    -   C. GARDOU (2005), [Fragment sur le handicap et la
+        vulnérabilité ]: *Enjeu de l'inclusion scolaire
+        considérer les personnes en situation de handicap comme égales
+        aux autres qui aspirent à l'autonomie*
+
+    -   CPE porte une attention particulière aux EBEP
+
+    -   **C1 :** Organiser les conditions de vie des élèves dans
+        l\'établissement, leur sécurité, la qualité de l\'organisation
+        matérielle et la gestion du temps
+
+    -   L'analyse des besoins de l'élève est déterminante pour amorcer
+        une scolarité dans les meilleures conditions = réussite et bien
+        être, insertion pro
+
+        -   Augmente estime de soi, vivre-ensemble et autonomie
+
+        -   C. VITALI, [Nouveaux enjeux pour la vie
+            scolaire] (2015) : *L'élève n'est plus obligé de
+            s'adapter à l'école, mais l'école doit s'adapter à lui. Les
+            élèves à besoins spécifiques ne répondent pas aux normes
+            attendues par l'école, or l'acceptation de la différence est
+            un principe d'égalité*.
+
+        -   Dans le cadre de l'action éducative, CPE travaille en lien
+            avec les partenaires
+
+        -   Lien avec les familles (coéducation 2013)
+
+```
+
+```
+-   Concerne une population d'élève très variée : inclusion concerne les
+    problématiques d'accès à l'école
+
+    -   Enfant en difficulté scolaire et durable
+
+    -   Situation familiale difficile
+
+    -   Enfant du voyage
+
+    -   Enfant nouvellement arrivé en France : [Organisation de la
+        scolarité des élèves allophones nouvellement arrivés \|
+        Ministère de l\'Education Nationale et de la
+        Jeunesse](https://www.education.gouv.fr/bo/12/Hebdo37/MENE1234231C.htm?cid_bo=61536)
+
+    -   Enfant intellectuellement précoce : [Ressources pour la
+        personnalisation des parcours des élèves à haut potentiel \|
+        éduscol \| Ministère de l\'Éducation nationale et de la
+        Jeunesse - Direction générale de l\'enseignement scolaire
+        (education.fr)](https://eduscol.education.fr/1188/ressources-pour-la-personnalisation-des-parcours-des-eleves-haut-potentiel)
+
+Centre académique pour la scolarisation des élèves allophones
+nouvellement arrivés et des enfants issus de familles itinérantes et de
+voyageurs (CASNAV) : [Organisation des Casnav \| Ministère de
+l\'Education Nationale et de la
+Jeunesse](https://www.education.gouv.fr/bo/12/Hebdo37/MENE1234234C.htm?cid_bo=61527)
+
+-   CPE prend toute sa place dans l'appropriation des valeurs de
+    tolérance, de solidarité et de vivre ensemble
+
+-   Participe à la lutte contre toutes les formes de discrimination et
+    de violence
+
+-   Education de qualité : inscrit dans les 17 objectif de DD d'ici 2030
+
+**[Obstacles]** 
+---------------------------
+
+-   Surcharge pour les enseignants difficulté de s'adapter aux
+    spécificités de chaque élève
+
+    -   G. LAVOINE, [La construction sociale de la désignation des
+        élèves à « besoins éducatifs particuliers »]
+        (2013) : *Pour lui, on ne peut pas parler d'inclusion scolaire
+        car les élèves à besoins éducatifs particuliers ne font pas
+        entièrement partie du groupe classe. Les causes sont la
+        formation des enseignants, les conditions de travail en classe
+        et l'organisation des établissements et de l'institution*
+
+-   Problème de transport, élève en ULIS / SEGPA ont pas le choix de
+    leur établissement, certains habitent loin et l'établissement ne
+    dispose pas toujours d'un internat et donc les élèves doivent se
+    lever très tôt et prendre le taxi ou les transport en commun voire
+    plusieurs
+
+**[Politiques éducatives]** 
+---------------------------------------
+
+Né à la fin des années 90, le concept d'inclusion scolaire est le fruit
+d'une longue évolution de l'éducation spécialisée. C'est une véritable
+volonté de prendre en charge les élèves qui ne réussissaient pas à
+s'adapter à l'éducation ordinaire.
+
+-   **1975** **Haby** : loi d'orientation en faveur des personnes
+    handicapées ; développement de l'accès en faveur des personnes
+    handicapées. Tout enfant a le droit à une formation scolaire
+
+-   **1989**  **Jospin** : politique d'intégration réaffirmée avec la
+    loi d'orientation sur l'éducation. Insiste sur la nécessité
+    d'intégration des élèves et étudiants handicapés
+
+-   **2005 Fillon :** loi d'égalité des droits et des chances nouvelle
+    considération des handicapés en France ; favorise l'autonomie ;
+    permet aux élèves handicapés d'intégrer des établissements
+    ordinaires dans leur établissement de secteur ; participe à la
+    citoyenneté des personnes handicapées
+
+> Respect du principe d'accessibilité ; compensation (aide, surcout) ;
+> adaptation (respect, dignité)
+>
+> [La loi du 11 février 2005 pour l'égalité des droits et des chances \|
+> handicap.gouv.fr](https://handicap.gouv.fr/la-loi-du-11-fevrier-2005-pour-legalite-des-droits-et-des-chances#:~:text=Accessibilit%C3%A9%20Aides%20financi%C3%A8res-,La%20loi%20du%2011%20f%C3%A9vrier%202005%20pour%20l'%C3%A9galit%C3%A9%20des,la%20classification%20internationale%20du%20handicap.)
+
+-   **2013 Peillon **:
+
+    -   Stipule que l'Ecole se doit d'être inclusive
+
+    -   Meilleure prise en compte des besoins spécifiques de l'élève en
+        situation de handicap
+
+    -   Faciliter accès élève handicapés à une scolarité ordinaire
+
+-   **2016** **Circulaire de rentrée **: réaffirme le droit de
+    scolarisation des élèves et que l'école doit reconnaitre leurs
+    spécificités (32 000 postes AESH)
+
+-   **2019 Pour une école inclusive** : [Pour une École inclusive \|
+    Ministère de l\'Education Nationale et de la
+    Jeunesse](https://www.education.gouv.fr/bo/19/Hebdo23/MENE1915816C.htm)
+
+    -   Instituer un service départemental Ecole inclusive : [Le service
+        public de l\'École inclusive \| éduscol \| Ministère de
+        l\'Éducation nationale et de la Jeunesse - Direction générale de
+        l\'enseignement scolaire
+        (education.fr)](https://eduscol.education.fr/1144/le-service-public-de-l-ecole-inclusive)
+
+    -   Organiser les pôles inclusifs d'accompagnement localisés :
+        [École inclusive : le Pial, qu\'est-ce que c\'est ? \| Ministère
+        de l\'Education Nationale et de la
+        Jeunesse](https://www.education.gouv.fr/ecole-inclusive-le-pial-qu-est-ce-que-c-est-1877)
+
+    -   Mieux accueillir les parents pour mieux scolarisés les élèves
+
+    -   Reconnaitre le travail des enseignants, les soutenir et déployer
+        une offre de formation accessible
+
+    -   Renforcer l'appartenance des AESH à la communauté éducative :
+        [Cadre de gestion des personnels exerçant des missions
+        d\'accompagnement d\'élèves en situation de handicap (AESH) \|
+        Ministère de l\'Education Nationale et de la
+        Jeunesse](https://www.education.gouv.fr/bo/19/Hebdo23/MENH1915158C.htm)
+
+    -   Mieux suivre les parcours inclusifs et évaluer la qualité des
+        actions
+
+![](media/image1.png){width="5.6986012685914265in"
+height="4.071057524059492in"}
+
+-   **2022 objectif **: Une école inclusive pour construire la société
+    de demain donner la possibilité d'acquérir une qualification
+    professionnel et d'offrir les conditions d'un véritable parcours
+    professionnel
+
+-   **2023** **PAP NDIAYE :** EGALITE + AUTONOMIE + REUSSITE
+
+**[Dispositifs] :** [download (education.fr)](https://eduscol.education.fr/document/21427/download)
+---------------------------------------------------------------------------------------------------------------
+
+-   **2003** **PAI** (Projet d'accueil individualisé) : d'ordre médical,
+    nécessité de passer devant le médecin scolaire (traitement,
+    injonction à faire en cas de crise)
+
+    -   [Qu\'est-ce qu\'un projet d\'accueil individualisé (PAI) ? \|
+        Service-public.fr](https://www.service-public.fr/particuliers/vosdroits/F21392)
+
+-   **2005** **PPRE** (Programme personnalisé de réussite éducative) :
+    document interne à l'établissement qui n'est pas reconnu pour un
+    examen. Accompagnement pédagogique pour élève qui ne maitrise pas
+    les bases du S4C.
+
+    -   [Les programmes personnalisés de réussite éducative \| éduscol
+        \| Ministère de l\'Éducation nationale et de la Jeunesse -
+        Direction générale de l\'enseignement scolaire
+        (education.fr)](https://eduscol.education.fr/858/les-programmes-personnalises-de-reussite-educative)
+
+-   **2006** création des MDPH qui met en place les **PPS** (Projet
+    personnalisé de Scolarisation) : PPS définit le recours à une aide
+    humaine/matériel. En lien avec l'ESS (équipe de suivi de
+    scolarisation), reconnu par la MDPH (élèves malvoyants, en ULIS,
+    autiste handicap qui empêche de suivre une scolarité ordinaire)
+
+    -   [Enfant handicapé : qu\'est-ce que le projet personnalisé de
+        scolarisation (PPS) ? \|
+        Service-public.fr](https://www.service-public.fr/particuliers/vosdroits/F33865)
+
+-   **2015** ULIS + **PAP** (Plan d'accompagnement personnalisé) :
+    difficulté pédagogique (DYS), construit à partir d'élément (bilan
+    orthophoniste qui va préconiser ces aménagements). = tiers temps,
+    aménagement EDT, etc.
+
+    -   [Mettre en œuvre un plan d\'accompagnement personnalisé \|
+        éduscol \| Ministère de l\'Éducation nationale et de la
+        Jeunesse - Direction générale de l\'enseignement scolaire
+        (education.fr)](https://eduscol.education.fr/1214/mettre-en-oeuvre-un-plan-d-accompagnement-personnalise)
+
+**Ouvrir l\'école aux parents pour la réussite des enfants** : [Ouvrir
+l\'école aux parents pour la réussite des enfants \| éduscol \|
+Ministère de l\'Éducation nationale et de la Jeunesse - Direction
+générale de l\'enseignement scolaire
+(education.fr)](https://eduscol.education.fr/2187/ouvrir-l-ecole-aux-parents-pour-la-reussite-des-enfants)
+
+**La journée internationale des personnes en situation de handicap** :
+[La journée internationale des personnes en situation de handicap \|
+éduscol \| Ministère de l\'Éducation nationale et de la Jeunesse -
+Direction générale de l\'enseignement scolaire
+(education.fr)](https://eduscol.education.fr/3382/la-journee-internationale-des-personnes-en-situation-de-handicap)
+
+**Des outils pour accompagner tous les élèves** : [Confiance,
+apprentissages, partage - Cap école inclusive - Réseau Canopé
+(reseau-canope.fr)](https://www.reseau-canope.fr/cap-ecole-inclusive)
+
+**[Actions à mettre en place]**
+-------------------------------------------
+
+![](media/image2.png)}
+
+![](media/image3.png){width="3.683333333333333in"
+height="3.6270866141732285in"}
+
+![](media/image4.png){width="7.201388888888889in"
+height="3.720138888888889in"}
+
+
+
+![Tableau 10-ECOLE-INCLUSIVE](images/10-ECOLE-INCLUSIVE.png)
+
+
+
+# 11-ECOLE-FAMILLE
+[Retour au sommaire](#sommaire)
+
+**[INTRODUCTION]** 
+------------------------------
+
+Concept au cœur des préoccupations ministérielles. La coéducation peut
+être définie comme une forme d'éducation qui privilégie l'apprentissage
+en autonomie, par l'expérience collective et la collaboration. Elle
+s'appuie sur l'émulation d'un groupe et prend en compte la situation
+d'apprentissage dans son ensemble. Le principe de coéducation met
+l'accent sur le rôle de chacun de ceux qui entourent un enfant dans le
+processus éducatif (parents, enseignants, etc). C'est une relation entre
+les premiers éducateurs de l'enfant, c'est-à-dire les parents, et entre
+les éducateurs professionnels qui agissent en parallèle ou
+successivement aux premiers éducateurs.
+
+[Parents d\'élèves \| éduscol \| Ministère de l\'Éducation nationale et
+de la Jeunesse - Direction générale de l\'enseignement scolaire
+(education.fr)](https://eduscol.education.fr/2186/parents-d-eleves)
+
+**[ENJEUX]** 
+------------------------
+
+-   **[Pour l'élève ]**:
+
+    -   **Sa réussite** Une bonne communication avec les parents =
+        obtenir des infos sur l'élève essentielles pour amorcer sa
+        scolarité dans les meilleures conditions (besoins d'adaptions,
+        d'aménagements)
+
+    -   **Réduire les absences** informer les familles des absences =
+        **[Circulaire de lutte contre
+        l'Absentéisme] (2014)** : « *Il revient à chaque
+        responsable, à tous les niveaux de l\'institution scolaire, de
+        se mobiliser pour mettre en place des actions de prévention et
+        de suivi de l\'absentéisme et [apporter, dans un climat de
+        confiance avec les familles, des réponses rapides et efficaces
+        lorsque des absences sont constatées]* » **Lutte
+        contre DS**
+
+    -   **Protéger l'élève**, **son bien être** permet de connaitre le
+        profils des parents, son contexte familiale et ainsi le savoir
+        en sécurité. Travail en lien avec l'AS si besoin.
+
+CPE porte une attention particulière aux EBEP
+
+**CUNINIGHAM et SANDHU, 2000** : *Le développement d'un lien fort entre
+le jeune, sa famille et l'école permet de prédire des comportements plus
+sûrs à l'adolescence et des problèmes de santé moins importants. Lorsque
+l'enfant se sent soutenu tant par sa famille que par ses enseignants :
+on assite alors à la diminution de la victimation et des conduites
+agressives*.
+
+-   **[Pour un membre du personnel ]**:
+
+    -   **Affirmer son rôle** être en bon terme avec les parents, une
+        bonne communication lui permet de mieux affirmer son rôle et sa
+        fonction car il aura leur soutien
+
+    -   **Mettre en œuvre les valeurs de la république** à travers la
+        prévention de la violence, la lutte contre les préjugés et les
+        discriminations, la mise en œuvre de règles communes, le
+        développement et la responsabilisation des jeunes et de leur
+        autonomie
+
+        -   **CPE** prend toute sa place dans l'appropriation des
+            valeurs de tolérance, de solidarité et de vivre-ensemble
+
+        -   **CPE** participe à la lutte contre toutes les formes de
+            discrimination, de violence et de harcèlement
+
+        -   **CPE** contribue au respect des principes de neutralité et
+            de la laïcité au sein des établissements
+
+        -   **CPE** participe à la diffusion et à l'explication des
+            principes énoncés dans la charte de la laïcité à l'école. Il
+            doit savoir transmettre et faire partager les valeurs et les
+            principes de la République
+
+-   **[Pour la famille ]**:
+
+    -   **Permet de développer un sentiment d'appartenance à la
+        communauté éducative**
+
+    -   Un parent qui s'intéresse à l'école où évolue son enfant c'est
+        être informé sur ce qu'il s'y passe : la progression de leur
+        enfant, comment il se situe par rapport à l'avancée du groupe
+        classe, et ainsi pouvoir assurer une continuité pédagogique et
+        un soutien efficace pour leur enfant.
+
+    -   Enfin, si les parents se positionnent comme porteurs d'une image
+        valorisante de l'école, cela ne peut que créer un rapport
+        positif au savoir, connaissant l'admiration des enfants envers
+        leurs parents.
+
+**CPE** porte une attention particulière aux familles éloignées du
+système éducatif. Entretient des dialogues. Noue une relation de
+confiance. Aide les familles à l'accompagnement + élaboration du projet
+pro de l'élève.
+
+**[Climat scolaire]** : 10 conseils pour bien gérer les
+relations parents-enseignant : [Climat scolaire, 10 conseils pour bien
+gérer les relations parents-enseignants - C.P.E et Vie scolaire
+(ac-dijon.fr)](http://cpe.ac-dijon.fr/spip.php?article715)
+
+**[Obstacles]** 
+---------------------------
+
+-   **Le lien** La coéducation ne peut se faire sans un moyen de
+    transmettre les informations entre les différents acteurs. Il faut
+    donc que le membre du personnel parvienne à mettre en place un
+    système de communication efficace, simple d'utilisation et peu
+    coûteux en temps pour lui et pour les familles.
+
+> D'où l'utilité de la plateforme numérique (MBN / Pronote), mais toutes
+> familles n'ont pas accès à internet, certaines familles sont éloignées
+> du système éducatif
+>
+> **A. FEYFENT, [Coéducation : quelle place pour les
+> parents] (2015).**
+
+-   **Le dialogue** dialogue rompu au sein même de la famille (divorce,
+    séparation, etc), un des deux parents n'habite pas dans les environs
+    (difficulté de rencontre), barrière de la langue, les parents
+    indifférent qui considèrent que la scolarité de leur enfant relève
+    de la seule responsabilité de l'école, celles qui ne savent pas
+    comment faire (n'ont pas les guide)
+
+> **RAYOU, [Faire ses devoirs] (2011) **: inégalité entre
+> élèves = certains sont livrés à eux-mêmes après l'école et d'autres
+> aidés par les parents
+
+-   **Le personnel** il faut qu'ils assurent leur rôle, il doit aussi
+    demander des contacts pour installer un climat de confiance entre
+    lui et les familles. Doit se montrer disponible et à l'écoute. Doit
+    connaitre un minimum l'histoire de la famille pour comprendre les
+    difficultés pour répondre au mieux aux besoins des élèves.
+
+> **THIN et MILLET, [Ruptures scolaires] (2006) **: Les
+> enseignants ont tendance à infantiliser les familles populaires ou
+> étrangères : ils privilégient la collaboration avec les parents de
+> classes moyennes et aisés du fait qu'elles possèdent une bonne part de
+> capital social permettant d'exploiter le système éducatif en faveur
+> des enfants. Par conséquent, cela créer la fuite ou la démission des
+> familles de milieux populaires, en situation de pauvreté ou encore
+> allophones car elles éprouvent des difficultés pour comprendre
+> l'organisation scolaire, ses procédures, son vocabulaires.
+>
+> **G. FOTINOS, [Parents et profs d'école : de la défiance à
+> l'alliance] (2008)**
+>
+> Il est difficile de convenir que la relation parents-enseignants est
+> totalement sereine. La méfiance réciproque nourrit l'échec scolaire,
+> mais aussi la violence tant des adultes que des élèves. L'auteur
+> retient 3 sources de conflits : la discipline, l'évaluation et
+> l'orientation.
+
+**[Politiques éducatives]** 
+---------------------------------------
+
+-   **1932** Les parents sont associés à l'école et autorisés à
+    participer aux décisions sur l'organisation des établissements
+    en 1942.
+
+-   **1968** Les parents sont impliqués par leurs représentants dans les
+    CA et CC
+
+-   **1975** **Haby** : démocratisation scolaire, massification de
+    l'enseignement et donc accueil d'un nouveau public. Les parents de
+    milieux défavorisés ont une méconnaissance du SE, des difficultés
+    d'élocution et par conséquent = peu de rencontre.
+
+> La communauté scolaire inclut le personnel, les élèves et les parents
+> et accorde l'association des familles aux missions de l'école
+
+-   **1989**  **Jospin** : Considère de manière officielle les familles
+    comme membre à part entière de la communauté éducative
+
+-   **2005 Fillon :** Les parents des élèves handicapés sont devenus
+    associés à chaque étape de la définitions du PPS
+
+-   **2006 :** [Bulletin officiel n° 31 du 31 août 2006
+    (education.gouv.fr)](https://www.education.gouv.fr/bo/2006/31/MENE0602215C.htm)
+    relative au rôle des parents dans l'institution = siéger dans les
+    instances, droit à l'information dans le suivi de scolarité de leurs
+    enfants, associations des parents d'élèves. Rencontre parent-prof au
+    moins 2 fois par an.
+
+-   **2013 Peillon **: Tourant dans la relation école famille la
+    coéducation est valorisée par les droits d'informations et
+    d'expression des parents. La coéducation fait officiellement partie
+    des gestes professionnelles que tout personnel doit acquérir et
+    privilégier pour la réussite et le bien être des élèves
+
+-   **2013** **Circulaire relative au renforcement de la coopération
+    entre les parents et l'école dans les territoires : « ***Pour
+    garantir la réussite de tous, l'école se construit avec la
+    participation des parents, quelle que soit leur origine sociale »*
+    [Renforcer la coopération entre les parents et l\'école dans les
+    territoires \| Ministère de l\'Education Nationale et de la
+    Jeunesse](https://www.education.gouv.fr/bo/13/Hebdo38/REDE1324999C.htm)
+
+-   **2019 Pour une école de la confiance** : Prend en compte la
+    diversification des situations familiales, homoparentales
+
+**[Dispositifs] :** 
+-------------------------------
+
+-   **2017 :** Devoirs faits = réduire les inégalités scolaires des
+    élèves
+
+-   **2008 :** Mallette des parents [La Mallette des parents, pour
+    accompagner la réussite de tous les élèves \| éduscol \| Ministère
+    de l\'Éducation nationale et de la Jeunesse - Direction générale de
+    l\'enseignement scolaire
+    (education.fr)](https://eduscol.education.fr/2288/la-mallette-des-parents-pour-accompagner-la-reussite-de-tous-les-eleves)
+
+**[Ouvrir l\'école aux parents pour la réussite des
+enfants :]**
+
+-   [Ouvrir l\'école aux parents pour la réussite des enfants \| éduscol
+    \| Ministère de l\'Éducation nationale et de la Jeunesse - Direction
+    générale de l\'enseignement scolaire
+    (education.fr)](https://eduscol.education.fr/2187/ouvrir-l-ecole-aux-parents-pour-la-reussite-des-enfants)
+
+```
+
+```
+-   [Dispositif Ouvrir l\'École aux parents pour la réussite des
+    enfants - année scolaire 2014-2015 \| Ministère de l\'Education
+    Nationale et de la
+    Jeunesse](https://www.education.gouv.fr/bo/14/Hebdo47/MENE1428228C.htm?cid_bo=84351)
+
+```
+
+```
+-   [Objectifs - Présentation de l\'opération - Réseau Canopé
+    (reseau-canope.fr)](https://www.reseau-canope.fr/ouvrir-lecole-aux-parents-pour-la-reussite-des-enfants/presentation-de-loperation/objectifs.html)
+
+**[Actions à mettre en place] :** 
+---------------------------------------------
+
+**[Diagnostic ]**: intérêt et implication des familles par
+rapport à l'établissement ; implication des fédération de parents
+d'élèves ; perception et ressenti des parents ; implication des familles
+dans les réunions/instances ; existence d'un espace pour les parents
+
++----------------------------------+----------------------------------+
+| **Favoriser la communication     | **Accompagner les familles dans  |
+| avec les parents**               | le suivi péda et éducatif**      |
++==================================+==================================+
+| **Communiquer sur l'organisation | -   **Suivi individuel** =       |
+| de l'établissement**             |     contact régulier entre       |
+|                                  |     famille, PP + CPE (résultats |
+| -   Temps de rentrée, réunion,   |     scolaires, comportement,     |
+|     rencontre parent-prof = être |     orientation)                 |
+|     à l'écoute et se rendre      |                                  |
+|     disponible pour établir un   |     -   **Faciliter le suivi +   |
+|     contact de confiance         |         collaboration =          |
+|                                  |         réussite**               |
+| -   Réaliser un livret d'accueil |                                  |
+|     aux familles avec les élèves | -   **Suivi collectif** =        |
+|     du CVC/CVL, AED              |     associer les parents au      |
+|     (présentation établissement, |     processus d'orientation      |
+|     qql passages du RI et droits |     moment pour répondre aux     |
+|     et obligations des élèves)   |     questions et rapprocher les  |
+|                                  |     familles, même celles        |
+|     -   Permettre aux familles   |     éloignées                    |
+|         de mieux comprendre le   |                                  |
+|         fonctionnement de        | -   **Favoriser et mettre en     |
+|         l'établissement          |     avant l'implication des      |
+|                                  |     parents**                    |
+|     ```                   |                                  |
+|                          | Intégrer la coéducation dans le  |
+|     ```                          | projet établissement ;           |
+|     -   Organiser une visite de  | multiplier les temps             |
+|         l'établissement pour     | d'échanges ; création d'un       |
+|         créer un sentiment       | espace parents ou « café des     |
+|         d'appartenance,          | parents » pour tendre vers       |
+|         instaurer une relation   | « l'inclusion pédagogique » de   |
+|         de confiance, rassurer   | tous les parents ; donner à tous |
+|         les familles             | la culture scolaire, qql         |
+|                                  | conseils simple pour suivre la   |
+|                                  | scolarité de le leur enfant et   |
+|                                  | en rendant plus lisible les      |
+|                                  | supports utilisés et diffusés    |
+|                                  | par les enseignants              |
+|                                  |                                  |
+|                                  | Aide à l'utilisation de la       |
+|                                  | plateforme de l'établissement    |
+|                                  | afin que toutes les familles y   |
+|                                  | est accès                        |
++----------------------------------+----------------------------------+
+
+Partenariat avec les parents œuvrer au bien être des élèves et à leur
+réussite
+
+Famille = partenaire de la coéducation dans le suivi de scolarité de
+leurs enfants et dans la vie de l'établissement
+
+Nécessité de continuité entre l'école et la famille
+
+
+
+![Tableau 11-ECOLE-FAMILLE](images/11-ECOLE-FAMILLE.png)
+
+
+
+# 12-EDUCATION-DEVELOPPEMENT-DURABLE
+[Retour au sommaire](#sommaire)
+
+**[INTRODUCTION]** 
+------------------------------
+
+Le 25 septembre 2015, l'Assemblée générale des Nations Unies a adopté le
+programme de développement durable à l'horizon 2030.
+
+L'EDD est une mission centrale de l'école inscrite dans le code de
+l'éducation.
+
+Le développement durable est « *un développement qui répond aux besoins
+du présent sans compromettre la capacité des générations futures à
+répondre aux leurs »*, citation du Premier ministre Norvégien, 1987
+
+Le développement = amélioration des performances (sociales, économiques,
+etc) d'une société / durable = tient dans la durée, stable + résistant
+
+[L\'éducation au développement durable \| Ministère de l\'Education
+Nationale et de la
+Jeunesse](https://www.education.gouv.fr/l-education-au-developpement-durable-7136#:~:text=L'%C3%A9ducation%20au%20d%C3%A9veloppement%20durable%20(EDD)%20permet%20d',dans%20le%20fonctionnement%20des%20%C3%A9tablissements.)
+
+**VADEMECUM** [download
+(education.fr)](https://eduscol.education.fr/document/5239/download?attachment)
+
+**[ENJEUX]** 
+------------------------
+
+[Une École engagée pour le développement durable \| Ministère de
+l\'Education nationale et de la
+Jeunesse](https://www.education.gouv.fr/une-ecole-engagee-pour-le-developpement-durable-et-la-transition-ecologique-12017) :
+Une école engagée pour le développement durable et la transition
+écologique -- "*L'éducation nationale est pleinement mobilisée dans la
+lutte contre le changement climatique et en faveur de la biodiversité.
+Ainsi les élèves sont appelés à être des acteurs majeurs de la
+transition écologique, et les écoles et établissements des lieux
+exemplaires de la protection de l'environnement*."
+
+-   **EDD [permet d'appréhender la complexité du monde] dans
+    ses dimensions scientifiques, éthiques et civiques.**
+
+    -   PACHE, CURNIER, HONORE et HERTIG, [Penser l'avenir de manière
+        créative : un enjeu central de l'éducation en vue du
+        DD] 2016 : *L'éducation au DD apparait comme
+        indispensable pour permettre d'assurer un avenir convenable aux
+        générations futures, et engage chaque élève à développer des
+        compétences pour agir de manière responsable.*
+
+    -   Présentés selon des approches interdisciplinaires et
+        transversales, les enjeux liés au DD sont au cœur des
+        enseignements du CP à la Terminale.
+
+        -   EDD fait partie intégrante de la **formation initiale des
+            élèves**. **Transversale**, elle figure dans les programmes
+            d'enseignement ce qui fait une place significative aux
+            enjeux climatiques et environnementaux. **F. PELLAUD, [Le DD
+            et son entrée formelle dans l'école] (2011).**
+
+        -   Elle est intégrée dans les **disciplines existantes**, dans
+            les offres de formation et dans le projet établissement.
+
+        -   CPE apporte sa contribution à la mise en œuvre des
+            **éducations transversales** (éducation à la santé,
+            citoyenneté, EDD, éducation artistique et culturelle).
+
+    -   Dans le cadre de l'EDD, il est demandé aux élèves de penser
+        l'avenir, d'inventer le monde, et pour ce faire, de s'appuyer
+        sur leurs connaissances et leurs compétences **Intégrée dans
+        le** **socle commun** Pilier 6 (compétences sociales et
+        civiques) et 7 (autonomie et initiative).
+
+    -   **Parcours citoyen et santé** favorable à la prise en compte des
+        enjeux du DD.
+
+    -   CPE accompagne les parcours de l'élève sur les plans péda et
+        éducatif
+
+    -   CPE agit en **éducateur responsable** et selon des **principes
+        éthiques**
+
+    -   CPE fait partager les **valeurs de la république**
+
+-   **[Former des citoyens éclairés et responsables]**
+
+    -   Le citoyen a des devoirs envers la planète sur laquelle il vit
+        et l'environnement dans lequel il évolue. La citoyenneté
+        s'exerce aussi vis-à-vis de l'environnement
+
+    -   UNESCO, [L'éducation en vue des objectifs de DD]
+        2017 : *L'éducation est essentielle à la réalisation du DD car
+        elle permet ainsi au citoyen de prendre des décisions éclairées
+        et responsables en faveur de l'environnement, pour les
+        générations futures*.
+
+    -   Enjeu global est le développement et la durabilité de l'humanité
+        sur une planète vivable. Cela permet d'envisager un modèle de
+        société démocratique, viable et à long terme. Le DD est un défi
+        mondial qui concerne toutes les sociétés à toutes échelles.
+
+    -   *Au cœur du programme 2030, figurent 17 ODD (objectifs DD) qui
+        décrivent les défis à relever par l'humanité pour assurer des
+        conditions d'existence viables et justes pour l'avenir ainsi que
+        6 enjeux afin d'éradiquer la pauvreté, protéger la planète et
+        garantir la prospérité de tous. Les objectifs de développement
+        constituent un programme ambitieux et universel pour notre
+        monde.* [17 Objectifs de développement durable - L\'Agenda 2030
+        en France
+        (agenda-2030.fr)](https://www.agenda-2030.fr/17-objectifs-de-developpement-durable/)
+
+        -   Agir pour une transformation juste, en luttant contre toutes
+            les discriminations et inégalités et en garantissant les
+            mêmes droits, opportunités et libertés à toutes et tous.
+            [CPE participe à la lutte et à la prévention contre toutes
+            les formes de discrimination, de harcèlement et de
+            violence]
+
+        -   Education et formation tout au long de la vie, pour
+            permettre une évolution vers des comportements et modes de
+            vie adaptés au monde à construire et aux défis du DD
+
+        -   Agir sur la santé et le bien-être de tous, notamment via une
+            alimentation et une agriculture saine et durable [CPE
+            travaille avec les personnels médico-sociaux]
+            ...
+
+        -   Œuvrer en faveur de la paix et de la solidarité. [CPE prend
+            sa place dans l'appropriation des valeurs de tolérance, de
+            solidarité et de vivre-ensemble]
+
+**[Obstacles]** 
+---------------------------
+
+**D. BERNIER, [Quels freins pour l'EDD chez le personnel
+enseignant], 2023**
+
+Pour certains enseignants, ce n'est pas une priorité, manque de
+formation. Manque de temps pour se former. Manque de matériel péda et de
+ressources pour mener à bien des projets éducatifs.
+
+**[Politiques éducatives]** 
+---------------------------------------
+
+**1977** : une circulaire donne naissance à l'éducation à
+l'environnement en France
+
+**2004 **: Charte environnement, souligne la nécessité de « l'éducation
+et la formation à l'environnement » = Généralisation d'une éducation à
+l'environnement pour un développement durable (EEDD)
+
+**2013 **: EEDD débute dès le primaire. Elle a pour objectif d'éveiller
+les enfants aux enjeux environnementaux. « Elle comporte une
+sensibilisation à la nature et à la compréhension et à l'évaluation de
+l'impact des activités humaines sur les ressources naturelles. » Fait
+entrer cette éducation dans le code de l'éducation.
+
+**2015 **: Instruction relative au déploiement de l'éducation au DD dans
+l'ensemble des écoles et établissements scolaires pour la période
+2015-2018
+
+**2019 **: EEDD a pour objectif de sensibiliser les élèves à la
+transition écologique en plus des enjeux environnementaux de 2013.
+« Elle permet la transmission et l'acquisition des connaissances et ses
+savoirs relatifs à la nature, à la nécessité de préserver la
+biodiversité, à la compréhension et à l'évaluation de l'impact des
+acticités humaines sur les ressources naturelles et à la lutte contre le
+réchauffement climatique »
+
+**2020 **: La mobilisation du ministère de l'Education nationale, de la
+Jeunesse et des Sports en faveur du climat et de la biodiversité. 60
+élus du CNVL ont débattu des enjeux climatiques et environnementaux, le
+gouvernement s'est engagé sur 8 axes d'accompagnement et d'actions :
+
+1.  Faire de chaque école et établissement, un lieu ouvert à des
+    activités liées à la biodiversité (potagers, nichoirs, compost, etc)
+
+2.  Identifier un binôme d'éco-délégués au collège et au lycée
+
+3.  Consacrer une séance annuelle complète des instances lycéennes aux
+    thématiques liées au DD
+
+4.  Intégrer les élus lycéens aux comités de pilotage académiques de
+    l'EDD
+
+5.  Engager les écoles et les établissements dans une démarche globale
+    de DD.
+
+6.  Etudier le changement climatique et la biodiversité dans les
+    nouveaux programmes du lycée et enrichir ceux de l'école et du
+    collège
+
+7.  Intégrer les enjeux du DD dans tous les diplômes des voies
+    technologique et professionnelle
+
+8.  Créer un prix EDD 2030 pour soutenir les meilleurs projets menés
+    dans les écoles, collèges et lycées dès l'année 2019-2020
+
+**22 août 2021 :** La loi « Climat et Résilience » = renforce la place
+de l'EDD comme éducation transversale à travers tous les programmes de
+toutes disciplines.
+
+Elargit CESC à CESCE = renforcer les synergies entre santé et DD en
+articulant par exemple l'éducation à l'alimentation.
+
+**[Dispositifs] :** 
+-------------------------------
+
+-   **2013 :** Label E3D établissement qui entre en démarche global de
+    développement durable
+
+> [La labellisation E3D \| éduscol \| Ministère de l\'Éducation
+> nationale et de la Jeunesse - Direction générale de l\'enseignement
+> scolaire
+> (education.fr)](https://eduscol.education.fr/1118/la-labellisation-e3d)
+
+-   **2019 :** Eco-délégués encourage l'engagement des élèves. Jouent un
+    rôle essentiel de sensibilisation et de mobilisation pour contribuer
+    à faire des collèges et lycées des espaces plus favorables à la
+    biodiversité et davantage engagés dans l'atténuation et l'adaptation
+    au changement climatique. **[EDUSCOL 2022]**
+
+> [Des élèves éco-délégués pour agir en faveur du développement durable
+> \| Ministère de l\'Education Nationale et de la
+> Jeunesse](https://www.education.gouv.fr/des-eleves-eco-delegues-pour-agir-en-faveur-du-developpement-durable-10835)
+>
+> [Qu'est-ce qu'un éco-délégué ? \|
+> Mtaterre](https://mtaterre.fr/dossiers/dossier-eco-delegue/quest-ce-quun-eco-delegue)
+
+**[Actions à mettre en place] :** 
+---------------------------------------------
+
+**[Diagnostic ]**: action du projet d'établissement en lien
+avec l'éducation au développement durable ; action et projet en lien
+avec EDD dans le cadre du CESCE ; partenariat extérieurs en lien avec
+EED ; action inter-degrés (école, collège, lycée) sur des projets EDD ;
+engagement des élèves au sein des instances ; élection éco-délégués et
+leur implication ; engagement des adultes dans les instances de
+l'établissement sur la question de l'EDD
+
++----------------------------------+----------------------------------+
+| **Partager et construire une     | **Travailler avec la com         |
+| culture commune pour renforcer   | éducative pour faire vivre l'EDD |
+| la dynamique collective de       | au sein de l'établ et en         |
+| généralisation de l'EDD**        | réseau**                         |
++==================================+==================================+
+| -   Travailler avec la com éduc  | -   **Sensibiliser aux enjeux du |
+|     sur le **projet établ** (axe |     DD**                         |
+|     sur l'EDD)                   |                                  |
+|                                  | ```                       |
+| -   **Travailler collectivement  |                          |
+|     à :**                        | ```                              |
+|                                  | -   **Mettre en place élection   |
+| Sensibiliser aux enjeux du DD    |     des éco-délégués**           |
+|                                  |                                  |
+| Sensibiliser à l'acte de         | Présenter les objectifs et le    |
+| l'engagement                     | rôle des E-D                     |
+|                                  |                                  |
+| S'impliquer dans des actions EDD | Valoriser les actions qui ont    |
+|                                  | été entreprises ou réalisées     |
+| Communiquer un message de DD     |                                  |
+|                                  | -   **Sensibiliser la com        |
+| Prendre des responsabilités pour |     éducative**                  |
+| impulser une dynamique EDD       |                                  |
+|                                  | ```                       |
+| Favoriser la liaison             |                          |
+| école-collège pour travailler    | ```                              |
+| sur la question du DD            | -   Mettre en place des actions  |
+|                                  |     de com pour toucher tous les |
+|                                  |     élèves de l'établ (affiches, |
+|                                  |     site ou blog, réseaux        |
+|                                  |     sociaux)                     |
+|                                  |                                  |
+|                                  | -   Chercher à susciter          |
+|                                  |     l'engagement par des         |
+|                                  |     témoignages d'ancien élèves  |
+|                                  |     E-D                          |
+|                                  |                                  |
+|                                  | -   Mettre en lien les E-D d'une |
+|                                  |     même ville                   |
+|                                  |                                  |
+|                                  | -   Sensibiliser sous forme      |
+|                                  |     d'actions de solidarité      |
+|                                  |                                  |
+|                                  | ```                       |
+|                                  |                          |
+|                                  | ```                              |
+|                                  | -   **S'impliquer dans des       |
+|                                  |     actions EDD**                |
+|                                  |                                  |
+|                                  | ```                       |
+|                                  |                          |
+|                                  | ```                              |
+|                                  | -   S'engager dans une démarche  |
+|                                  |     globale de DD (E3D) qui      |
+|                                  |     apporte des solutions        |
+|                                  |     concrètes pour répondre au   |
+|                                  |     Objectifs de DD dans le      |
+|                                  |     cadre de l'agenda 2030       |
+|                                  |                                  |
+|                                  | -   Participation à un évènement |
+|                                  |     ponctuel (conférence,        |
+|                                  |     journée dédiée à... ;        |
+|                                  |     collecte ; vestiaire         |
+|                                  |     solidaire ; plantation       |
+|                                  |     d'arbres ; composte)         |
+|                                  |                                  |
+|                                  | -   Mise en place d'une          |
+|                                  |     politique de tri (cantine)   |
+|                                  |                                  |
+|                                  | -   Lutte anti-gaspillage à la   |
+|                                  |     cantine (grande et petite    |
+|                                  |     assiette)                    |
+|                                  |                                  |
+|                                  | ```                       |
+|                                  |                          |
+|                                  | ```                              |
+|                                  | -   **Prendre des                |
+|                                  |     responsabilités pour         |
+|                                  |     impulser une dynamique EDD   |
+|                                  |     dans son environnement**     |
+|                                  |                                  |
+|                                  | ```                       |
+|                                  |                          |
+|                                  | ```                              |
+|                                  | -   Rédaction d'une charte       |
+|                                  |                                  |
+|                                  | -   Organiser des rencontres     |
+|                                  |     avec d'autres acteurs        |
+|                                  |     (scientifiques, élus, etc)   |
++----------------------------------+----------------------------------+
+
+**Fin septembre, début octobre** Semaine européenne du développement
+durable
+
+**Décembre** Journée mondiale du climat
+
+Les gestes éco dans les établissements : [Développement durable : que
+faites-vous dans vos lycées ?
+(phosphore.com)](https://www.phosphore.com/reussir-au-lycee/developpement-durable-que-faites-vous-dans-vos-lycees/)
+
+**Actions** réduire les déchets à la cantine
+
+Elaborer diagnostic, équipe pilote, objectif, financement
+
+-   Peser déchet sur une semaine mettre à disposition d'une poubelle
+    spécial pain, spécial alimentaire et autres = (peser du pain, déchet
+    alimentaire, déchet obligatoire -- peau de fruit, serviette,
+    emballage) constater le gaspillage + établir objectif de réduction
+    avec élèves
+
+-   Afficher dans le hall et à la cantine les résultats
+
+-   En amont, j'aurais vu avec le Gestionnaire = achat de petite
+    assiette (les élèves auront juste à demander une petite assiette et
+    les agents sauront qu'il faut mettre une quantité qui correspond à
+    la capacité de l'assiette)
+
+-   Elève sensibilise leurs camarades sur la semaine à venir, via les
+    délégués de classe, création d'affiche (avec les résultats de la
+    pesée de la semaine précédente) = élève sensibiliser à demander la
+    petite assiette, prendre que ce dont ils sont sûr de consommer
+
+-   Nouvelle pesée pour comparer après la semaine de sensibilisation et
+    le test de la petite assiette
+
+-   Voir avec les agents, pour le pain = possibilité de couper des
+    morceaux de pain en deux et de prendre que des demi-pains
+
+-   Toujours présenter sous forme d'affiche le menus de la semaine aux
+    élèves, devant la cantine ou dans le hall, pour qu'ils puissent
+    savoir en amont le type d'assiette demandé et éviter le gâchis
+
+-   Essaie sur 4 semaines et affiché chaque semaine les résultats pour
+    inciter les élèves à continuer
+
+**Dans la continuité** **de la cantine** : mettre au niveau des
+poubelles, des bacs de récupération de yaourt, fruit, entrée, pain, ou
+autres que les élèves n'ont pas consommé et sur la base du volontariat
+les élèves pourront se servir dans ce bac pour compléter leur repas
+
+**Par la suite,** effectué une pesée toutes les deux semaines voire tous
+les mois pour connaitre le poids des déchets
+
+**Eau :** prévenir les élèves à la cantine, de ne plus jeter l'eau des
+cruches, mais de la desservir dans un bac pour arroser les plantes
+Planter des plantes = créer un jardin dans la cours
+
+
+
+![Tableau 12-EDUCATION-DEVELOPPEMENT-DURABLE](images/12-EDUCATION-DEVELOPPEMENT-DURABLE.png)
+
+
+
+# 13-EDUCATION-CITOYENNETE-VAL-REP
+[Retour au sommaire](#sommaire)
+
+**[INTRODUCTION]** 
+------------------------------
+
+« *L'Ecole est un lieu d'apprentissage de la vie démocratique. Mais une
+République d'enfant serait un danger »*, Hannah ARENDT. L'établissement
+scolaire, en même temps qu'il est un lieu d'acquisition de savoirs et de
+développement de l'esprit critique et scientifique est celui d'un
+apprentissage, commencé dès l'école élémentaire, des règles de la vie
+démocratique et des droits et devoirs attachés à l'exercice de la
+citoyenneté. L'éducation à la citoyenneté doit être un apprentissage
+progressif. On va davantage faire participer les jeunes et leur faire
+prendre des responsabilités.
+
+**[Citoyenneté]** apprentissage de la démocratie, respect
+d'autrui, vivre-ensemble, solidarité, prévention violence, utilisation
+internet + réseaux sociaux 
+
+**[Citoyen]** acteur de la société démocratique avec des
+droits et des devoirs
+
+**[Engagement]** participation à la vie de l'établissement
+et à son implication dans les différentes instances de l'établissement
+en appliquant les valeurs de la République.
+
+**[Démocratie]** ensemble des instances de l'éducation
+nationale permettant l'expression des élèves via des représentants élus
+
+**[ENJEUX]** 
+------------------------
+
+**CITOYENS ECLAIRES, RESPONSABLES, RESPECTUEUX ET AUTONOMES**
+
+-   Dans les années 1960, la massification où l'accès au plus grand
+    nombre d'élève à l'enseignement secondaire à nécessité de développer
+    l'éducation à la citoyenneté car hétérogénéité du public et besoin
+    de créer une culture commune, vivre-ensemble et les mêmes valeurs.
+
+    -   D. SCHNAPPER, [L'école, vecteur des valeurs de la
+        république], 2014 : *importance du rôle de
+        transmission de l'école pour que les élèves puissent acquérir
+        les mêmes valeurs.*
+
+    -   CPE accompagne les élèves dans l'apprentissage de la
+        citoyenneté, notamment en les informant de leurs droits et
+        devoirs ainsi que leurs responsabilité et la capacité à les
+        exercer dans un espace de vie scolaire (pause méridienne, foyer,
+        MDL, etc)
+
+-   L'éducation à la citoyenneté à l'école donne le moyen aux élèves de
+    participer activement et façon autonome à la société. Elle partage
+    un attachement à la démocratie et aux droits humains comme base
+    d'une meilleure vie de tous.
+
+    -   D. SCHNAPPER, [Qu'est-ce que la citoyenneté], 2000 :
+        *l'Ecole doit donner à tous les moyens d'exercer concrètement
+        ses droits.*
+
+    -   CPE, doit garantir en lien avec les personnels, le respect des
+        règles de vie et de droits dans l'établissement
+
+    -   CPE favorise la participation des élèves dans les instances
+        représentatives de l'établissement. Accompagne les élèves,
+        notamment dans leur formation à une citoyenneté participative et
+        accompagne les parcours de l'élève sur les plans péda et
+        éducatifs. Il organise la formation des délégués, afin que ces
+        derniers soient en mesure d'assurer leurs fonctions au sein des
+        différentes instances de l'établissements.
+
+    -   **C5 : Accompagner le parcours de l\'élève sur les plans
+        pédagogique et éducatif**
+
+    -   **C6 : Accompagner les élèves, notamment dans leur formation à
+        une citoyenneté participative**
+
+-   Eduquer à la citoyenneté, c'est apprendre les règles du dialogue.
+    Cela consiste à donner la parole à ceux qui la prenne le moins, à
+    leur faire prendre confiance en eux, à les pousser à exprimer leurs
+    idées, à argumenter, et à les initier au respect mutuel.
+
+-   Eduquer à la citoyenneté, c'est développer le sens critique chez les
+    élèves et leur jugement, la socialisation, préparation de la vie en
+    société, appropriation de la loi et du sens de la règle. Permet de
+    créer du lien social et une capacité à vivre ensemble.
+
+    -   CPE prend place dans l'appropriation des valeurs de tolérance,
+        de solidarité et de vivre ensemble. C'est avec l'ensemble de la
+        communauté éducative que le CPE fait partager les valeurs de la
+        république. Il agit en éducateur responsable selon des principes
+        éthiques.
+
+    -   ROUYER, BEAUMATIN, FONDEVILLE, [Education et
+        citoyenneté], 2000 : *le rapport à la citoyenneté ne
+        se construit pas simplement à travers la transmission de
+        connaissances, de normes, de valeurs et de principes, mais au
+        cours d'un processus de socialisation par lequel les jeunes
+        confrontent leurs visions du monde.* *La citoyenneté n'est plus
+        une finalité de la souveraineté politique, mais un moyen de
+        maintenir la paix dans le monde.*
+
+**[Obstacles]** 
+---------------------------
+
+-   C. RAVEZ, [Regard sur la citoyenneté à l'école] 2018 
+
+    -   En France, il est difficile pour les élèves d'aller à l'encontre
+        d'un ordre social hiérarchique préexistant, où les adultes font
+        peu confiance aux adolescents dont le degré de légitimé et de
+        maturité est questionné. Ils peuvent rarement négocier. La
+        présence d'un élève dans une instance influence peu voire pas du
+        tout les décisions prises par les adultes.
+
+**[Politiques éducatives]** 
+---------------------------------------
+
+-   **1789** : Déclaration des droits de l'homme et du citoyen naissance
+    de la citoyenneté
+
+-   **1947 **: Plan Langevin-Wallon pose les fondements d'une
+    citoyenneté éducative
+
+-   **1989 **: élèves ont un droit d'exercice, de liberté d'expression
+    et d'information = éducation à la citoyenneté
+
+-   **2005** : l'éducation à la citoyenneté est la première mission de
+    l'école, partager les valeurs de la république
+
+-   **2013 **: l'éducation développe les connaissances et les
+    compétences et la culture nécessaire à l'exercice de la citoyenneté
+    dans la société contemporaine de l'information et de la
+    communication **[objectif ]**: assurer un cadre
+    protecteur et citoyen chez les élèves et le personnel
+
+-   **2016 **: **circulaire de rentrée** : Ecole transmet savoirs et
+    compétences à l'apprentissage de la citoyenneté, former futur
+    citoyen autonome, éclairés et instruits
+
+-   **2019 **: formation des enseignants à la connaissance des valeurs
+    de la république
+
+**[Dispositifs] :** 
+-------------------------------
+
+Les élèves, au collège et au lycée, acquièrent un certain nombre de
+droits, notamment celui d'être représentés dans des instances de
+l'établissement et de prendre part, en tant que membre de la communauté
+éducative, à des décisions les concernant.
+
+-   **CVC** (2016) + **CVL** + **CESCE** + **CA**
+
+-   Création des **4 parcours éducatifs** (réforme du collège --
+    BELKACEM), dont le **parcours citoyen** qui s'adresse à des citoyens
+    en devenir qui prennent conscience de leurs droits et devoirs ainsi
+    que de leurs responsabilités. Adossé aux enseignements, en
+    particulier EMC et EMI. Le PC concourt à la transmission des valeurs
+    et principes de la république en abordant les grands champs de
+    l'éducation à la citoyenneté = laïcité, égalité H/F + respect
+    mutuel, lutte discrimination + harcèlement, racisme, lutte abs, EEDD
+
+-   **Parcours citoyen** [Le parcours citoyen \| Ministère de
+    l\'Education Nationale et de la
+    Jeunesse](https://www.education.gouv.fr/le-parcours-citoyen-5993)
+
+-   **Semaine de l'engagement** mi-septembre = sensibiliser les élèves à
+    s'engager dans les instances
+
+-   **Semaine de la démocratie** début octobre = encourager les parents
+    à s'engager [La semaine de la démocratie scolaire \| Ministère de
+    l\'Education Nationale et de la
+    Jeunesse](https://www.education.gouv.fr/la-semaine-de-la-democratie-scolaire-7493)
+
+-   **Journée du droit dans les collèges** [Journée du droit dans les
+    collèges \| éduscol \| Ministère de l\'Éducation nationale et de la
+    Jeunesse - Direction générale de l\'enseignement scolaire
+    (education.fr)](https://eduscol.education.fr/3322/journee-du-droit-dans-les-colleges)
+
+**[Actions mises en place] :** 
+------------------------------------------
+
+**[Diagnostic ]**: nb d'élève engagé, formation délégué,
+adultes engagés dans les instances
+
++----------------------------------+----------------------------------+
+| **Favoriser la citoyenneté       | **Accompagner avec la com éduc   |
+| participative dans la politique  | les élèves dans la formation à   |
+| éducative**                      | une CP**                         |
++==================================+==================================+
+| -   **Projet établissement**     | > **[Les règles de vie, de       |
+|     volonté de créer une culture | > droits et devoirs des          |
+|     commune                      | > élèves]**          |
+|                                  |                                  |
+| -   Participation                | -   Travail avec le PP : sur le  |
+|     **instances**/**projets**    |     RI                           |
+|                                  |                                  |
+| -   Valorisation de              | -   Travail sur les institutions |
+|     **compétences** (autonomie,  |     (visiter une mairie)         |
+|     prise initiative, sens       |     parcours citoyen             |
+|     engagement), sur **Folios**  |                                  |
+|     / **parcoursup**             | -   Expliciter le RI aux         |
+|                                  |     familles                     |
+| -                                |                                  |
+|  **[Partenaires]** : | **[Le débat et la réflexion au   |
+|     doc, inf, prof, familles,    | centre des                       |
+|     chef, média                  | apprentissages]**    |
+|                                  |                                  |
+| -                                | -   **EMC **: travail sur        |
+|    **[Evènement]** : |     l'engagement, citoyenneté,   |
+|     porte ouverte, semaine de    |     laïcité, respect, travail    |
+|     l'engagement                 |     sur la liberté et ses        |
+|                                  |     responsabilités (droits de   |
+| -   Informer les élèves sur      |     réunion, expression, etc)    |
+|     leurs **droits** et          |                                  |
+|     **responsabilités**          | -   **Favoriser les débats**     |
+|                                  |     (inviter des membres de la   |
+| -   Respect du principe de       |     com éduc)                    |
+|     **neutralité**, **laïcité**, |                                  |
+|     **lutte discrimination**     | -   **Validation des             |
+|                                  |     compétences** dans le        |
+| -   **Encourager** les élèves à  |     parcours citoyen             |
+|     participer à la vie de       |                                  |
+|     l'établissement              | **[Favoriser l'engagement        |
+|                                  | instances et valoriser rôles     |
+|                                  | pour devenir de futurs citoyens  |
+|                                  | autonomes et                     |
+|                                  | responsables]**      |
+|                                  |                                  |
+|                                  | -   Faire connaitre les          |
+|                                  |     instances                    |
+|                                  |                                  |
+|                                  | -   Formation délégués et        |
+|                                  |     accompagnement               |
+|                                  |                                  |
+|                                  | -   Election grandeur nature     |
+|                                  |                                  |
+|                                  | -   Participation projet         |
+|                                  |                                  |
+|                                  | -   HVC (dvpt expression orale)  |
+|                                  |                                  |
+|                                  | -   Travail délégués ou CVC/CVL  |
+|                                  |     sur la liaison école-collège |
+|                                  |     / collège-lycée              |
+|                                  |                                  |
+|                                  | -   Travail avec éco-délégués    |
+|                                  |     sur le DD à l'école          |
+|                                  |                                  |
+|                                  | -   Travail sur la charte de la  |
+|                                  |     laïcité                      |
++----------------------------------+----------------------------------+
+
+**Ecole** lieu de vie et pas uniquement de travail. Lieu d'apprentissage
+de la citoyenneté et est porteuse de valeurs auxquelles doivent adhérer
+chacun de nos élèves nécessité de bien être dans l'établissement
+favorise le vivre ensemble = réussite de tous les élèves
+
+Engagement dans la vie de l'établissement = CS serein = réussite
+
+Possibilité de dvper des compétences hors du cadre purement scolaire via
+les instances, projets
+
+Ecole transmet des savoirs et des compétences en lien avec les valeurs
+de la république
+
+Formation d'un **futur citoyen capable de vivre en société**, ayant des
+**compétences** et acquis des **valeurs**
+
+**Transmettre et faire respecter les principes et valeurs de la
+République :** [Transmettre et faire respecter les principes et valeurs
+de la République \| éduscol \| Ministère de l\'Éducation nationale et de
+la Jeunesse - Direction générale de l\'enseignement scolaire
+(education.fr)](https://eduscol.education.fr/1543/transmettre-et-faire-respecter-les-principes-et-valeurs-de-la-republique)
+
+
+
+![Tableau 13-EDUCATION-CITOYENNETE-VAL-REP](images/13-EDUCATION-CITOYENNETE-VAL-REP.png)
+
+
+
+# 14-LAICITE-A-LECOLE
+[Retour au sommaire](#sommaire)
+
+**[INTRODUCTION]** 
+------------------------------
+
+Le ministre de l'EN actuel, PAP N'DIAYE, a annoncé récemment une hause
+de 40% des faits d'atteintes à la laïcité sur l'année scolaire
+2022-2023. Ce sont les collèges qui sont davantage concernés par cette
+hausse. La laïcité est un principe fondateur de l'école républicaine
+inscrit dans l'article premier de la Constitution qui affirme que :
+« *La France est une république indivisible,* *laïque, démocratique et
+sociale. Elle assure l'égalité devant la loi de tous les citoyens sans
+distinction d'origine, de race ou de religion*. » C'est la liberté de
+croire ou de ne pas croire et l'égalité de toutes les croyances devant
+la loi. Elle est la condition du respect d'autrui et des règles qui
+fondent la citoyenneté. Marie Duru-Bellat et F. DUBET, [Dix propositions
+pour changer l'école], (2015), montrent que la laïcité est
+une question actuelle, notamment avec les attentats de 2015, qui nous
+pousse à réaffirmer les valeurs de la République. Ainsi l'assassinat de
+Samuel Paty en octobre 2020 est une réelle prise de conscience au niveau
+de l'institution scolaire, un principe non maitrisé pour la plupart des
+citoyens. L'essentielle est alors de construire une éducation à la
+citoyenneté pour partager une culture commune ainsi que les mêmes
+valeurs pour le bien vivre ensemble.
+
+[La laïcité à l\'école \| Ministère de l\'Education Nationale et de la
+Jeunesse](https://www.education.gouv.fr/la-laicite-l-ecole-12482)
+
+**Ostensible** \--\> signes qui se voit sans provocation
+
+**Ostentatoire** \--\> qui cherche à le montrer, à se faire voir
+
+**[ENJEUX]** 
+------------------------
+
+**CITOYENS LIBRES, INSTRUITS, ELCAIRES, RESPONSABLES, RESPECTEUX**
+
+-   La laïcité à l'école assure des **droits** et des **libertés** aux
+    élèves. Ils ont la liberté de conscience et la liberté de croire ou
+    de ne pas croire, et de changer de conviction. Chaque élève est
+    **libre** de choisir ses convictions religieuses, philosophiques et
+    politiques, tant que leur expression se fait dans le respect de
+    l'autre.
+
+    -   Abdennour Bidar, [Pour une pédagogie de la laïcité à
+        l'école], 2012 : *L'école laïque est un lieu qui
+        favorise l'apprentissage de la liberté personnelle et du respect
+        d'autrui. Elle assure également la sécurité de tous. C'est une
+        des conditions du bien vivre ensemble.*
+
+    -   Néanmoins, les droits des élèves impliquent des **obligations**,
+        nécessaires pour que l'école reste un lieu d'apprentissage
+        serein et de vie collective. Dans le cas où un élève
+        contreviendrait à certaines obligations de la laïcité, un
+        dialogue aurait lieu avec lui et sa famille. Ce dialogue permet
+        de lever les possibles malentendus, en expliquant le sens de la
+        laïcité à l'école, et en rappelant le cadre légal.
+
+    -   **L'importance du lien avec les familles** et les partenaires
+        (Inf, Psy EN, AS) pour faire prendre conscience aux élèves et à
+        leur famille de l'importance du principe de laïcité et de sa
+        réglementation à l'école.
+
+    -   Le CPE contribue au respect des principes de neutralité et de la
+        laïcité au sien des établissements et à la lutte contre toutes
+        les formes de discriminations. Il prend toute sa place dans
+        l'appropriation des valeurs de tolérance, de solidarité et de
+        vivre-ensemble.
+
+-   Le principe de laïcité à l'école permet aux élèves de construire
+    leur **esprit critique** (distinguer les savoirs des opinions ou des
+    croyances à savoir argumenter et à respecter la pensée des autres)
+    et **d'acquérir les règles de la vie en société**. En outre, les
+    élèves sont soumis à l'obligation d'assiduité, ils doivent suivre
+    l'ensemble des enseignements qui sont également laïque et n'ont pas
+    le droit de les contester au nom de leur religion. Ainsi, lors de la
+    rentrée, le **volet relatif à la laïcité inscrit dans le règlement
+    intérieur** est présenté à tous les élèves.
+
+    -   CPE participe à la diffusion et à l'explication des principes
+        énoncés dans la charte de la laïcité à l'école. Il doit savoir
+        transmettre et faire partager les valeurs et les principes de la
+        République.
+
+    -   Abdennour Bidar, [Pour une pédagogie de la laïcité à
+        l'école], 2012 : *Un enseignant ne fait pas
+        d'éducation religieuse, mais il fait découvrir les grandes
+        options existentielles de l'humanité. Acquérir une culture
+        générale. Importance d'une culture des faits religieux, dans un
+        cadre de pensée laïc.*
+
+-   La laïcité à l'école permet de former des futurs **citoyens éclairés
+    et responsables**. Cela passe par une éducation éclairée aux médias
+    et à l'information ainsi qu'à l'usage responsable du numérique.
+
+    -   Pour mieux comprendre le principe de laïcité à l'école, les
+        élèves peuvent participer chaque année à des **actions
+        éducatives qui permettent d'expérimenter, à travers des projets
+        collectifs, un apprentissage citoyen**. L'EMC en particulier
+        permet aux élèves d'avoir des réponses sur les questions de la
+        laïcité.
+
+-   L'école publique est un lieu neutre, les élèves doivent donc être
+    **respectueux** envers cette neutralité. Il est interdit aux élèves
+    ainsi qu'aux personnels le port de signes et tenues qui sont
+    considérés comme ostensibles, dont le port conduit à se faire
+    immédiatement reconnaître par son appartenance religieuse.
+
+    -   Abdennour Bidar, [Pour une pédagogie de la laïcité à
+        l'école], 2012 : *Aide à développer une identité
+        personnelle et citoyenne, à apprendre à modérer l'expression de
+        son appartenance religieuse, afin que les autres ne subissent
+        pas son affirmation.* Placer les élèves en situation de liberté
+        vis-à-vis d'autrui et de lui-même.
+
+**[Obstacles]** 
+---------------------------
+
+-   **Rapport OBIN à BLANQUER sur [La laïcité à
+    l'école] (2021)** pose un certain nombre de constats
+    notamment qu'il y a une réelle méconnaissance du principe de laïcité
+    et des valeurs de la république. Il écrit dans son rapport que
+    lorsqu'il demande à des personnels de citer les valeurs de la
+    république, la majorité ne sait pas répondre et cela pose problème
+    car l'objectif premier de l'école c'est de faire adhérer les élèves
+    aux valeurs de la république et au principe de laïcité.
+
+**+ élèves réfractaires = non-respect de la minute de silence**
+
+**[Politiques éducatives]** 
+---------------------------------------
+
+-   **1789** : **Déclaration des droits de l'homme et du citoyen** la
+    révolution française va poser les principes mis en œuvre dans la
+    loi. L'état civil pendant la révolution est laïcisé.
+
+```
+
+```
+-   **1882** : Jules FERRY rend l'enseignement [obligatoire]
+    et [laïc] progrès dans la scolarisation des filles,
+    supprime l'enseignement religieux à l'école et le remplace par une
+    instruction morale.
+
+-   **1886** : Loi GOBELT laïcisation du personnel et des programmes
+    d'enseignement
+
+-   **1905** : Loi séparation des églises et de l'état la liberté
+    absolue de conscience (art.1), le droit de manifester ses croyances
+    sans pression (art 2), la liberté du culte dans le respect de la loi
+    (art 3), la séparation des églises et de l'état (neutre, souverain).
+    Des peines sont prévues si on ne respecte pas cette loi.
+    **République devient laïque**
+
+-   **1989** : affaire du fouloir entre 3 filles, exclus de leur
+    établissement car portent le voile évènement majeur de ce siècle en
+    termes de remise en cause du principe de laïcité. Cet évènement
+    conduit les autorités à légiférer de nouveau la laïcité à l'école ce
+    qui conduit à la loi de 2004.
+
+-   **Loi de 2004** : vient restreindre la liberté des élèves car elle
+    interdit le port de signes religieux ostensibles à l'école. Elle
+    protège la liberté de conscience des élèves. Elle s'applique à
+    toutes les religions et répond au principe de neutralité. [Loi
+    n°2004-228 du 15 mars 2004 encadrant, en application du principe de
+    laïcité, le port de signes ou de tenues manifestant une appartenance
+    religieuse dans les écoles, collèges et lycées publics \| Ministère
+    de l\'Education Nationale et de la
+    Jeunesse](https://www.education.gouv.fr/loi-ndeg2004-228-du-15-mars-2004-encadrant-en-application-du-principe-de-laicite-le-port-de-signes-1697)
+
+-   **2005** : des autorisations d'absences pouvant être accordées à
+    l'occasion des principales fêtes religieuses des différentes
+    confessions
+
+-   **2013 **: Charte de la laïcité doit être affichée et présentée dans
+    tous les établissements. Ce n'est pas un texte de loi, mais un
+    rappel solennel qui doit aider les enseignants à transmettre des
+    savoirs et des savoir-faire aux élèves dans une société démocratique
+    où la liberté de conscience doit être respectée. [Charte de la
+    laicité
+    (wordpress.com)](https://revisionscpe.files.wordpress.com/2022/05/chartelaicite_3_268640.pdf)
+
+    -   La loi de refondation la laïcité apparait comme un enjeu
+        fondamental pour la démocratie française faisait partie
+        intégrante des missions allouées à l'école. Elle joue un rôle
+        dans la formation des citoyens de demain.
+
+    -   Canopé -- **Abdennour Bidar**, chargé de mission sur la laïcité
+        au ministère de l'Éducation nationale, détaille en vidéo le
+        contenu des 15 articles de la charte de la laïcité à l'école.
+
+> [Éduquer à la laïcité - Réseau Canopé
+> (reseau-canope.fr)](https://www.reseau-canope.fr/valeurs-de-la-republique/laicite/se-former/eduquer-a-la-laicite.html)
+
+-   **2019** pour une école de la confiance a renforcé la lutte contre
+    le prosélytisme
+
+*Article 10* : « *Les comportements constitutifs de pressions sur les
+croyances des élèves ou de tentatives d'endoctrinement de ceux-ci sont
+interdits dans les écoles publiques et les établissements publics locaux
+d'enseignement, à leurs abords immédiats et pendant toute activité liée
+à l'enseignement. La méconnaissance de cette interdiction est punie de
+l'amende prévue pour les contraventions de la cinquième classe. »*
+
+-   **Juillet 2021 :** Instauration d'un comité interministériel de la
+    laïcité par le premier ministre BLANQUER
+
+    -   La nécessité de former tous les agents publics au principe de la
+        laïcité (normé dans la loi confortant le respect des principes
+        de la république du 24/08/21)
+
+-   Publication de cahiers des charges pour un continuum de formation
+    obligatoire des personnels enseignants et d'éducation à la laïcité
+    et aux valeurs de la république (12/09/21)
+
+-   **Circulaire relative au plan laïcité dans les écoles et les
+    établissements scolaire** **PAP NDIAYE** (10/11/22), rien de
+    nouveaux, circulaire politique, a été victime d'attaque de la part
+    de l'extrême de droite, souhaitais redonner une circulaire sur le
+    sujet
+
+**[La loi du 24 août 2021]** a renforcé la protection des
+professeurs et des agents publics l'amendement dit \"Samuel Paty\"
+prévoit que le fait d'entraver, d'une manière concertée et à l'aide de
+menaces, l'exercice de la fonction d'enseignant est puni de trois ans
+d'emprisonnement et de 45 000 euros d'amende.
+
+**[PLAN LAICITE]**
+
+1.  Sanctionner systématiquement et de façon graduée le comportement des
+    élèves portant atteinte à la laïcité lorsqu'il persiste après une
+    phase de dialogue
+
+2.  Renforcer la protection et le soutien aux personnels
+
+3.  Appuyer les chefs d'établissement en cas d'atteinte à la laïcité
+
+4.  Renforcer la formation des personnels et en premier lieu celle des
+    chefs d'établissement
+
+**[Dispositifs] :** 
+-------------------------------
+
+-   CVC + CVL + CESCE constituent des instances d'exercice de la
+    citoyenneté / Parcours citoyen / socle commun
+
+-   **Journée de la laïcité** (décembre) : travail sur la charte par
+    exemple [Journée de la laïcité à l\'École de la République \|
+    éduscol \| Ministère de l\'Éducation nationale et de la Jeunesse -
+    Direction générale de l\'enseignement scolaire
+    (education.fr)](https://eduscol.education.fr/3508/journee-de-la-laicite-l-ecole-de-la-republique)
+    **+** [Journée de la laïcité à l\'école 2021 : la communauté
+    éducative mobilisée \| Ministère de l\'Education Nationale et de la
+    Jeunesse](https://www.education.gouv.fr/journee-de-la-laicite-l-ecole-2021-la-communaute-educative-mobilisee-326587#:~:text=Chaque%20ann%C3%A9e%2C%20la%20communaut%C3%A9%20%C3%A9ducative,%C3%A9coles%20et%20des%20%C3%A9tablissements%20scolaires.)
+
+-   **Mallette des parents** sur la question de la laïcité [La laïcité à
+    l'école \| Mallette des parents
+    (education.gouv.fr)](https://mallettedesparents.education.gouv.fr/parents/ID237/la-laicite-a-l-ecole)
+
+-   [Le conseil des sages de la laïcité \| Ministère de l\'Education
+    Nationale de la Jeunesse et des
+    Sports](https://www.education.gouv.fr/le-conseil-des-sages-de-la-laicite-et-des-valeurs-de-la-republique-41537)
+
+-   Mémento "**[Faire vivre la laïcité et lutter contre le racisme à
+    l'école]**"
+    [faire-vivre-la-la-cit-et-lutter-contre-le-racisme-l-cole-15982.pdf
+    (wordpress.com)](https://revisionscpe.files.wordpress.com/2022/05/faire-vivre-la-la-cit-et-lutter-contre-le-racisme-l-cole-15982.pdf)
+
+-   Semaine de l'engagement + démocratie scolaire [Semaines de
+    l\'engagement & semaine de la démocratie scolaire \| CPE - Vie
+    scolaire
+    (ac-toulouse.fr)](https://pedagogie.ac-toulouse.fr/cpe-vie-scolaire/semaines-de-l-engagement-lyceen-2019)
+
+**[Actions mises en place] :** 
+------------------------------------------
+
++----------------------------------+----------------------------------+
+| **Réaffirmer les enjeux du       | **Accompagner les élèves,        |
+| principe de laïcité pour         | notamment dans leur formation à  |
+| favoriser le vivre ensemble**    | une citoyenneté participative**  |
++==================================+==================================+
+| -   Il appartient à tous les     | -   Travailler sur la **charte   |
+|     personnels de transmettre    |     de la laïcité** = aide à     |
+|     aux élèves le sens et la     |     transmettre des savoirs et   |
+|     valeur de la laïcité, ils    |     savoir-faire aux élèves dans |
+|     veillent à leur application  |     une société démocratique     |
+|     dans le cadre scolaire       |                                  |
+|     *(art.10 charte laïcité)*    | -   S'investir dans la           |
+|                                  |     **formation des délégués** + |
+| -   **CC1 : faire partager les   |     **instances**                |
+|     valeurs de la république**   |                                  |
+|                                  | **[Objectif]**       |
+| [Objectif] bonne     | contribuer à l'enseignement      |
+| connaissance du principe de la   | civique et moral de l'élève      |
+| laïcité pour qu'elle soit bien   | ainsi qu'à la qualité du cadre   |
+| transmise                        | de vie et d'étude                |
+|                                  |                                  |
+| -   **C2. Garantir, en lien avec | -   Proposer des **actions**     |
+|     les autres personnels, le    |     (CESCE) et partenariat avec  |
+|     respect des règles de vie et |     associations agrées EN       |
+|     de droits dans               |                                  |
+|     l'établissement**            | -   Investir dans la **journée   |
+|                                  |     de la laïcité** (9           |
+| ```                       |     décembre) : activités ; mise |
+|                          |     en place d'ateliers débats : |
+| ```                              |     impliquer l'ensemble de la   |
+| -   Informer les élèves sur la   |     com éduc, prof doc, prof EMC |
+|     laïcité                      |                                  |
+|                                  | **[Objectif]**       |
+| -   Former les équipes aux       | donner du sens à la question de  |
+|     situations pb                | la laïcité et de la transmission |
+|                                  | des valeurs républicaines à      |
+| -   Anticiper et prévenir        | travers des actions              |
+|     d'éventuelles situation de   |                                  |
+|     contestation                 |                                  |
++----------------------------------+----------------------------------+
+| **S'assurer du respect du droit  |                                  |
+| au sein de l'établissement**     |                                  |
++----------------------------------+----------------------------------+
+| -   Le principe de laïcité doit  |                                  |
+|     être inscrit dans le Ri et   |                                  |
+|     voté en CA avec les droits   |                                  |
+|     et devoirs qui explicitent   |                                  |
+|     le métier de l'élève, les    |                                  |
+|     textes de références sur la  |                                  |
+|     laïcité (loi de 2004 et      |                                  |
+|     charte explicitée)           |                                  |
+|                                  |                                  |
+| -   **En cas de non-respect**    |                                  |
+|     dialoguer avec élève +       |                                  |
+|     parents (si récidive) ;      |                                  |
+|     informe CE + référent        |                                  |
+|     laïcité                      |                                  |
+|                                  |                                  |
+| -   **S'appuyer sur les          |                                  |
+|     indicateurs** (taux de       |                                  |
+|     sanctions, récidives, etc)   |                                  |
+|                                  |                                  |
+| -   **Travail d'écriture** avec  |                                  |
+|     les élèves d'une charte de   |                                  |
+|     civilité adossée au RI       |                                  |
+|                                  |                                  |
+| -   **Evaluer et promouvoir** la |                                  |
+|     justice scolaire par une     |                                  |
+|     réflexion sur les valeurs de |                                  |
+|     l'établissement scolaire     |                                  |
++----------------------------------+----------------------------------+
+
+![](media/image1.png)}
+
+![](media/image2.png){width="4.951388888888889in"
+height="5.538888888888889in"}
+
+[Devoir de mémoire \| CPE - Vie scolaire
+(ac-toulouse.fr)](https://pedagogie.ac-toulouse.fr/cpe-vie-scolaire/devoir-de-memoire)
+ACTIONS !!
+
+[La Semaine du 21 Mars --
+DILCRAH](https://www.dilcrah.fr/semaine21mars/) Semaine d'éducation et
+d'actions contre le racisme et l'antisémitisme
+
+**[Fraternité]** : la comprendre et la transmettre au sein
+de l\'école [Fraternité : la comprendre et la transmettre au sein de
+l\'école - Réseau Canopé
+(reseau-canope.fr)](https://www.reseau-canope.fr/actualites/actualite/fraternite-la-comprendre-et-la-transmettre-au-sein-de-lecole.html)
+
+VADEMECUM LAICITE (2021)
+
+[download
+(education.fr)](https://eduscol.education.fr/document/1609/download?attachment)
+
+**[Fiche 1]**. **Promouvoir et faire respecter le principe
+de laïcité dans les premier et second degrés**
+
+-   Tous les personnels doivent transmettre et faire respecter le
+    principe de laïcité
+
+-   L'espace scolaire est le lieu de construction du futur citoyen.
+
+-   Toute contestation = sanction / signalement « atteinte à la
+    laïcité »
+
+-   Construire un dialogue avec élève + famille car le RI rappelle que
+    la mise en œuvre d'une procédure disciplinaire doit précéder d'un
+    dialogue avec l'élève
+
+-   Informer CE
+
+-   Organiser réunion de pré-rentrée pour expliciter à tous le principe
+    de laïcité / dans les classes en HVC
+
+**[Fiche 2]. Mobiliser la communauté éducative**
+
+-   Projet établissement définit les axes de développement du projet
+    éducatif pour la réussite des élèves. Elaboré avec les représentants
+    de la com éducative et adopté en CA sur proposition du conseil péda
+
+-   Renforcer le lien avec les familles = coopération + respect mutuel
+
+-   Travail sur la charte de la laïcité = expliciter en HVC / réunion de
+    rentrée
+
+-   Mobiliser les instances / parcours citoyen / cours EMC / journée de
+    la laïcité
+
+-   Mobiliser les partenaires extérieures = RESERVE CIOTYENNE (2015)
+    contribue à transmettre les valeurs de la république (laïcité,
+    égalité, lutte discri)
+
+**[Fiche 3]. Identification des signes et tenues par
+lesquels les élèves manifestent ostensiblement une appartenance
+religieuse**
+
+-   Loi de 2004
+
+-   **[Prévenir : informer et impliquer l'équipe pédagogique et
+    éducative]**
+
+    -   **Sensibiliser l'ensemble de l'équipe éducative à porter une
+        attention collective et coordonnée aux comportements des
+        élèves**. En particulier, les assistants d'éducation dans les
+        établissements publics locaux d'enseignement (EPLE) sont à même
+        d'observer des changements de comportements individuels et,
+        éventuellement, des effets de groupe
+
+    -   **Rappeler aux parents et aux élèves le sens de l'interdiction
+        faite aux élèves de porter des signes ou tenues par lesquels ils
+        manifestent ostensiblement une appartenance religieuse**. La loi
+        n'interdit pas les signes discrets, mais elle définit un espace
+        neutre, à l'écart de toute tension communautaire.
+
+    -   Rappeler que **l'obligation de neutralité est totale pour les
+        personnels** et agents du service public d'éducation pour ne
+        favoriser aucune conviction et préserver l'égalité devant le
+        service public
+
+-   **[Réagir et traiter la situation]**
+
+    -   Le chef d'établissement et/ou le CPE :
+
+> \- conduisent l'échange et le dialogue ;
+>
+> \- rappellent et explicitent la loi et les règles de fonctionnement de
+> l'école ;
+>
+> \- interrogent l'élève sur ses représentations, ses motivations, sa
+> connaissance du règlement intérieur et de son sens ;
+>
+> \- instaurent une communication au sein de l'équipe pédagogique et
+> éducative sur le
+>
+> suivi de l'élève.
+>
+> \- mettent en œuvre, en cas d'échec du dialogue, les procédures
+> disciplinaire
+
+**S'applique même en sortie scolaire, en examen**
+
+**En stage, l'élève doit se soumettre au règlement intérieur de
+l'entreprise car l'élève est placé dans un environnement professionnel
+et non scolaire. Ainsi, l'interdiction de porter une tenue ou un signe
+religieux peut résulter des clauses du RI de l'organisme d'accueil qui
+est applicable aux stagiaires**
+
+**[Fiche 8]. Contestation des contenus d'enseignement**
+
+-   Loi de 2004
+
+-   **L'obligation d'assiduité** qui incombe aux élèves (article L.
+    511-1 du Code de l'éducation) implique notamment qu'ils doivent
+    accomplir tous les travaux écrits et oraux qui leur sont demandés
+    par les enseignants et **respecter le contenu des programmes**
+
+Les élèves n'ont par conséquent pas le droit de s\'opposer à un
+enseignement en raison de leurs convictions religieuses.
+
+-   L'éducation à la sexualité fait partie des apprentissages
+    obligatoires, elle transmet des valeurs comme le respect de soi et
+    d'autrui, la tolérance
+
+-   Apporte des connaissances dans un cadre de pensée laïc.
+    L'enseignement distingue les savoirs et les croyances, il protège la
+    liberté de conscience des élèves
+
+Toute objection des élèves n'est pas nécessairement une contestation de
+l'autorité du professeur ou d'un enseignement. Les élèves sont en cours
+de construction ; ils expriment souvent leur point de vue sous la forme
+du préjugé ou de la croyance
+
+Pareil pour les cours d'EPS
+
+Les questions relatives à l'EPS sont multiples et peuvent donner lieu à
+des débats argumentés dans le cadre de la discipline. Plusieurs thèmes
+de réflexion sont possibles :
+
+-   L'égalité filles-garçons, et le travail sur les stéréotypes de genre
+
+-   L'école inclusive et l'intégration des élèves en situation de
+    handicap
+
+-   L'élaboration et le respect de la règle
+
+-   L'équité pour la réussite et l'apprentissage de tous les élèves
+
+-   Le sens de la rencontre sportive : respect des partenaires et
+    adversaires, notions de victoire et de défaite.
+
+**[Fiche 9]. Refus de l'élève de participer à une activité
+scolaire**
+
+-   Loi de 2004 et circulaire de 2011 relative aux modalités
+    d'organisation des sorties et voyages scolaires
+
+-   Obligation d'assiduité Il en va de même pour les sorties scolaires
+    obligatoires auxquelles doivent participer les élèves
+
+-   Préparer la sortie en amont
+
+-   Informer les parents du contextes, de l'enseignement
+
+-   En cas de réticence = contact avec la famille avec le CE
+
+**[Fiche 10]. Demande d'autorisation d'absence ou de
+dispense d'activité en raison de la pratique d'un culte**
+
+-   **Loi de 2004** = autorise des absences pour les grandes fêtes
+    religieuses
+
+-   **Or,** en sport **=** une demande d'absence ou de dispense
+    justifiée par une période de jeûne doit être refusée
+
+**[Fiche 11]. Repas différenciés**
+
+-   ** **Circulaire du 16 août 2011 du ministère de l'Intérieur relative
+    au principe de laïcité en matière de restauration collective du
+    service public
+
+-   PAI raison de santé ?
+
+-   La restauration scolaire est un service public relevant des
+    collectivités territoriales
+
+-   **Les agents publics sout soumis au respect du principe de
+    neutralité et le fait de prévoir des menus différenciés ne constitue
+    ni un droit ni une obligation**
+
+-   Les collectivités territoriales peuvent donc mettre en place
+    librement des repas différenciés
+
+**Actions ?**
+
+-   Rappelle aux familles du caractère facultatif de l'inscription à la
+    cantine
+
+-   Ce n'est pas une obligation de proposer des repas différenciés
+
+**[Période ramadan]**
+
+Aucun texte réglementaire
+
+Des remises d'ordre peuvent être effectuées lors de la pratique d'un
+culte ou d'une longue absence
+
+Pas d'obligation
+
+**[Fiche 14]. Demande de mise à disposition d'un lieu de
+prière**
+
+-   Dans la mesure où les élèves en internat ne peuvent pas quitter
+    librement l'établissement en semaine pour pratiquer leur culte,
+    **l'administration** doit prendre en compte cette circonstance en
+    leur laissant la **possibilité de prier
+    [individuellement], par exemple dans leur chambre**.
+
+-   **Sorties avec nuitées et voyages scolaires à l'école, au collège et
+    au lycée** Aucune mise à disposition de lieu de culte collectif lors
+    de ces activités n'est possible. Néanmoins, chaque élève pourra
+    bénéficier d'un temps dédié relevant de sa sphère privée, en dehors
+    des activités communes.
+
+**[Fiche 16]. Célébration de fêtes sécularisées**
+
+-   **Loi de 1905 séparation de l'église et de l'état**
+
+-   Neutralité à l'égard des cultes
+
+-   Lorsqu'un établissement public d'enseignement souhaite célébrer une
+    fête sécularisée, comme par exemple la fête de
+    **[Noël]**, il est nécessaire de s'assurer que la
+    manifestation ne s'accompagne, sauf circonstances particulières, de
+    **l'installation d'aucun signe ou emblème à caractère religieux**
+    et, ainsi, n'exprime pas la reconnaissance d'un culte ni ne marque
+    une préférence religieuse
+
+-   La question peut être posée au sujet du **[sapin de
+    Noël]** qui serait considéré comme appartenant à la
+    tradition chrétienne. *Issu de multiples traditions*, d'abord
+    païennes, l'arbre mêle aujourd'hui de [nombreuses
+    symboliques]. Le sapin, symbole d'une fête largement
+    laïcisée, peut être installé à condition qu'il ne revête aucun
+    caractère cultuel dans sa présentation ou dans sa décoration.
+
+**[Fiche 22]. Port de signes religieux par les parents
+d'élèves**
+
+En sortie scolaire, les parents ont le droit, pareil pour les réunions
+ou rencontre parents-prof / CPE / CE
+
+Dans le cadre d'une intervention en classe ou dans l'établissement =
+soumis à obligation de neutralité
+
+**[Intervenants extérieurs]**
+
+En dehors des locaux scolaires = elles peuvent mais sans faire acte de
+prosélytisme
+
+A l'intérieur de l'école (2019) = elles n'ont pas le droit, respect du
+principe de laïcité = neutralité
+
+**[PROCEDURES DISCIPLINAIRE SUR UN FAIT DE LAICITE]** 
+=================================================================
+
+**Une phase de dialogue obligatoire** avec l'élève avant un conseil de
+discipline sur un fait relative à la laïcité = organisé par le CE en
+lien avec l'équipe de direction et équipe éducative (commission
+éducative)
+
+Associe si besoin les membres de l'EAVR (équipe académique des valeurs
+de la république)
+
+Si au bout de dialogue, l'élève renonce au port de signe religieux, la
+procédure disciplinaire est mise en œuvre
+
+***CPE nouvellement nommée en collège REP+. Dans le cadre du volet
+éducatif du projet établissement, le CE vous demande de présenter un
+projet de formation à la laïcité des élus du CVC.***
+
+*En quoi, former les élus du CVC à la laïcité va permettre de les
+préparer à devenir de futurs citoyens éclairés, autonomes et
+responsables ?*
+
+Contribuer à l'appropriation du SC et à la mise en œuvre du parcours
+citoyen
+
+**Diagnostic** : hausse des atteintes à laïcité au sein du collège ;
+hausse des sanctions, des rapports ; baisse du CS et du bien-être
+
+**Objectif** : faire acquérir le principe de laïcité et les valeurs de
+la république aux élus du CVC
+
+Favoriser la coopération et la cohésion des élèves, renforcer le
+sentiment d'appartenance au collège
+
+**Equipe pilote** : CPE, référent laïcité, EMC
+
+**Quand** : après élection du CVC, faire plusieurs séances pour ancrer
+nos actions sur la journée de la laïcité au mois de décembre
+
+**ACTIONS**
+
+-   1^re^ séance rappel des droits et devoirs des élèves (brainstorming)
+
+    -   Droit au respect de sa liberté de conscience, liberté
+        d'expression, droit d'être protégé contre les violences
+
+    -   Obligation assiduité, non port de signe religieux (loi 2004),
+        respect autrui, adopter une conduite correcte sans violence
+
+Rappeler que la laïcité n'est pas un principe d'interdiction mais de
+liberté car elle protège
+
+La liberté à l'école n'interdit pas les croyances mais le prosélytisme
+
+Laïcité, liberté de conscience et d'expression sont liés
+
+-   2^e^ séance vidéo de CANOPE ou du CLEMI sur la laïcité qui illustre
+    point par point la charte + réalisation d'un quizz en groupe ou d'un
+    jeu de carte (recto/verso) sur des questions d'un côté, la réponse
+    de l'autre
+
+*[Ex ]*: *Peut-on porter un signe religieux ? Réponse : Non
+depuis la loi de 2004 qui interdit le port de signe religieux*
+
+-   
+
+-   3^e^ séance illustration en groupe de la charte de laïcité, dessin,
+    etc
+
+-   Journée du 9 décembre présenter le quizz ou le jeux de carte, et les
+    affiches d'illustration à l'ensemble des élèves et du personnel
+
+
+
+![Tableau 14-LAICITE-A-LECOLE](images/14-LAICITE-A-LECOLE.png)
+
+
+
+# 15-NUMERIQUE
+[Retour au sommaire](#sommaire)
+
+**[INTRODUCTION]** 
+------------------------------
+
+[L\'utilisation du numérique à l\'École \| Ministère de l\'Education
+Nationale et de la
+Jeunesse](https://www.education.gouv.fr/l-utilisation-du-numerique-l-ecole-12074)
+
+Depuis le début des années 2000, notre société évolue dans un monde de
+plus en plus numérisé et médiatisé. Le numérique représente les
+technologies (ordinateurs, téléphones, ...) et les réseaux sociaux. Les
+enfants nés au début de ce siècle ont grandi avec internet et les
+différentes technologies. L'Ecole est également rentrée dans l'ère du
+numérique, avec l'utilisation d'ordinateurs ou de tablette en classe.
+Selon la DEPP, en 2022, plus de **92% des enseignants** utilisent le
+numérique pour [construire des séquences d'activités] en
+classe dans le second degré.
+
+Le développement d'internet a permis un accès plus rapide et plus simple
+à l'information grâce aux versions numérique des journaux par exemple.
+Si le numérique facilite l'accès à l'information, il peut aussi induire
+les lecteurs en erreur, voire les manipuler comme l'a prouvé les fake
+news lors du mandat de Donald Trump. Toute la complexité du monde
+numérique amène à de nouveaux concepts, tels que l'éducation aux médias
+et à l'information, dit EMI. Cette éducation permet de renforcer chez
+les élèves des compétences transversales indispensables pour se repérer
+dans un monde où les vecteurs d'information et de communication se
+multiplient.
+
+Selon le MEN « *L'École contribue au projet d\'une société de
+l'information et de la communication pour tous. Elle forme les élèves à
+maîtriser ces outils numériques et le futur citoyen à vivre dans une
+société dont l'environnement technologique évolue constamment*. »
+
+**[ENJEUX]** 
+------------------------
+
+L\'objectif d\'une éducation aux médias et à l\'information est de
+permettre aux élèves d\'exercer leur citoyenneté dans une société de
+l\'information et de la communication, de former des citoyens éclairés
+et responsables, capables de s\'informer de manière autonome en exerçant
+leur esprit critique.
+
+A ce titre, l'EMI s\'inscrit à la fois dans **le socle commun** de
+connaissances, de compétences et de culture, le **parcours citoyen** et
+le **parcours d'éducation artistique et culturelle**.
+
+**Socle commun** utiliser différents outils de recherche de manière
+réfléchie ; traiter les informations, confronter les sources ; les
+organiser pour en faire des objets de connaissance
+
+-   Les langages pour penser et communiquer = langage numérique
+    **(domaine 1)**
+
+-   Travail sur la représentation du monde **(domaine 5)**
+
+**Parcours citoyen** l'EMI est liée au travail d'analyse de la
+désinformation ; rejoint des enjeux d'éducation à la responsabilité 
+
+**Parcours artistique et culturelle** l'EMI créer des idées et suscite
+des émotions ; L\'EMI s\'inscrit dans l\'axe prioritaire « Développer
+son esprit critique » de la feuille de route « Réussir le 100 %
+éducation artistique et culturelle » des ministères en charge de
+l\'éducation et de la culture.
+
+**[Permet de développer des compétences transversales]**
+
+-   Faire preuve d'esprit critique, de discernement, (distinguer un fait
+    d\'une opinion/une croyance, contextualiser et évaluer une
+    information, savoir vérifier et croiser ses sources d\'information)
+
+-   Faire preuve de création et d'innovation
+
+-   Communication et collaboration
+
+```
+
+```
+-   **[Eduque à la citoyenneté numérique]**
+
+    -   La culture du numérique se construit en dehors de l'école et
+        fait face à celle construite à l'école. Ce n'est pas une
+        discipline à part entière (PIX, CDI)
+
+    -   Le rôle de l'école est d'apporter des compétences numériques
+        autres que les connaissances intuitives. **La mission de l'école
+        est d'éduquer à la citoyenneté au sein de laquelle on trouve la
+        citoyenneté numérique qui repose sur 5 critères** :
+
+        -   [Participation] : amener les ado à réfléchir sur
+            les publications produites ou lues, d'évaluer les
+            comportements qui peuvent les affecter, d'évaluer leur part
+            de responsabilité
+
+        -   [Identité à construire à travers les réseaux] :
+            l'avatar peut poser problème quand le décalage entre ce
+            qu'ils donnent à voir et ce qu'ils sont est trop important
+            et qu'ils perdent le sens des réalités
+
+        -   [Confidentialité ]: il s'agit de se respecter
+            soit même pour ne pas en divulguer et de respecter la vie
+            privée des autres
+
+        -   [Crédibilité ]: vérification des sources
+
+        -   [La paternité et propriété liées aux droits d'auteur à
+            respecter]
+
+    -   **CPE** doit aider les élèves à s'approprier les outils et
+        usages numériques de manière critique et créative + participe à
+        l'éducation des élèves à un usage responsable d'internet
+
+-   **[Réduire les inégalités]**
+
+    -   L'éducation nationale se dote d'une stratégie visant à faire du
+        numérique un facteur de **réduction des inégalités**
+        (apprentissage, décrochage scolaire, potentiel créatif) pour
+        préparer les élèves de demain : **[citoyen autonome et
+        responsable]**
+
+    -   **Sophie Jehel et Alexandra Saemmer, *Education critique aux
+        médias et à l'information en contexte numérique*, 2020** ont
+        montré qu'une éducation aux médias et à l'information est
+        possible, afin d'amener les adolescents à user [de sens
+        critique] lors qu'ils recourent aux technologies de
+        l'information et de la communication.
+
+```
+
+```
+-   **[Prévenir et réduire les cyber violences]** L'école
+    doit former aux usages du numériques pour éduquer à la citoyenneté
+    numérique et prévenir les phénomène de violence (cyberharcèlement)
+
+    -   **40% des élèves** déclarent avoir été victime de [cyber
+        violence] au moins une fois dans l'année.
+
+    -   Les phénomènes de discrimination et de harcèlement se déplacent
+        sur internet. La cyberviolence se caractérise par [l'utilisation
+        des nouvelles technologies pour se livrer à des actes de
+        violences psychologiques répétées] : happy slapping
+        (actes de violence filmés ; sexting (actes à caractères
+        sexuels) ; usurpation d'identité, photo montage publié sans
+        autorisation.
+
+    -   Conséquences très lourdes en termes de résultats scolaires, mais
+        aussi affecter le bien être et la sécurité, l'identité de
+        l'élève, sa santé, le climat scolaire et le vivre ensemble. **Le
+        danger vient de l'inégalité dans la maitrise du numérique**,
+        d'où l'importance de **[l'EMI]**
+
+        -   **CPE** participe à la lutte contre toute forme de
+            discrimination, de violence et de harcèlement
+
+        -   **CPE** contribue à la qualité du climat scolaire et à prend
+            toute sa place dans l'appropriation des valeurs de
+            tolérance, de solidarité et de vivre ensemble
+
+        -   **C2.** Garantir, en lien avec les autres personnels, le
+            respect des règles de vie et de droits dans l'établissement
+
+```
+
+```
+-   **[Suivi des élèves par ENT]**
+
+    -   Un espace numérique de travail (**[ENT]**) est un
+        ensemble intégré de services numériques choisis et mis à
+        disposition de la communauté éducative. Offre un lieu d'échange
+        et de collaboration entre ses usagers. **[Offre des
+        services]** :
+
+```
+
+```
+-   **Pédagogiques** cahier de texte numérique espace de travail et de
+    stockage communs aux élèves et aux enseignants, accès aux ressources
+    numériques, outils collaboratifs, blogs, forums, classe virtuelle,
+    etc
+
+-   **Accompagnement de la vie scolaire** notes, absences, retards,
+    emplois du temps, agendas
+
+-   **Communication**  messagerie, informations des personnels et des
+    familles, visioconférence
+
+**[Obstacles]** 
+---------------------------
+
+-   **[Inégalités territoriales ]**: les inégalités
+    éducatives liées aux usages du numérique ont longtemps été soumises
+    au territoire / habitation = **accessibilité réseau**
+
+-   **[Le consumérisme ]**: les parents de milieux
+    populaires sont plus consuméristes et donc plus équipés. Les parents
+    de milieux défavorisés s'en remettent davantage aux choix et volonté
+    des ado (manque de confiance dans la mission de l'école vis-à-vis du
+    numérique)
+
+-   **[Les compétences techniques des élèves ]**: parfois
+    limitées à un certain usage
+
+-   **[Capital culturel ]**: inégalité dans la capacité de
+    certains parents à transmettre des usages plus proches de l'usage et
+    de la culture scolaire
+
+-   **[Manque de formation des enseignants]**
+
+**[Politiques éducatives]** 
+---------------------------------------
+
+-   **2005 Fillon **: pilier 5 du socle commun (**[maitrise des
+    TICE]**)
+
+-   **2013** **Peillon **: instaure la création d'un service public du
+    numérique éducatif. La transformation de l'école avec le numérique
+    est engagée ; tous les acteurs sont mobilisés, y compris les
+    personnels d'éducation. Dans le même temps le référentiel des
+    compétences professionnelles des métiers du professorat et de
+    l'éducation fait référence au numérique éducatif comme un élément de
+    culture nécessaire à l'exercice de notre métier : pour la réussite
+    des élèves, mais aussi pour favoriser les pratiques collaboratives
+    entre les membres d'un établissement
+
+-   **2016** **Plan numérique**
+
+    -   Nouvelles ressources numériques digital
+
+    -   Nouveaux équipements
+
+    -   Innovation
+
+    -   Formation
+
+-   **2018** Interdiction du portable au collège
+
+-   **Janvier 2019** Le CNED a ouvert un assistant numérique pour
+    l'ensemble des collégiens dans le cadre du dispositif devoirs faits
+
+-   **Circulaire de rentrée 2021 ** Développer les compétences du
+    numériques de tous les élèves avec la généralisation de PIX (Permet
+    d'identifier le niveau et les besoins des élèves en matière de
+    compétences numérique ; certification obligatoire à la classe de
+    3^e^, en fin de cycle des lycées généraux, technologiques ou
+    professionnels et dans l'année d'obtention de leur CAP)
+
+-   **2022 : circulaire de Généralisation de l'EMI** [Généralisation de
+    l\'éducation aux médias et à l\'information \| Ministère de
+    l\'Education Nationale et de la
+    Jeunesse](https://www.education.gouv.fr/bo/22/Hebdo4/MENE2202370C.htm)
+
+    -   Renforce la nécessité de former les élèves en éveillant leur
+        curiosité intellectuelle, en développant leurs capacités
+        d\'analyse et de discernement, en leur apprenant à distinguer
+        les faits et leurs interprétations et plus généralement à
+        s\'informer et analyser avant de juger.
+
+    -   C\'est pourquoi l\'éducation aux médias et à l\'information
+        (EMI), inscrite au cœur de la formation de futurs citoyens
+        libres et éclairés, est une composante des actions relatives aux
+        valeurs de la République et doit être renforcée.
+
+```
+
+```
+-   **2023 Pap Ndiaye **: [Stratégie du numérique pour l'éducation
+    2023-2027 \| Ministère de l\'Education Nationale et de la
+    Jeunesse](https://www.education.gouv.fr/strategie-du-numerique-pour-l-education-2023-2027-344263)
+
+    -   Repose sur une série de mesures pour renforcer les compétences
+        numériques des élèves et accélérer l'usage des outils numériques
+        pour la réussite des élèves. Ces mesures ont été présentées par
+        le ministre de l\'Éducation nationale et de la Jeunesse, Pap
+        Ndiaye vendredi 27 janvier 2023.
+
+    -   
+
+**[Dispositifs]** 
+-----------------------------
+
+-   PIX [Évaluer et certifier les compétences numériques \| éduscol \|
+    Ministère de l\'Éducation nationale et de la Jeunesse - Direction
+    générale de l\'enseignement scolaire
+    (education.fr)](https://eduscol.education.fr/721/evaluer-et-certifier-les-competences-numeriques)
+
+**Référent EMI** chaque recteur désigne un référent EMI en charge du
+premier et du second degré. Ce référent académique est par exemple
+choisi parmi les corps d\'inspection, voire parmi les équipes de
+coordination académique du Clemi
+
+**LE CLEMI** Le centre pour l'éducation aux médias et à l'information,
+l'opérateur public du ministère en charge de l'EMI
+
+> **[Objectif]** promouvoir l'utilisation pluraliste des
+> moyens d'information dans l'enseignement, notamment par des actions de
+> formation.
+>
+> Atteindre une meilleure compréhension par les élèves du monde qui les
+> entoure tout en développant leur sens critique.
+
+**[Actions à mettre en place]** 
+-------------------------------------------
+
+**Diagnostic :** nb de punitions/sanctions liés à la mauvaise
+utilisation de l'outil numérique ; inventaire d'outil numérique en
+établissement, actions et projets en lien avec l'éducation au numérique
+responsable ; actions dans le cadre du CESCE en lien avec le numérique ;
+nb d'incidents en lien avec les réseaux sociaux ; nature des conflits
+sur les réseaux des élèves qui a un impact néfaste dans l'établissement
+
++----------------------------------+----------------------------------+
+| **Former les élèves à une        | **Le CPE et l'éducation au       |
+| culture numérique responsable**  | numérique responsable**          |
++==================================+==================================+
+| **[L'EMI dans le cadre du        | **[Un cadre clair et             |
+| parcours citoyen]**  | explicite]**         |
+| (recherche d'info pour           |                                  |
+| construire leur propre opinion)  | -   Travail avec les élèves sur  |
+|                                  |     une **charte du numérique**  |
+| -   Travail avec l'ensemble de   |     responsable et une **charte  |
+|     la com éducative sur le      |     de l'utilisation des         |
+|     projet établissement         |     ordinateurs**                |
+|                                  |                                  |
+|     -   Sensibiliser aux enjeux  | -   Mettre à jour le **RI** sur  |
+|         de la **culture          |     l'utilisation du portable    |
+|         numérique**              |                                  |
+|                                  | -   **HVC** : expliciter         |
+|     -   Sensibiliser aux         |     l'intérêt du numérique et    |
+|         **enjeux de l'EMI**      |     les punitions en cas de      |
+|                                  |     non-respect des règles       |
+|     -   Permettre aux élèves     |                                  |
+|         d'exercer leur           | **[Favoriser l'engagement des    |
+|         citoyenneté dans une     | élèves]**            |
+|         société de l'info et de  |                                  |
+|         la com, **former des     | -   Formation des **délégués** = |
+|         cyber-citoyens actifs,   |     travaille sur la             |
+|         éclairés et              |     problématique du cyber       |
+|         responsables**           |     harcèlement                  |
+|                                  |                                  |
+|     -   Permettre la             | -   **EMC / prof doc** : travail |
+|         compréhension et         |     sur l'utilisation des médias |
+|         **l'usage autonome des   |     sociaux/fake news            |
+|         médias** par les élèves  |                                  |
+|         qui sont à la fois       | -   **CVC/CVL **: Former des     |
+|         lecteurs/producteurs et  |     ambassadeurs du non au       |
+|         diffuseurs de contenus   |     harcèlement                  |
+|                                  |                                  |
+|     -   Permettre aux élèves de  | **[Un travail avec les           |
+|         **dvper une pratique     | familles]**          |
+|         citoyenne en lien avec   |                                  |
+|         les médias **:           | -   Animer un café des parents   |
+|         travailler dans le cadre |     sur la question de           |
+|         de l'EMC et prof doc sur |     l'éducation au numérique     |
+|         l'utilisation des médias |     responsable pour assurer la  |
+|         sociaux/fake news        |     continuité éducative et péda |
+|                                  |     à la maison                  |
+|     -   **L'EMI doit être        |                                  |
+|         intégré dans tous les    | -   Sensibiliser au              |
+|         cours** : dvper les      |     cyberharcèlement, conseiller |
+|         compétences de           |     aux familles d'être vigilant |
+|         recherche, de sélection, |                                  |
+|         d'interprétation de      |                                  |
+|         l'information dans le    |                                  |
+|         cadre d'un exposé        |                                  |
++----------------------------------+----------------------------------+
+| **[Agir sur le climat            |                                  |
+| scolaire]**          |                                  |
+|                                  |                                  |
+| -   **Coéducation** :            |                                  |
+|     implication des parents pour |                                  |
+|     réduire le phénomène de      |                                  |
+|     cyber-harcèlement            |                                  |
+|                                  |                                  |
+| -   **Prévention des             |                                  |
+|     violences** : CESCE =        |                                  |
+|     réaliser un plan de          |                                  |
+|     prévention violence et       |                                  |
+|     cyber-violence avec des      |                                  |
+|     actions pour sensibiliser et |                                  |
+|     lutter contre ce phénomène   |                                  |
+|                                  |                                  |
+| -   **Stratégie d'équipe :**     |                                  |
+|     organiser des réunions       |                                  |
+|     d'équipe, conseil péda pour  |                                  |
+|     sensibiliser au numérique et |                                  |
+|     à ses conséquences =         |                                  |
+|     cohérence des équipes        |                                  |
+|                                  |                                  |
+| -   **Coopération **:            |                                  |
+|     sensibiliser les élèves sur  |                                  |
+|     la questions des médias, du  |                                  |
+|     cyberharcèlement : prévenir  |                                  |
+|     le phénomène dans le cadre   |                                  |
+|     du parcours citoyen :        |                                  |
+|     prévenir les comportements ; |                                  |
+|     accompagner les victimes ;   |                                  |
+|     rappeler l'importance des    |                                  |
+|     témoins                      |                                  |
+|                                  |                                  |
+| -   **Pratiques                  |                                  |
+|     partenariales **:            |                                  |
+|     associations ou partenaires  |                                  |
+|     pour sensibiliser à la       |                                  |
+|     question ; relais pour gérer |                                  |
+|     la prise en charge           |                                  |
+|     individuelle des auteurs et  |                                  |
+|     victimes                     |                                  |
+|                                  |                                  |
+| -   **La qualité de vie à        |                                  |
+|     l'école **: améliorer et     |                                  |
+|     diminuer les phénomènes de   |                                  |
+|     violences et de              |                                  |
+|     cyberharcèlement à travers   |                                  |
+|     le plan de violence favorise |                                  |
+|     le sentiment de sécurité et  |                                  |
+|     le bien être des élèves      |                                  |
++----------------------------------+----------------------------------+
+
+***Vous êtes CPE en lycée pro, dans le cadre de la réécriture du projet
+établissement, et plus particulièrement dans le suivi du volet éducatif,
+vous proposerez au chef d'établissement un projet d'actions d'éducation
+aux médias visant à lutter contre la désinformation.***
+
+***En quoi l'éducation aux médias permet de former des futurs citoyens
+éclairés et responsables pour qu'ils puissent lutter contre la
+désinformation ?***
+
+(*A la fin des enjeux) ...* Alors que le numérique prend une place de
+plus en plus importante dans la vie de chacun, notamment pour
+s'informer, il est nécessaire de former les élèves aux mauvaises
+information qui circulent pour qu'ils deviennent de futurs citoyens
+éclairés et responsables.
+
+**Diagnostic** : Une remontée de l'ensemble des équipes selon laquelle
+les élèves ne savent pas gérer leur source, rendent des devoirs sans
+légende ni source avérée ; des devoirs faux à cause des mauvaises
+sources
+
+**Objectif** : Apprendre aux élèves à vérifier les sources des
+informations
+
+**Compétence** travail sur la construction de l'information
+
+**Equipe pilote** : CPE, Prof doc, prof EMC, référent EMI (si possible)
+
+**Public ciblé** élève de seconde
+
+**Quand** Sur la semaine de la presse
+
+**Organisation :** Plusieurs séances / Au CDI et en classe / Ateliers
+
+**[Actions :]
+<https://www.pedagogie.ac-nantes.fr/documentation/enseignement/sequences/les-fake-news-1171016.kjsp>**
+
+**1^re^ séance** (1h) (en classe) = DECOUVERTE
+
+Brainstorming sur les supports et manière dont on s'informe
+aujourd'hui : réseaux sociaux ; radio ; journal ; tv 
+
+Différence entre une info en ligne, à la télé, à la radio, etc =
+circulation très rapide de l'info, c'est elle qui vient à nous, plus
+besoin de la chercher
+
+Quel support privilégié pour une info rapide ? Comment être sûr de sa
+fiabilité ?
+
+Photo de presse à vidéo projeter, sans légende et demander aux élèves ce
+qu'ils en pensent, décrire à l'oral ce qu'ils voient, proposer une
+légende, puis donner la véritable source et légende aux élèves, laisser
+les élèves s'exprimer avec la vraie légende
+
+**Objectif** **faire réaliser aux élèves que l'on peut faire croire
+n'importe quoi sans avoir la vraie source de l'image**
+
+Montrer 3 images (la même) aux élèves sur des réseaux différents avec
+des légendes différentes et leur demander laquelle est vraie à première
+vue
+
+Se rendre compte que les 3 légendes peuvent correspondre si nous n'avons
+pas le contexte de l'image, ni la source réelle.
+
+Leur montrer comment faire pour remonter à la source d'une image ou
+vidéo
+
+**Objectif Adopter la bonne attitude avant de relayer une information =
+vérifier la source**
+
+**2^e^ séance** (1h) (Au CDI) = Mise en application
+
+Par groupe, les élèves vont devoir analyser une photo d'un post sur un
+réseau social et deux articles en ligne. Chaque groupe n'a pas la même
+photo ni les mêmes articles
+
+**Objectif** Vérifier d'où vient la photo du post et les auteurs des
+articles, faire des recherches sur la véracité de ces informations
+
+**3^e^ séance** (1h) (en classe) = PRESENTATION
+
+Chaque groupe doit restituer à l'oral son travail de la séance dernière
+en présentant sa photo et ses articles et la vrai source, comment il a
+procédé
+
+Travail d'écoute des uns et des autres
+
+**4^e^ séance** (2 fois 1h) = (au CDI) = CONCOURS AFFICHE DE FAKE NEWS
+
+Chaque groupe doit choisir un sujet sur lequel il souhaite travailler,
+valider par l'enseignant ou le CPE
+
+Créer une fake news sous la forme d'une publication sur internet, d'un
+réseau social, un article, ...
+
+Sous format A3 pour avoir un côté la fake news et de l'autre la vraie
+info avec la vrai légende et source
+
+Afficher les productions des élèves dans le hall du lycée
+
+L'ensemble du lycée a une semaine pour voter pour élire la meilleure
+fake news
+
+**[Perspective]** : Prévention réseaux sociaux comment
+utiliser les réseaux, peut-on tout partager sur son propre réseau
+social, à la vue de tous ?
+
+Par l'éducation aux médias et à l'information (EMI), les élèves
+apprennent à devenir des citoyens responsables dans une société marquée
+par la multiplication et l'accélération des flux d'information.
+Transversal, l\'apprentissage des médias et de l\'information se déploie
+tout au long de la scolarité. Ils développent leur esprit critique et
+sont capables d'agir de manière éclairée pour chercher, recevoir,
+produire et diffuser des informations via des médias de plus en plus
+diversifiés.
+
+Cette éducation, visant à comprendre la fabrication et la diffusion
+d\'une information, passe par la connaissance et l\'utilisation des
+médias (télévision, radio, presse écrite, web, réseaux sociaux) d\'une
+part, et par la mise en pratique des élèves d\'autre part.
+
+
+
+![Tableau 15-NUMERIQUE](images/15-NUMERIQUE.png)
+
+
+
+# 16-ESPACE-SCOLAIRE
+[Retour au sommaire](#sommaire)
+
+L'utilisation des espaces d'un établissement scolaire est aujourd'hui un
+sujet de préoccupation des politiques éducatives. Ainsi, des démarches
+sont proposées par le ministère incitant les communautés éducatives à
+rénover voire à reconstruire leurs locaux. Il s'agit de se pencher sur
+l'organisation de ces espaces dits scolaires au-delà de leur simple
+aménagement, respectant une approche collaborative.
+
+Les différents acteurs du système éducatif français s'interrogent
+aujourd'hui sur l'impact qu'une réflexion sur le bâti scolaire peut
+avoir sur le climat d'un établissement et sur la plus-value de
+l'utilisation des différents espaces d'un collège ou d'un lycée pour les
+apprentissages des élèves. De plus en plus de chercheurs publient sur ce
+sujet, témoignant de la nécessité d'adapter les espaces scolaires dans
+leur aménagement et dans leur utilisation aux besoins de la communauté
+pédagogique et éducative. Dans les collèges et les lycées des
+changements s'opèrent quant à une réorganisation plus rationnelle des
+différents espaces dédiés aux activités dans la classe et hors la
+classe.
+
+La crise sanitaire liée à la pandémie du COVID-19 est venue conforter
+cet élan en bousculant en particulier l'organisation des enseignements
+et donc des emplois du temps des EPLE, déjà mis à l'épreuve. L'impact
+sur l'utilisation des locaux de l'établissement est direct : les
+protocoles sanitaires imposent une nouvelle appropriation des
+espace-temps, en présentiel et à distance par les élèves et par les
+adultes de la communauté.
+
+Le numérique prend une place inédite et confortée s'agissant des
+enseignements mais aussi des différentes activités de l'établissement
+comme le suivi des élèves, la tenue des instances et les différentes
+activités événementielles.
+
+Au sein des EPLE, le service vie scolaire a toute sa place pour
+contribuer à ces travaux et à ces réflexions.
+
+Au cœur de l'analyse des besoins des élèves s'agissant de leurs
+activités hors la classe, de leur suivi et de leurs espaces de vie
+scolaire, le conseiller principal d'éducation a un rôle primordial à
+jouer dans les projets mis en œuvre quant à l'utilisation de ces lieux
+de vie.
+
+**Pascal Clerc, [La salle de classe : un objet
+géographique], (2020) **:
+
+-   Le dispositif qui incarne le mieux la salle de classe, dans ses
+    représentations, est celui de l'autobus
+
+-   Vincent Faillet (2017) évoque un nouveau modèle, celui des ilots
+    favorise la coopération et les échanges entre pairs = autonomie des
+    élèves
+
+-   Le U favorise la discussion et les débats
+
+**[La période de pandémie a révélé des problématiques sur d'architecture
+scolaire en France]**
+
+-   La capacité des salles de classe notamment la densité qui ne
+    facilite pas les apprentissages
+
+-   Couloirs et escaliers = impensé, problème de circulation dans les
+    intercours
+
+-   Nombre de toilettes, de lavabos
+
+-   Le bruit rend invivable certains espaces
+
+**L'enquête PISA** \[Programme international pour le suivi des acquis\]
+**2018** montre que les élèves français sont ceux qui, de très loin, ont
+le plus faible sentiment d'appartenance à leur établissement
+
+Malgré la question sécuritaire, il faut donc faire des **espaces
+scolaires des lieux plus accueillants**, que les élèves auront envie
+d'aimer et d'habiter, de s'approprier, des lieux d'apprentissage, mais
+aussi de vie et parfois de détente.
+
+![](media/image1.png){width="4.3069444444444445in"
+height="5.450694444444444in"}
+
+La façon dont un espace est organisé influence les relations entre les
+personnes. Dans le cas d'une salle de classe, il est tentant de chercher
+à compenser l'organisation hiérarchique de ces pièces en réaménageant le
+mobilier au profit des apprenants.
+
+Afin de mieux occuper ces lieux, Xavier Garnier, ambassadeur du Futur
+Classroom Lab de 2015 à 2020, projet européen de développement de
+laboratoires pédagogiques, milite pour l'utilisation de la pensée design
+: « Fondamentalement, le design thinking est une démarche centrée sur
+l'utilisateur. Dans une salle de classe ce sont les élèves. Ainsi,
+lorsqu'on veut impliquer les élèves dans la transformation de leur salle
+de classe, c'est naturel de penser à la méthode design ».
+
+-   Importance de mobiliser les élèves dans le projet (CVC/CVL)
+
+Importance de la couleur et de la luminosité extérieur comme l'éclairage
+intérieur
+
+Penser au casier, notamment pour les élèves DP
+
+Club
+
+***CPE nouvellement nommée en collège, le chef d'établissement vous
+demande de participer à la réécriture du projet établissement en
+proposant un axe autour de l'aménagement et de l'utilisation des
+espaces.***
+
+***Dans quelles mesures, l'organisation des espaces au sein du collège
+est source de sentiment d'appartenance chez les élèves et facteur de
+réussite ?***
+
+**[Axe 1]** : Aménagement des salles d'études
+
++----------------------+----------------------+----------------------+
+| **OBJECTIFS**        | **ACTIONS**          | **EVALUATION**       |
++======================+======================+======================+
+| **Fournir des        | **Première salle** : | Concentration des    |
+| conditions de        | moitié autobus,      | élèves, la mise au   |
+| travail favorables** | moitié ilots, 2 ou 3 | travail, le travail  |
+|                      | postes ordi, casque  | de groupe, le bien   |
+|                      | anti-bruit, vidéo    | être, le sentiment   |
+|                      | projecteur (video,   | d'appartenance, les  |
+|                      | quizz)               | résultats scolaire,  |
+|                      |                      | la réussite, le      |
+|                      | **Deuxième salle :** | climat               |
+|                      | table en ilot,       |                      |
+|                      | tableau pour écrire, |                      |
+|                      | des poufs, des       |                      |
+|                      | livres de poche      |                      |
+|                      |                      |                      |
+|                      | **Utilisation du     |                      |
+|                      | hall **: table       |                      |
+|                      | haute ; fauteuils ;  |                      |
+|                      | des bancs            |                      |
+|                      |                      |                      |
+|                      | **Pièce du bien      |                      |
+|                      | être **: lumière     |                      |
+|                      | tamisée, musique     |                      |
+|                      | zen, fauteuils       |                      |
++----------------------+----------------------+----------------------+
+
+[Aménagement des espaces éducatifs -- Classe de demain
+(classe-de-demain.fr)](https://www.classe-de-demain.fr/accueil)
+
+**Tabouret oscillant**
+
+**Ztools**
+
+**Siège avec tablette**
+
+**Coussin de sol**
+
+**LA PLACE DU CPE**
+
+**Circulaire de mission 2015** CPE assure la gestion des espaces et des
+temps de vie scolaire des élèves
+
+Garantir le bien-être des élèves est une priorité des politiques
+éducatives. Le CPE a de multiples occasions de s'investir dans ces
+réflexions et démarches. L'une d'entre elles est la réflexion autour de
+l'aménagement des espaces en établissement.
+
+Ils ont auprès des chefs d'établissement un rôle de conseil pour le
+respect des rythmes de vie et de travail des élèves, en amont de
+l'élaboration des emplois du temps.
+
+Ils participent, avec le(s) professeur(s) documentaliste(s), et dans le
+respect des missions de chacun, à la prise en charge des élèves hors du
+temps de classe pour favoriser les apprentissages, notamment en mettant
+à leur disposition les espaces et les ressources nécessaires.
+
+Les CPE peuvent également avoir un rôle de conseil auprès de l'adjoint
+gestionnaire de l'établissement sur l'organisation des lieux de
+restauration, d'hébergement pour les internats, de travail et de détente
+qui contribue au bien-être et à la qualité de vie des élèves
+
+
+
+![Tableau 16-ESPACE-SCOLAIRE](images/16-ESPACE-SCOLAIRE.png)
+
+
+
+# 17-LES-CONDUITES-ADDICTIVES
+[Retour au sommaire](#sommaire)
+
+Selon la DEPP, en 2021, 29,1% des élèves de 3e ont expérimenté la
+cigarette. Ainsi, le tabagisme quotidien apparait surtout en classe de
+troisième, se poursuit et progresse durant les années lycée, passant de
+14 % de fumeurs en seconde à 21,5 % en terminale.
+
+Pour limiter les conduites addictives, les boissons énergisantes sont
+interdites depuis 2008 dans l'enceinte des établissements. Leurs
+ingrédients peuvent entraîner une hyper excitation, une irritabilité,
+une nervosité et une augmentation de l\'anxiété. Et ainsi, toutes
+boissons alcoolisées et de consommation de substances illicites sont
+également interdites.
+
+L'addiction se caractérise par l'impossibilité répétée de contrôler un
+comportement et la poursuite de ce comportement en dépit de la
+connaissance de ses conséquences négatives. La notion de conduite
+addictive comprend à la fois les addictions aux substances psychoactives
+(alcool, tabac, drogues illicites) mais également les addictions
+comportementales, sans substances psychoactives (jeu, par exemple).
+
+La prévention des conduites addictives en milieu scolaire s'inscrit dans
+une démarche globale de promotion de la santé et d'éducation à la
+citoyenneté. Dans le second degré, les addictions et la lutte contre les
+conduites addictives sont également abordées dans le cadre des
+enseignements disciplinaires. Par exemple, dans les programmes de
+sciences de la vie et de la Terre, de prévention santé environnement
+**(PSE)** en enseignement professionnel qui comporte un volet relatif
+aux conduites addictives et leurs conséquences, les mesures préventives
+de la lutte contre les addictions, les mesures répressives associées.
+
+L'éducation aux médias et à l'information (EMI) et l'enseignement moral
+et civique (EMC) participent également à cette prévention.
+
+**[ENJEUX]** :
+
+-   Permettre à chaque jeune d'adopter des comportements responsables et
+    faire des choix éclairés pour lui-même et pour les autres dans la
+    perspective d'une citoyenneté active.
+
+-   Elle vise à aider chaque jeune à s'approprier progressivement les
+    moyens d'opérer des choix, d'adopter des comportements responsables,
+    pour lui-même comme vis-à-vis d'autrui et de l'environnement. Elle
+    permet de le préparer à exercer sa citoyenneté avec responsabilité
+    et contribue à la construction individuelle et sociale des enfants
+    et des adolescents. Elle constitue ainsi une composante de
+    l'éducation du citoyen.
+
+**[Cadre]**
+
+-   **Parcours santé** crée en 2013 par la loi PEILLON avec pour
+    objectif d'assurer l'éducation, la prévention et la protection de la
+    santé des élèves
+
+-   **Loi de 2019** = école de la confiance bien être des élèves
+
+-   **BATTAGLIA**, *[Les conduites addictives]*, 2014
+
+**[Diagnostic]** : élève fatigué en classe, chute des
+résultats, retard, abs, de plus en plus d'élèves fumeurs devant
+l'établissement
+
+**[ACTIONS :]** Donner aux élèves les moyens de maîtriser
+des connaissances et des compétences relatives à leur santé et à leur
+bien-être notamment dans le domaine des addictions.
+
+Établir un partenariat avec la **Consultation jeunes consommateurs**
+(CJC) de proximité, crée en 2005
+
+Dans le cadre du CESCE
+
+Lien avec infirmière et Psy EN
+
+**1^re^ séance :**
+
+-   **Brainstorming** sur « les consommations addictives »
+
+-   Regrouper par thématique : alcool, drogue, sexualité, jeux vidéo,
+    outils numériques
+
+-   Montrer des vidéos sur chaque thème
+
+-   Sensibiliser les élèves sur le fait que la [substance
+    consommée] peut être détectée dans notre corps après
+    plusieurs heures et jours après consommation
+
+-   Débat avec les élèves, leur ressenti, comment réduire, à qui en
+    parler
+
+-   Rappeler la loi, prison, amende, conséquence sur soi
+
+**2^e^ séance :**
+
+-   **Fiche info anonyme** as-tu déjà consommé, si oui = quel produit ;
+    la fréquence ; pourquoi ; depuis combien de temps ; essaies-tu
+    d'arrêter conduire les élèves à une prise de conscience
+
+-   Ramassage des fiches, mélanger, redistribuer et chacun peut lire la
+    fiche pour que l'ensemble se rendre compte
+
+-   Travailler sur les compositions des produits, sur les effets
+    néfastes, les conséquences de ces consommations addictives
+
+**3^e^ séance :**
+
+-   **Réalisation d'affiche** de prévention sur une conduite à risque,
+    en groupe
+
+**AUTRES ACTIONS :** Donner les moyens aux élèves d'être aptes à
+demander de l'aide pour eux-mêmes et pour les autres.
+
+**Depuis 2016, le ministère chargé de l\'éducation nationale soutient
+l\'opération « Moi(s) Sans Tabac »**
+
+17% des lycéens fument quotidiennement et les lycéens pro fument plus
+que les lycéens généraux
+
+**Avec les élèves du CVL, organiser la semaine sans tabac au sein du
+lycée**
+
+-   Créer une affiche sur l'évènement
+
+-   Délégué de classe passe l'info en classe
+
+-   Organisation d'un stand à l'effigie du mois sans tabac (stand jaune)
+    où on expose les affiches des élèves sur la prévention des conduites
+    addictives
+
+-   Lycéens peuvent voter au stand pour la meilleure affiche
+
+-   Sur le stand : CJC, flyer sur comment réduire sa conso, comment
+    s'occuper l'esprit, etc
+
+-   Les élèves peuvent discuter avec des professionnels
+
+**Meilleures affiches** : afficher à l'infirmerie sur l'année, lien avec
+la mairie pour afficher dans la ville, sur l'ENT
+
+**EVALUER L'ACTION !!**
+
+**Perspectives Organiser une conférence** dans l'établissement en fin de
+journée avec les enseignants de PSE, des professionnels de santé
+(psychiatre, psychologue), sur les conduites addictives et quelques
+conseils, en invitant les parents pour faire de la prévention et
+répondre à leurs questions et inquiétudes sur ces conduites
+
+**[La place du CPE]**
+
+Conseiller technique du CE conseiller sur mesures disciplinaires,
+commission éducative, projet d'actions
+
+Responsable de service AED référent de classe = rôle alerte sur les abs,
+retard, comportement etc
+
+Lien avec les familles, coéducation
+
+Travail en étroite collaboration dans le cadre de l'action éducative
+avec les personnels socio de santé et psy EN pour le bien être des
+élèves, leur santé, leur sécurité = réussite
+
+
+
+![Tableau 17-LES-CONDUITES-ADDICTIVES](images/17-LES-CONDUITES-ADDICTIVES.png)
+
+
+
+# 18-RECAP-PARCOURS-EDUCATIFS
+[Retour au sommaire](#sommaire)
+
+**[PARCOURS CITOYEN]**
+==================================
+
+Vivre-ensemble ; insertion sociale et professionnelle ; épanouissement
+per = climat scolaire
+
+**[Objectifs]** :
+
+-   Expliquer les droits, devoirs et responsabilités
+
+-   Développer l'esprit critique
+
+-   Forger la culture de l'engagement
+
+-   Transmettre les valeurs de la république
+
+EMC + EMI + Réserve citoyenne + semaine de l'engagement et de la
+démocratie scolaire
+
+**Semaine de l'engagement** 3 semaines où les élèves sont sensibilisés à
+l'engagement dans l'établissement
+
+Au lycée par exemple, avec le référent vie lycéenne qui organise des
+séances sur l'engagement, fait découvrir aux élèves leurs droits et
+devoirs, découvrent le fonctionnement des instances,
+
+**Semaine de la démocratie** les élections ont lieu après les 3 semaines
+de l'engagement
+
+Développe le sentiment d'appartenance
+
+**[PARCOURS SANTE]**
+================================
+
+Bien-être, sécurité, citoyenneté, responsabilité
+
+**Loi PEILLON -- 2013** *Les élèves bénéficient d'actions de prévention
+et d'information, de visites médicales et de dépistages obligatoires qui
+constituent leur parcours de santé*
+
+**L'éducation** développement de compétences, connaissances
+
+**Prévention** informer et limiter les conduites à risques
+
+**Protection** créer un environnement favorable au bien être et à la
+santé
+
+**[PARCOURS AVENIR]** 
+=================================
+
+Insertion sociale et professionnelle ; développement personnel ;
+réussite scolaire
+
+**Loi PEILLON -- 2013** : création du parcours avenir = parcours
+individuel d'information et de découverte du monde économique et
+professionnel (institué en 2015)
+
+-   Découverte du monde économique et professionnel
+
+-   Développer le sens de l'initiative et de l'engagement
+
+-   Elaborer un projet d'orientation scolaire et professionnel
+
+**[PARCOURS ART ET CULTURE]** 
+=========================================
+
+Favoriser un égal accès à l'art et à la culture à tous les élèves, peu
+importe leur milieu
+
+**Objectif** Mettre en cohérence enseignements et actions éducatives,
+les relier aux expériences personnelles, les enrichir et les diversifier
+
+
+
+![Tableau 18-RECAP-PARCOURS-EDUCATIFS](images/18-RECAP-PARCOURS-EDUCATIFS.png)
+
+
+
 # Méthodo-oraux-concours
 [Retour au sommaire](#sommaire)
 
@@ -7344,6 +7416,10 @@ validation du chef d'établissement sur le projet, on fait une appel à
 projet pour le financement
 
 Etre claire et explicite, propos structuré
+
+
+
+![Tableau Méthodo-oraux-concours](images/Méthodo-oraux-concours.png)
 
 
 
