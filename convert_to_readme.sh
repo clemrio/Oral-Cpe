@@ -32,21 +32,27 @@ if [ -f "$OUTPUT_FILE" ]; then
 fi
 
 # En-tête du fichier Readme.md
-echo "# Table of Contents" > "$OUTPUT_FILE"
+echo "# Sommaire" > "$OUTPUT_FILE"
 echo "" >> "$OUTPUT_FILE"
 
-# Convertissez et fusionnez tous les fichiers .docx en Readme.md
+# Parcourez et fusionnez tous les fichiers .docx en Readme.md
 for FILE in "$DIRECTORY"/*.docx; do
     if [ -f "$FILE" ]; then
+        # Obtenez le nom du fichier sans extension
+        FILENAME=$(basename "$FILE" .docx)
+        
         # Convertir le fichier docx en markdown temporaire
         pandoc "$FILE" -t markdown -o "$TEMP_FILE"
 
         # Nettoyer les balises indésirables
         sed -i'' -e 's/{.underline}//g' "$TEMP_FILE"
         sed -i'' -e 's/<!-- -->//g' "$TEMP_FILE"
-        sed -i'' -e 's/\*\*//g' "$TEMP_FILE"
         sed -i'' -e 's/{width="[^"]*" height="[^"]*"//g' "$TEMP_FILE"
 
+        # Ajouter le titre du document original comme titre de niveau 1
+        echo "# $FILENAME" >> "$OUTPUT_FILE"
+        echo "" >> "$OUTPUT_FILE"
+        
         # Ajouter le contenu nettoyé au fichier de sortie
         cat "$TEMP_FILE" >> "$OUTPUT_FILE"
         echo -e "\n\n" >> "$OUTPUT_FILE"  # Ajoutez des nouvelles lignes entre les fichiers
@@ -54,7 +60,7 @@ for FILE in "$DIRECTORY"/*.docx; do
 done
 
 # Ajouter un lien vers le sommaire après chaque titre de niveau 1
-sed -i'' -e 's/^# \(.*\)/# \1\n[Retour au sommaire](#table-of-contents)/g' "$OUTPUT_FILE"
+sed -i'' -e 's/^# \(.*\)/# \1\n[Retour au sommaire](#sommaire)/g' "$OUTPUT_FILE"
 
 # Ajouter le sommaire avec uniquement les titres de niveau 1
 echo -e "\n# Sommaire\n" > temp_toc.md
