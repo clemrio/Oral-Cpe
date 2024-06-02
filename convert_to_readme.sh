@@ -1,15 +1,18 @@
 #!/bin/bash
 
-# Vérifiez si pandoc et ImageMagick sont installés
-if ! command -v pandoc &> /dev/null
-then
+# Vérifiez si pandoc, ImageMagick et wkhtmltoimage sont installés
+if ! command -v pandoc &> /dev/null; then
     echo "pandoc n'est pas installé. Vous pouvez l'installer via Homebrew : brew install pandoc"
     exit
 fi
 
-if ! command -v convert &> /dev/null
-then
+if ! command -v convert &> /dev/null; then
     echo "ImageMagick n'est pas installé. Vous pouvez l'installer via Homebrew : brew install imagemagick"
+    exit
+fi
+
+if ! command -v wkhtmltoimage &> /dev/null; then
+    echo "wkhtmltoimage n'est pas installé. Vous pouvez l'installer via Homebrew : brew install wkhtmltopdf"
     exit
 fi
 
@@ -61,6 +64,26 @@ for FILE in $(ls "$DIRECTORY"/*.docx | sort -V); do
         sed -i'' -e 's/{width="[^"]*" height="[^"]*"//g' "$TEMP_FILE"
         sed -i'' -e 's/{=[a-z]*}//g' "$TEMP_FILE"
 
+        # Extraire et convertir les tableaux en images
+        grep -E '\|\s*(\|.*)*' "$TEMP_FILE" > temp_table.txt
+        if [ -s temp_table.txt ]; then
+            # Convertir les tableaux en HTML
+            echo "<html><body><table>" > temp_table.html
+            cat temp_table.txt >> temp_table.html
+            echo "</table></body></html>" >> temp_table.html
+
+            # Convertir le HTML en image
+            IMG_FILE="$IMG_DIR/$FILENAME-table.png"
+            wkhtmltoimage temp_table.html "$IMG_FILE"
+
+            # Supprimer le tableau original du fichier markdown
+            sed -i'' -e '/\|\s*(\|.*)*/d' "$TEMP_FILE"
+
+            # Insérer l'image du tableau dans le fichier markdown
+            echo "![Tableau $FILENAME]($IMG_FILE)" >> "$TEMP_FILE"
+            echo -e "\n\n" >> "$TEMP_FILE"
+        fi
+
         # Ajouter le titre du document original comme titre de niveau 1
         echo "# $FILENAME" >> "$OUTPUT_FILE"
         echo "" >> "$OUTPUT_FILE"
@@ -68,20 +91,6 @@ for FILE in $(ls "$DIRECTORY"/*.docx | sort -V); do
         # Ajouter le contenu nettoyé au fichier de sortie
         cat "$TEMP_FILE" >> "$OUTPUT_FILE"
         echo -e "\n\n" >> "$OUTPUT_FILE"  # Ajoutez des nouvelles lignes entre les fichiers
-        
-        # Convertir le fichier docx en PDF puis en PNG pour les tableaux
-        PDF_FILE="$IMG_DIR/$FILENAME.pdf"
-        PNG_FILE="$IMG_DIR/$FILENAME.png"
-        
-        # Convertir en PDF
-        pandoc "$FILE" -o "$PDF_FILE"
-        
-        # Convertir en PNG
-        convert -density 300 "$PDF_FILE" -quality 100 "$PNG_FILE"
-        
-        # Insérer l'image dans le fichier Markdown
-        echo "![Tableau $FILENAME]($PNG_FILE)" >> "$OUTPUT_FILE"
-        echo -e "\n\n" >> "$OUTPUT_FILE"
     fi
 done
 
@@ -95,6 +104,6 @@ cat temp_toc.md "$OUTPUT_FILE" > temp_with_toc.md
 mv temp_with_toc.md "$OUTPUT_FILE"
 
 # Supprimez les fichiers temporaires
-rm "$TEMP_FILE" temp_toc.md
+rm "$TEMP_FILE" temp_toc.md temp_table.txt temp_table.html
 
 echo "Conversion terminée. Le fichier Readme.md a été créé."
